@@ -9,5 +9,5 @@ Installation with Conda is recommended. Tested with Python `3.12`. Run the follo
 ```
 conda create -n contradetect python=3.12
 conda activate contradetect
-conda install ipykernel pytorch pytorch-cuda nltk transformers transformers[torch] tokenizers huggingface_hub pandas matplotlib -c nvidia -c pytorch
+conda install ipykernel ipywidgets pytorch pytorch-cuda scikit-learn nltk transformers transformers[torch] tokenizers sentence_transformers huggingface_hub pandas matplotlib -c nvidia -c pytorch
 ```
