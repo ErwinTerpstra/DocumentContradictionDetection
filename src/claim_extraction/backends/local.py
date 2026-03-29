@@ -89,7 +89,7 @@ def _load_local_model(model_name: str) -> Tuple[Any, Any, torch.device]:
         )
 
     tokenizer = AutoTokenizer.from_pretrained(model_name, token=hf_token)
-    model = AutoModelForCausalLM.from_pretrained(model_name, dtype=dtype, token=hf_token)
+    model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=dtype, token=hf_token)
     model = cast(Any, model).to(device)
     _LOCAL_MODEL_CACHE[model_name] = (tokenizer, model, device)
     return tokenizer, model, device
