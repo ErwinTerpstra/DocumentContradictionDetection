@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 """Claim extraction scaffolding for document contradiction detection.
 
 This module offers one primary function:
@@ -10,17 +12,45 @@ Key features:
 - Include a smoke test that runs claim extraction twice on a long story.
 """
 
-from __future__ import annotations
+####################################################################################################
+
+CONTRADOC_STORY_ID_OVERRIDE = "3489825766_2"  # Set to a specific ContraDoc story ID to use that story in the smoke test instead of the fallback story.
+
+####################################################################################################
+
+DIRECT_CLAIM_PROMPT_TEMPLATE = """You are an expert logical analyst. 
+Extract every individual, checkable claim from the text below as a standalone atomic statement.
+
+Rules:
+1) ATOMICITY: One statement per line. Break complex sentences into multiple simple ones.
+2) DECONTEXTUALIZATION: Every claim must be understandable without the rest of the text. 
+   - Replace all pronouns (he, she, they, it) with the specific names/entities they refer to.
+   - Example: 'Mrs. Frisby saves Jeremy' instead of 'She saves him'.
+3) QUANTIFIERS: Explicitly include quantities, frequencies, and limits (e.g., 'exactly two', 'all', 'never', 'only').
+4) MODALITY: Capture if something is a fact, a goal, a belief, or a requirement.
+   - Example: 'The rats intend to move to a farm' (Goal) vs 'The rats move to a farm' (Fact).
+5) NO NOISE: No intro, no bullets (- or *), no numbering, no explanations. 
+6) VERACITY: Do not interpret; stay 100% faithful to the text's literal meaning.
+
+Text:
+{text}
+"""
+
+####################################################################################################
+
 
 import json
 import os
+import random
 import re
+import sys
 import urllib.error
 import urllib.request
 from dataclasses import dataclass
 from typing import Any, Dict, List, Literal, Optional, Tuple, cast
 
 import torch
+from dotenv import dotenv_values
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 try:
@@ -30,6 +60,7 @@ except Exception:
 
 
 BackendType = Literal["local", "remote"]
+DOTENV_PATH = os.path.join(os.path.dirname(__file__), ".env")
 
 
 @dataclass
@@ -49,6 +80,56 @@ class ExtractionConfig:
 
 
 _LOCAL_MODEL_CACHE: Dict[str, Tuple[Any, Any, torch.device]] = {}
+
+
+def _estimate_model_params_billions(model_name: str) -> Optional[float]:
+	"""Best-effort parse of model size from names like 'Qwen/Qwen3-8B'."""
+	match = re.search(r"(\d+(?:\.\d+)?)\s*[Bb]\b", model_name)
+	if not match:
+		return None
+	try:
+		return float(match.group(1))
+	except ValueError:
+		return None
+
+
+def _available_memory_gb(device: torch.device) -> Optional[float]:
+	"""Return available memory in GB for the selected execution device."""
+	if device.type == "cuda" and torch.cuda.is_available():
+		try:
+			idx = torch.cuda.current_device()
+			props = torch.cuda.get_device_properties(idx)
+			return float(props.total_memory) / (1024**3)
+		except Exception:
+			return None
+
+	if sys.platform.startswith("linux"):
+		try:
+			with open("/proc/meminfo", "r", encoding="utf-8") as f:
+				for line in f:
+					if line.startswith("MemAvailable:"):
+						parts = line.split()
+						if len(parts) >= 2:
+							kb = float(parts[1])
+							return kb / (1024**2)
+		except Exception:
+			return None
+
+	return None
+
+
+def _estimate_required_memory_gb(model_name: str, dtype: torch.dtype, device: torch.device) -> Optional[float]:
+	"""Estimate required memory for model weights plus runtime overhead."""
+	params_b = _estimate_model_params_billions(model_name)
+	if params_b is None:
+		return None
+
+	bytes_per_param = 2.0 if dtype in (torch.float16, torch.bfloat16) else 4.0
+	weights_gb = (params_b * 1_000_000_000.0 * bytes_per_param) / (1024**3)
+
+	# Add conservative overhead for buffers, activations and framework runtime.
+	overhead_factor = 1.35 if device.type == "cuda" else 1.25
+	return weights_gb * overhead_factor
 
 
 def _log(message: str, verbose: bool) -> None:
@@ -84,25 +165,6 @@ def _claims_from_response(response: str) -> List[str]:
 	return _normalize_claims(lines)
 
 
-def _direct_claim_prompt(text: str) -> str:
-	"""Build a strict prompt for direct claim extraction without Claimify."""
-	return (
-		"You are an expert claim extractor. Extract claims from the text below.\n\n"
-		"Rules:\n"
-		"1) Every claim must be atomic: one checkable statement per line.\n"
-		"2) Every claim must be self-contained and explicit. Resolve pronouns and avoid vague references.\n"
-		"3) Prefer maximum uniqueness of entities: include identifying context in the claim itself.\n"
-		"   Example: 'The mouse Tim has a red nose' (not: 'Tim has a red nose').\n"
-		"4) Claims may be facts or conditional if-then statements.\n"
-		"   Example fact: 'There exists a mouse named Tim'.\n"
-		"   Example conditional: 'If the sky falls down, then every human wears a hat'.\n"
-		"5) No summaries, no explanations, no metadata, no numbering.\n"
-		"6) Output only claims, exactly one claim per line.\n\n"
-		"Text:\n"
-		f"{text}"
-	)
-
-
 def _load_local_model(model_name: str) -> Tuple[Any, Any, torch.device]:
 	"""Load and cache a local HF model and tokenizer."""
 	if model_name in _LOCAL_MODEL_CACHE:
@@ -111,8 +173,24 @@ def _load_local_model(model_name: str) -> Tuple[Any, Any, torch.device]:
 	device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 	dtype = torch.float16 if device.type == "cuda" else torch.float32
 
-	tokenizer = AutoTokenizer.from_pretrained(model_name)
-	model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=dtype)
+	hf_token = dotenv_values(DOTENV_PATH).get("HF_TOKEN")
+	if hf_token:
+		# Ensure downstream libraries can also see the token in this process.
+		os.environ.setdefault("HF_TOKEN", hf_token)
+
+	est_required = _estimate_required_memory_gb(model_name, dtype, device)
+	available = _available_memory_gb(device)
+	if est_required is not None and available is not None and est_required > available * 0.9:
+		raise RuntimeError(
+			(
+				"Insufficient available memory for local model load: "
+				f"model={model_name}, required~{est_required:.1f}GB, available~{available:.1f}GB on {device.type}. "
+				"Use a smaller local model, switch to remote backend, or reduce competing memory usage."
+			)
+		)
+
+	tokenizer = AutoTokenizer.from_pretrained(model_name, token=hf_token)
+	model = AutoModelForCausalLM.from_pretrained(model_name, dtype=dtype, token=hf_token)
 	model = cast(Any, model).to(device)
 	_LOCAL_MODEL_CACHE[model_name] = (tokenizer, model, device)
 	return tokenizer, model, device
@@ -157,11 +235,11 @@ def _call_local_llm(prompt: str, config: ExtractionConfig) -> str:
 
 def _call_remote_llm(prompt: str, config: ExtractionConfig) -> str:
 	"""Call a remote OpenAI-compatible Chat Completions endpoint."""
-	api_key = config.remote_api_key or os.getenv("OPENAI_API_KEY")
+	api_key = config.remote_api_key or dotenv_values(DOTENV_PATH).get("OPENAI_API_KEY")
 	if not api_key:
 		raise RuntimeError("Remote backend requested but OPENAI_API_KEY is missing.")
 
-	remote_url = config.remote_url or os.getenv("OPENAI_CHAT_COMPLETIONS_URL")
+	remote_url = config.remote_url or dotenv_values(DOTENV_PATH).get("OPENAI_CHAT_COMPLETIONS_URL")
 	if not remote_url:
 		remote_url = "https://api.openai.com/v1/chat/completions"
 
@@ -297,54 +375,87 @@ def extract_claims(
 		claims = claimify.extract_claims(question=config.question_for_claimify, answer=text)
 		claims = _normalize_claims(claims)
 	else:
-		prompt = _direct_claim_prompt(text)
+		prompt = DIRECT_CLAIM_PROMPT_TEMPLATE.format(text=text)
 		response = _call_llm(prompt, config)
 		claims = _claims_from_response(response)
 
 	_log(f"Extracted {len(claims)} claims.", config.verbose)
 	return claims
 
+####################################################################################################
+#           SMOKE TEST BELOW - RUN THIS FILE DIRECTLY TO EXECUTE THE TEST
+####################################################################################################
+
 
 def smoke_test_claim_extractor() -> None:
 	"""Smoke test: run extraction twice on one long and complex story."""
-	story = (
-		"In the valley of Meridia, a mouse named Tim wore a red brass-button coat and carried a map "
-		"that his grandmother had drawn in 1984. Tim claimed the map showed three bridges over the "
-		"river, but the mayor had announced last winter that only two bridges remained after flooding. "
-		"At dawn, engineer Nora inspected the eastern bridge and told the council that the structure was "
-		"safe for carts lighter than 500 kilograms. During the same meeting, historian Elias argued that "
-		"the eastern bridge had already collapsed in 1999. Tim then said that if the eastern bridge was "
-		"really safe, then every farmer from Oak District would deliver grain by sunset. By noon, two "
-		"farmers from Oak District delivered grain, while four others reported blocked roads. In the "
-		"afternoon, meteorologist Lina predicted heavy rain by evening, and she added that if rainfall "
-		"exceeded 30 millimeters, then the western bridge would close automatically. The rain gauge later "
-		"measured 34 millimeters. Nevertheless, the western bridge remained open until midnight according "
-		"to the city logbook. Separately, archivist Omar wrote that there exists a lighthouse keeper named "
-		"Rae who had never visited Meridia, even though a travel diary signed by Rae described a market "
-		"visit in Meridia in 2022. At the festival, the announcer said the town had exactly 120 lanterns, "
-		"while the inventory sheet listed 118 lanterns and two repaired frames. Finally, council minutes "
-		"stated that if the budget was approved on Tuesday, then the school roof would be repaired before "
-		"October, but the budget vote was postponed to Thursday."
-	)
+	story = """In the valley of Meridia, a mouse named Tim wore a red brass-button coat and carried a map that his grandmother had drawn in 1984. Tim claimed the map showed three bridges over the river, but the mayor had announced last winter that only two bridges remained after flooding. At dawn, engineer Nora inspected the eastern bridge and told the council that the structure was safe for carts lighter than 500 kilograms. During the same meeting, historian Elias argued that the eastern bridge had already collapsed in 1999. Tim then said that if the eastern bridge was really safe, then every farmer from Oak District would deliver grain by sunset. By noon, two farmers from Oak District delivered grain, while four others reported blocked roads. In the afternoon, meteorologist Lina predicted heavy rain by evening, and she added that if rainfall exceeded 30 millimeters, then the western bridge would close automatically. The rain gauge later measured 34 millimeters. Nevertheless, the western bridge remained open until midnight according to the city logbook. Separately, archivist Omar wrote that there exists a lighthouse keeper named Rae who had never visited Meridia, even though a travel diary signed by Rae described a market visit in Meridia in 2022. At the festival, the announcer said the town had exactly 120 lanterns, while the inventory sheet listed 118 lanterns and two repaired frames. Finally, council minutes stated that if the budget was approved on Tuesday, then the school roof would be repaired before October, but the budget vote was postponed to Thursday."""
 
-	has_remote_key = bool(os.getenv("OPENAI_API_KEY"))
+	# Keep the static fallback story, but prefer a random story from ContraDoc when available.
+	dataset_path = os.path.join(os.path.dirname(__file__), "datasets", "ContraDoc", "ContraDoc.json")
+	try:
+		with open(dataset_path, "r", encoding="utf-8") as f:
+			dataset = json.load(f)
+
+		all_examples = []
+		for split_name in ("pos", "neg"):
+			split = dataset.get(split_name, {})
+			if isinstance(split, dict):
+				all_examples.extend(split.values())
+
+		example = None
+		if CONTRADOC_STORY_ID_OVERRIDE != "":
+			example = dataset.get("pos", {}).get(CONTRADOC_STORY_ID_OVERRIDE)
+			if example is None:
+				example = dataset.get("neg", {}).get(CONTRADOC_STORY_ID_OVERRIDE)
+			if isinstance(example, dict) and isinstance(example.get("text"), str) and example["text"].strip():
+				story = example["text"].strip()
+				print(f"Loaded ContraDoc story override: {CONTRADOC_STORY_ID_OVERRIDE}")
+			else:
+				example = None
+
+		if example is None:
+			candidates = [e for e in all_examples if isinstance(e, dict) and isinstance(e.get("text"), str) and e["text"].strip()]
+			if candidates:
+				example = random.choice(candidates)
+				story = example["text"].strip()
+				print(f"Loaded random ContraDoc story: {example.get('unique id', 'unknown-id')}")
+	except Exception as exc:
+		print(f"Could not load ContraDoc random story. Using fallback story. Reason: {exc}")
+
+	print("\n" + "=" * 80)
+	print("Smoke Test Story")
+	print("=" * 80)
+	print(story)
+	print("=" * 80 + "\n")
+
+	has_remote_key = bool(dotenv_values(DOTENV_PATH).get("OPENAI_API_KEY"))
 
 	run_configs = [
 		{
 			"label": "Run 1 - Local model",
-			"model_name": os.getenv("CLAIM_MODEL_1", "Qwen/Qwen3.5-0.8B"),
+			"model_name": dotenv_values(DOTENV_PATH).get("CLAIM_MODEL_1"),
 			"backend": "local",
 		},
 		{
-			"label": "Run 2 - Remote model" if has_remote_key else "Run 2 - Local fallback model",
-			"model_name": (
-				os.getenv("CLAIM_MODEL_2", "gpt-4o-mini")
-				if has_remote_key
-				else os.getenv("CLAIM_MODEL_2", "Qwen/Qwen2.5-0.5B-Instruct")
-			),
-			"backend": "remote" if has_remote_key else "local",
+			"label": "Run 2 - Local model",
+			"model_name": dotenv_values(DOTENV_PATH).get("CLAIM_MODEL_2"),
+			"backend": "local",
 		},
 	]
+
+	if has_remote_key:
+		remote_model = dotenv_values(DOTENV_PATH).get("CLAIM_MODEL_REMOTE")
+		if not remote_model:
+			print("OPENAI_API_KEY is set but CLAIM_MODEL_REMOTE is missing; skipping remote run.")
+		else:
+			run_configs.append(
+				{
+					"label": "Run 3 - Remote model",
+					"model_name": remote_model,
+					"backend": "remote",
+				}
+			)
 
 	for cfg in run_configs:
 		print("\n" + "=" * 80)
