@@ -41,7 +41,7 @@ def call_remote_llm(prompt: str, config: ExtractionConfig) -> str:
     )
 
     try:
-        with urllib.request.urlopen(request) as response:
+        with urllib.request.urlopen(request, timeout=config.remote_timeout) as response:
             body = response.read().decode("utf-8")
     except urllib.error.HTTPError as exc:
         details = exc.read().decode("utf-8", errors="ignore")

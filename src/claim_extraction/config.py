@@ -21,5 +21,6 @@ class ExtractionConfig:
     remote_url: Optional[str] = None
     remote_api_key: Optional[str] = None
     remote_headers: Optional[Dict[str, str]] = None
+    remote_timeout: float = 30.0
     question_for_claimify: str = "Extract all specific and verifiable claims from the answer."
     verbose: bool = True
