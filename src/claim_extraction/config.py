@@ -14,7 +14,7 @@ class ExtractionConfig:
     """Configuration for one extraction run."""
 
     model_name: str
-    backend: str = "local"
+    backend: BackendType = "local"
     temperature: float = 0.2
     max_new_tokens: int = 1024
     use_claimify: bool = False
