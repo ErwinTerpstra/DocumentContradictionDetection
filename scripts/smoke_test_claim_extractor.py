@@ -85,17 +85,21 @@ def main() -> None:
     env = dotenv_values(DOTENV_PATH)
     has_remote_key = bool(env.get("OPENAI_API_KEY"))
 
-    run_configs = [
-        {"label": "Run 1 - Local model", "model_name": env.get("CLAIM_MODEL_1"), "backend": "local"},
-        {"label": "Run 2 - Local model", "model_name": env.get("CLAIM_MODEL_2"), "backend": "local"},
-    ]
+    run_configs = []
+    for idx, key in enumerate(("CLAIM_MODEL_1", "CLAIM_MODEL_2"), start=1):
+        model_name = env.get(key)
+        if not model_name:
+            print(f"{key} is not set in .env; skipping Run {idx} (local model).")
+            continue
+        run_configs.append({"label": f"Run {idx} - Local model", "model_name": model_name, "backend": "local"})
 
     if has_remote_key:
         remote_model = env.get("CLAIM_MODEL_REMOTE")
         if not remote_model:
             print("OPENAI_API_KEY is set but CLAIM_MODEL_REMOTE is missing; skipping remote run.")
         else:
-            run_configs.append({"label": "Run 3 - Remote model", "model_name": remote_model, "backend": "remote"})
+            run_num = len(run_configs) + 1
+            run_configs.append({"label": f"Run {run_num} - Remote model", "model_name": remote_model, "backend": "remote"})
 
     for cfg in run_configs:
         print("\n" + "=" * 80)
