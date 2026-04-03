@@ -1,0 +1,108 @@
+Major League Baseball is a sports video game.
+Major League Baseball was released in 1988.
+Major League Baseball was released for the Nintendo Entertainment System.
+Major League Baseball is notable for being one of the first video games licensed by Major League Baseball.
+Major League Baseball was not endorsed by the Major League Baseball Players Association.
+Major League Baseball could not name the actual players due to the lack of endorsement from the Major League Baseball Players Association.
+Major League Baseball was able to use the players' numbers.
+Major League Baseball accurately portrayed the contemporary teams and their rosters.
+Major League Baseball became the first baseball game for the Nintendo Entertainment System to carry official Major League Baseball licensing and lineups.
+Major League Baseball was developed by Atlus.
+Major League Baseball was published by LJN.
+Major League Baseball featured many facets of realistic gameplay.
+Major League Baseball focused on managerial details.
+Choosing a well-balanced team is important in Major League Baseball.
+Major League Baseball was considered a three-dimensional game at the time of its release.
+Major League Baseball was featured in the first issue of Nintendo Power.
+There had been two games released with the official endorsement of Major League Baseball prior to 1988.
+In 1980, Mattel Electronics released Major League Baseball for the Atari 2600 and the Intellivision.
+The version of Major League Baseball released in 1980 is also known as Super Challenge Baseball and Big League Baseball.
+The 1980 version of Major League Baseball was developed by APh Technological Consulting.
+In 1984, MicroLeague was licensed to develop and publish MicroLeague Baseball.
+MicroLeague Baseball was released for the Amiga, Atari ST, Commodore 64, and PC.
+MicroLeague Baseball contained contemporary and classic teams and players.
+MicroLeague released extra disks that featured additional lineups.
+In 1988, Atlus signed on to develop an official Major League Baseball game for the Nintendo Entertainment System.
+The 1988 Major League Baseball game was the first official Major League Baseball game for the Nintendo Entertainment System.
+In 1987, Tengen released R.B.I. Baseball for the NES.
+R.B.I. Baseball contained a Major League Baseball Players Association license.
+R.B.I. Baseball did not have an endorsement from Major League Baseball.
+The players were named in R.B.I. Baseball.
+The team names and logos were absent in R.B.I. Baseball.
+Generic place references such as Boston or St. Louis replaced the team names and logos in R.B.I. Baseball.
+An earlier version for the console, entitled Baseball, was released in 1985.
+The earlier version entitled Baseball contained no endorsement from either Major League Baseball or the Major League Baseball Players Association.
+American company LJN agreed to be the publisher of Major League Baseball.
+David Rolfe was brought on board as the game's programmer.
+David Rolfe had previously been a publisher with Activision.
+David Rolfe had been a chief contributor to the foundations of the Intellivision.
+The game features all twenty-six teams that existed in 1987.
+The lineups and player numbers in Major League Baseball are accurate to the team rosters of 1987.
+The team members in Major League Baseball are only listed by number, not name.
+The players in Major League Baseball are represented by their statistics, abilities, throwing arm, and placement in the batting order.
+Major League Baseball was the first NES game to be officially endorsed by Major League Baseball.
+Major League Baseball features accurate contemporary lineups.
+The actual player names are not attached to their numbers in Major League Baseball.
+Managerial decisions are a focus in Major League Baseball.
+Game players are allowed to select their own lineups in Major League Baseball.
+Major League Baseball lacks Sabermetrics statistics due to the limitations of the era.
+The manager in Major League Baseball must make decisions based on data such as player averages and home run totals.
+The manager in Major League Baseball has the ability to change and decide who will be a pinch-hitter.
+The manager in Major League Baseball has the ability to decide who will be a substitute pitcher.
+The manager in Major League Baseball is allowed to pick out a designated hitter.
+The game prohibits players from putting out more team members in a certain part of the field than would normally be allowed.
+Deciding which player will be used where is part of the experience in Major League Baseball.
+There are three modes that can be played in Major League Baseball: regular season games, All-Star games, or the World Series.
+The World Series rounds in Major League Baseball are only one match each.
+The World Series rounds in Major League Baseball are not accurate to the real World Series.
+Due to the licensing, the teams in Major League Baseball appear complete in their official uniforms and colors.
+The teams in Major League Baseball have all the options that a real baseball player would have.
+The options that a real baseball player would have in Major League Baseball include bunting, pitching out, base stealing, and throwing errors.
+In Major League Baseball, the pitcher is unable to move around the pitcher's mound.
+Many pitchers in Major League Baseball are able to perform 100 mph pitches.
+The ball's physics in Major League Baseball have been called into question.
+The ball in Major League Baseball stops on a dime after three or fewer bounces.
+The game's camera system in Major League Baseball does not function properly.
+When a ball is hit in Major League Baseball, the outfield camera follows the ball looking upwards.
+It is impossible for the game player to see where their fielders are when the outfield camera follows the ball looking upwards.
+The ball in Major League Baseball can be thrown and get stuck in the well between the stands and the field on an overthrow of a baseman.
+The ball getting stuck in the well between the stands and the field can cause inside the park home runs in Major League Baseball.
+Inside the park home runs would not happen within a real game.
+In a real game, a ground rule double and/or error would be scored instead of an inside the park home run.
+Another bug in Major League Baseball allows players to go into the stands past the wall with the ball if they enter at certain points in foul territory.
+There are gameplay issues when the player takes their turn to bat in Major League Baseball.
+The AI in Major League Baseball is not developed.
+When the player hits a pitch in Major League Baseball, the AI nearly always takes the longest possible route to the ball.
+The AI taking the longest possible route to the ball makes runs easier to score in Major League Baseball.
+The AI in Major League Baseball lacks the capability to throw out a runner who is returning to a base.
+The AI in Major League Baseball lacks the capability to perform a double play after catching a fly ball.
+The batter in Major League Baseball can only move vertically in the batter's box.
+The batter in Major League Baseball cannot move horizontally in the batter's box.
+The graphics in Major League Baseball were considered to be three-dimensional.
+The graphics in Major League Baseball were constrained by the technology at the time.
+All the players in Major League Baseball are Caucasian.
+Each player's batting stance in Major League Baseball is exactly the same.
+The game view in Major League Baseball is always top down.
+When batting or pitching in Major League Baseball, the game view is centered above the catcher.
+When batting or pitching in Major League Baseball, the game view is behind the batter.
+When batting or pitching in Major League Baseball, the game view has an overhead look of the pitcher.
+In the outfield of Major League Baseball, there is an aerial view of a portion of the field.
+The team members in Major League Baseball are represented by tiny sprites.
+There is an inset with red dots representing where the players are on base in Major League Baseball.
+The official colors are intact in Major League Baseball.
+The actual symbols on the uniforms are absent in Major League Baseball.
+The crowd in Major League Baseball is represented by a series of colored dots.
+There are a limited number of sound effects in Major League Baseball.
+Aside from brief ballpark jingles, there is no real background music present during the game in Major League Baseball.
+The charge fanfare is played at random points in Major League Baseball.
+The introductory screen in Major League Baseball begins with a different baseball tune while the player is loading up and selecting a team.
+A home run fanfare is present in Major League Baseball.
+Generic sound effects in Major League Baseball include the bat cracking upon contact with the ball.
+Generic sound effects in Major League Baseball include the sound of the ball flying through the air during a pitch.
+Generic sound effects in Major League Baseball include bouncing and throwing effects.
+Generic sound effects in Major League Baseball include a stream of crowd noises.
+Major League Baseball was compared to R.B.I. Baseball and Bases Loaded in Nintendo Power.
+Nintendo Power did not pass any judgment on which game was superior.
+Allgame's review of Major League Baseball rated it three stars out of five.
+Allgame rated R.B.I. Baseball three stars out of five.
+Allgame rated Bases Loaded half a star higher than Major League Baseball.

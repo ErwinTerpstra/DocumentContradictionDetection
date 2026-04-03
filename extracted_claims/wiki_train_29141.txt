@@ -1,0 +1,102 @@
+ROT13 is a simple letter substitution cipher.
+ROT13 replaces a letter with the letter 13 letters after it in the alphabet.
+ROT13 is a special case of the Caesar cipher.
+The Caesar cipher was developed in ancient Rome.
+There are 26 letters in the basic Latin alphabet.
+ROT13 is its own inverse.
+To undo ROT13, the same algorithm is applied.
+The same action can be used for encoding and decoding in ROT13.
+The ROT13 algorithm provides virtually no cryptographic security.
+ROT13 is often cited as a canonical example of weak encryption.
+ROT13 is used in online forums to hide spoilers.
+ROT13 is used in online forums to hide punchlines.
+ROT13 is used in online forums to hide puzzle solutions.
+ROT13 is used in online forums to hide offensive materials from casual glance.
+ROT13 has been described as the Usenet equivalent of a magazine printing the answer to a quiz upside down.
+ROT13 has inspired a variety of letter and word games online.
+ROT13 is frequently mentioned in newsgroup conversations.
+Applying ROT13 to a piece of text requires examining its alphabetic characters.
+Applying ROT13 requires replacing each letter by the letter 13 places further along in the alphabet.
+When applying ROT13, the alphabet wraps back to the beginning if necessary.
+The letter A becomes N in ROT13.
+The letter B becomes O in ROT13.
+The letter M becomes Z in ROT13.
+The letter N becomes A in ROT13.
+The letter O becomes B in ROT13.
+The letter Z becomes M in ROT13.
+Only letters in the English alphabet are affected by ROT13.
+Numbers, symbols, whitespace, and all other characters are left unchanged by ROT13.
+The ROT13 function is its own inverse for any basic Latin-alphabet text.
+Two successive applications of ROT13 restore the original text.
+In mathematics, two successive applications of ROT13 are sometimes called an involution.
+In cryptography, two successive applications of ROT13 are called a reciprocal cipher.
+ROT13 was in use in the net.jokes newsgroup by the early 1980s.
+ROT13 is used to hide potentially offensive jokes.
+ROT13 is used to obscure an answer to a puzzle.
+A shift of thirteen was chosen for ROT13 over other values.
+The original Caesar cipher used a shift of three.
+Thirteen is the value for which encoding and decoding are equivalent in ROT13.
+ROT13 allows the convenience of a single command for both encoding and decoding.
+ROT13 is typically supported as a built-in feature in newsreading software.
+Email addresses are sometimes encoded with ROT13 to hide them from less sophisticated spam bots.
+ROT13 is an example of the encryption algorithm known as a Caesar cipher.
+The Caesar cipher is attributed to Julius Caesar in the 1st century BC.
+In encrypted, normal, English-language text of significant size, ROT13 is recognizable from some letter and word patterns.
+The words "n", "V", and "gur" are examples of recognizable patterns in ROT13.
+Words ending in "yl" are examples of recognizable patterns in ROT13.
+ROT13 is not intended to be used where secrecy is of any concern.
+The use of a constant shift in ROT13 means that the encryption effectively has no key.
+Decryption of ROT13 requires no more knowledge than the fact that ROT13 is in use.
+The ROT13 algorithm is easily broken through frequency analysis.
+ROT13 has become a catchphrase to refer to any conspicuously weak encryption scheme.
+A critic might claim that "56-bit DES is little better than ROT13 these days."
+The terms "double ROT13", "ROT26", or "2ROT13" are used with humorous intent.
+The spoof academic paper "On the 2ROT13 Encryption Algorithm" exists.
+Applying ROT13 to an already ROT13-encrypted text restores the original plaintext.
+ROT26 is equivalent to no encryption at all.
+Triple-ROT13 is equivalent to regular ROT13.
+In December 1999, it was found that Netscape Communicator used ROT13 to store email passwords.
+In 2001, Russian programmer Dimitry Sklyarov demonstrated that New Paradigm Research Group used ROT13 to encrypt their documents.
+It has been speculated that New Paradigm Research Group may have mistaken the ROT13 toy example for a serious encryption scheme.
+Windows XP uses ROT13 on some of its registry keys.
+ROT13 is used in the Unix fortune program to encrypt potentially offensive dicta.
+ROT13 provides an opportunity for letter games.
+Some words produce another word when transformed with ROT13.
+Examples of 7-letter pairs in the English language are abjurer and nowhere.
+Examples of 7-letter pairs in the English language are Chechen and purpura.
+The pair gnat and tang are both ROT13 reciprocals.
+The pair gnat and tang taken together is a palindrome.
+The 1989 International Obfuscated C Code Contest included an entry by Brian Westley.
+Brian Westley's computer program can be encoded in ROT13 or reversed and still compiles correctly.
+The operation of Brian Westley's program, when executed, is either to perform ROT13 encoding or to reverse its input.
+The newsgroup alt.folklore.urban coined the word "furrfu."
+"Furrfu" is the ROT13 encoding of the frequently encoded utterance "sheesh."
+"Furrfu" evolved in mid-1992 as a response to postings repeating urban myths on alt.folklore.urban.
+Some posters complained that "Sheesh!" as a response to newcomers was being overused.
+ROT5 is a practice similar to ROT13 that applies to numeric digits from 0 to 9.
+ROT13 and ROT5 can be used together in the same message.
+ROT47 is a derivative of ROT13.
+ROT47 scrambles the basic letters and treats numbers and common symbols.
+ROT47 uses a larger set of characters from the common character encoding known as ASCII.
+ROT47 uses the 7-bit printable characters from decimal 33 to 126.
+ROT47 rotates characters by 47 positions without special consideration of case.
+In ROT47, the character A is mapped to p.
+In ROT47, the character a is mapped to 2.
+The use of a larger alphabet in ROT47 produces more thorough obfuscation than ROT13.
+A telephone number such as +1-415-839-6885 is not obvious at first sight from the scrambled result in ROT47.
+ROT47 introduces numbers and symbols into the mix without discrimination.
+It is more immediately obvious that the text has been enciphered in ROT47.
+The GNU C library contains a function called memfrob().
+The function memfrob() has a similar purpose to ROT13.
+The function memfrob() is intended for use with arbitrary binary data.
+The function memfrob() operates by combining each byte with the binary pattern 00101010 (42) using the exclusive or (XOR) operation.
+The function memfrob() effects a simple XOR cipher.
+The function memfrob() is self-reciprocal.
+The function memfrob() provides a similar level of security to ROT13.
+The ROT13 and ROT47 are easy to implement using the Unix terminal application tr.
+The string "The Quick Brown Fox Jumps Over The Lazy Dog" can be encrypted in ROT13.
+The same string can be encrypted in ROT47.
+In Emacs, one can ROT13 the buffer or a selection with the command M-x toggle-rot13-mode.
+In Emacs, one can ROT13 a selection with the command M-x rot13-other-window.
+In Emacs, one can ROT13 a region with the command M-x rot13-region.
+In the Vim text editor, one can ROT13 a selection with the command g?.

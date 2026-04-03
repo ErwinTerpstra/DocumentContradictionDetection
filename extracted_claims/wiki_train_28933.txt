@@ -1,0 +1,57 @@
+A tournament of 32 teams requires exactly 5 rounds to determine the winner.
+For n players or teams where n is not a power of 2, log2 n is rounded up.
+It is necessary to have at least one round in which not all remaining competitors play.
+A tournament of 6 teams requires exactly 3 rounds.
+In a tournament of 6 teams, either two teams sit out the first round or one team sits out the second round.
+The same number of rounds is necessary to determine a clear winner in a Swiss-system tournament.
+In photography, exposure values are measured in terms of the binary logarithm of the amount of light reaching the film or sensor.
+The Weber–Fechner law describes a logarithmic response of the human visual system to light.
+A single stop of exposure is one unit on a base-2 logarithmic scale.
+The exposure value of a photograph is defined by a specific formula.
+N is the f-number measuring the aperture of the lens during the exposure.
+t is the number of seconds of exposure.
+Binary logarithms expressed as stops are used in densitometry.
+Binary logarithms express the dynamic range of light-sensitive materials or digital sensors.
+An easy way to calculate log2 n on calculators that do not have a log2 function is to use the natural logarithm (ln) or the common logarithm (log or log10) functions.
+Most scientific calculators have natural logarithm or common logarithm functions.
+The specific change of logarithm base formulae can be expressed by a specific formula.
+The binary logarithm can be made into a function from integers to integers by rounding it up or down.
+There are two forms of integer binary logarithm related by a specific formula.
+The definition of the binary logarithm can be extended by defining a specific formula.
+The extended function is related to the number of leading zeros of the 32-bit unsigned binary representation of x.
+The integer binary logarithm can be interpreted as the zero-based index of the most significant 1 bit in the input.
+The integer binary logarithm is the complement of the find first set operation.
+The find first set operation finds the index of the least significant 1 bit.
+Many hardware platforms include support for finding the number of leading zeros.
+The fls and flsl functions in the Linux kernel compute the binary logarithm rounded up to an integer plus one.
+For a general positive real number, the binary logarithm may be computed in two parts.
+The first part computes the integer part, called the characteristic of the logarithm.
+The second step of computing the fractional part simplifies the problem.
+For any x greater than 0, there exists a unique integer n such that 2^n is less than or equal to x and x is less than 2^(n + 1).
+The integer part of the logarithm is simply n.
+The fractional part is log2(2 - nx).
+For normalized floating point numbers, the integer part is given by the floating point exponent.
+For integers, the integer part can be determined by performing a count leading zeros operation.
+The fractional part of the result is log2 y.
+The fractional part can be computed iteratively using only elementary multiplication and division.
+The algorithm for computing the fractional part can be described in pseudocode.
+The algorithm starts with a real number y in the half-open interval [1, 2).
+If y equals 1, then the algorithm is done and the fractional part is zero.
+Otherwise, y is squared repeatedly until the result z lies in the interval [2, 4).
+Let m be the number of squarings needed.
+The result z equals y^(2^m) with m chosen such that z is in [2, 4).
+Taking the logarithm of both sides and doing some algebra leads to a specific formula.
+Once again, z/2 is a real number in the interval [1, 2).
+The algorithm returns to step 1 and computes the binary logarithm of z/2 using the same method.
+The result of the algorithm is expressed by specific recursive formulas.
+In the special case where the fractional part in step 1 is found to be zero, this is a finite sequence terminating at some point.
+Otherwise, the series is infinite and converges according to the ratio test.
+Each term in the infinite series is strictly less than the previous one.
+Every m_i is greater than 0.
+For practical use, the infinite series must be truncated to reach an approximate result.
+If the series is truncated after the i-th term, then the error in the result is less than 2^(- (m1 + m2 + ... + mi)).
+The log2 function is included in the standard C mathematical functions.
+The default version of the log2 function takes double precision arguments.
+Variants of the log2 function allow the argument to be single-precision or to be a long double.
+In MATLAB, the argument to the log2 function is allowed to be a negative number.
+If the argument to the log2 function is a negative number, the result will be a complex number.

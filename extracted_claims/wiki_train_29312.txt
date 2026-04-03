@@ -1,0 +1,119 @@
+Falklands '82 is a turn-based strategy video game.
+Falklands '82 was released in 1986.
+Falklands '82 was developed by Personal Software Services.
+Falklands '82 was published by Personal Software Services.
+Falklands '82 was released for the ZX Spectrum.
+Falklands '82 was released for the Commodore 64.
+Falklands '82 is the fifth installment of the Strategic Wargames series.
+Falklands '82 is set during the 1982 Falklands War.
+Falklands '82 revolves around the Argentine occupation of the Falkland Islands.
+Falklands '82 revolves around the British re-capture of the Falkland Islands.
+The player controls the British Task Force in Falklands '82.
+The player must either defeat all Argentine forces on the Falkland Islands.
+The player must re-capture every settlement in Falklands '82.
+A port for the Amstrad CPC was advertised.
+The Amstrad CPC port of Falklands '82 was never released.
+The developers obtained information and statistics of the Falklands War from NATO.
+Falklands '82 met with mixed reviews.
+Critics praised the detailed graphics of Falklands '82.
+Some critics were divided over the gameplay of Falklands '82.
+Some critics criticized the authenticity of Falklands '82.
+Others criticized the in-game potential of an Argentine victory in Falklands '82.
+Falklands '82 focuses on land battles during the Falklands War.
+The player commands the British Task Force against the Argentine ground forces.
+The game begins by allocating fifteen Royal Navy ships for the task force.
+A proportionate amount of Royal Navy ships must be devoted for attack purposes.
+A proportionate amount of Royal Navy ships must be devoted for defense purposes.
+The player must choose four landing spots in northern East Falkland.
+The four landing spots are Port Stanley, Berkeley Sound, Cow Bay, and San Carlos Bay.
+The SAS or SBS are available throughout the game.
+The SAS or SBS provide intelligence on Argentine movements.
+Intelligence on Argentine movements is limited.
+Intelligence may only be collected a certain number of times.
+The player may request reinforcements from either HMS Hermes or HMS Invincible.
+The main objective of Falklands '82 is to defeat all occupying Argentine forces.
+The main objective of Falklands '82 is to capture and hold all ten settlements of the Falklands simultaneously.
+The game lasts 25 turns on one difficulty setting.
+The game lasts 30 turns on another difficulty setting.
+If every settlement has not been occupied, the game will end.
+If any Argentine forces remain by the end of the last turn, the game will end.
+The capital of the Falklands is Stanley.
+Stanley has the highest concentration of Argentine forces.
+Stanley is usually the last settlement to be captured.
+There are four choices for combat in Falklands '82.
+The four choices for combat are attack, move, pass, and "recce."
+The game includes a weather system that changes every turn.
+The weather system provides obstructions for various forces.
+Stormy seas will temporarily render naval vessels unavailable.
+Stormy seas will temporarily render troop reinforcements unavailable.
+Fog will render both naval and air forces unavailable.
+Argentine airstrikes will frequently sink Royal Navy ships.
+The frequency of Argentine airstrikes depends on how many Royal Navy ships were initially allocated to defensive positions.
+Argentine air forces will occasionally bomb British forces on the ground.
+British forces on the ground are represented as animated sprites on the map.
+The map displays terrain details, including rivers and mountains.
+Troops situated on top of a mountain will receive a defensive bonus once attacked.
+Troops situated on top of a mountain will move more slowly due to the steep terrain.
+If the player chooses to enter an enemy-controlled zone, the move will instantly end.
+Entering an enemy-controlled zone leaves the unit vulnerable to an Argentine attack.
+Personal Software Services was founded in Coventry, England.
+Gary Mays founded Personal Software Services.
+Richard Cockayne founded Personal Software Services.
+Personal Software Services was founded in November 1981.
+Personal Software Services was known for creating games that revolved around historic war battles.
+Personal Software Services created Theatre Europe.
+Personal Software Services created Bismarck.
+Personal Software Services created Battle of Britain.
+Personal Software Services had a partnership with ERE Informatique.
+Personal Software Services published localized versions of ERE Informatique's products in the United Kingdom.
+The Strategic Wargames series was conceptualized in 1984.
+Alan Steel conceptualized the Strategic Wargames series.
+Alan Steel researched the upcoming game's topic during development.
+Alan Steel passed on his findings to associates in Coventry and London.
+In 1983, Personal Software Services was recognized as one of the top software houses in the United Kingdom.
+Personal Software Services was a finalist for BBC Radio 4's New Business Enterprise Award in 1983.
+Cockayne and Mays obtained statistics for the Cold War from NATO.
+Cockayne and Mays obtained statistics for the Falklands War from the Soviet embassy in London.
+Richard Cockayne stated that Theatre Europe received heavy criticism from the Campaign for Nuclear Disarmament.
+Richard Cockayne stated that Falklands '82 received heavy criticism from The Sun newspaper.
+An editor from The Sunday Press suggested that Falklands '82 was distasteful.
+The suggestion of distaste was due to the game's possibility of an Argentine victory.
+The game was planned for an Amstrad CPC port.
+In Spanish markets, the game was released as Malvinas '82.
+Malvinas '82 is the Spanish name for the Falkland Islands.
+Malvinas '82 included a manual that was never translated into English.
+In 1986, Cockayne decided to alter products for release on 16-bit consoles.
+Smaller 8-bit consoles lacked the processing power for larger strategy games.
+The decision to alter products was falsely interpreted by Phillipa Irving.
+Phillipa Irving falsely interpreted the decision as "pulling out" from the Spectrum market.
+Personal Software Services experienced financial difficulties after years of successful sales.
+Cockayne admitted in a retrospective interview that he took his eye off the ball.
+Personal Software Services was acquired by Mirrorsoft in February 1987.
+Personal Software Services was dispossessed due to debt.
+The game received mostly positive reviews from critics upon release.
+Rachael Smith of Your Sinclair praised the overall experience of the gameplay.
+Rachael Smith stated that the gameplay was ideal for newcomers.
+Rachael Smith stated that the gameplay plays smooth.
+Rachael Smith criticized the gameplay for being annoyingly slow at times.
+Sean Masterson of Crash criticized the gameplay.
+Sean Masterson stated that the gameplay fails to offer a serious challenge.
+Sean Masterson stated that the gameplay prohibits the player from experimenting with choices.
+The choices prohibited by the gameplay are choices that real commanders never had.
+A reviewer from Sinclair User praised the gameplay.
+A reviewer from Sinclair User stated that the gameplay was swift.
+A reviewer from Sinclair User stated that the gameplay had nice touches for beginners.
+A reviewer from Sinclair User sarcastically remarked that the inability to play on the Argentine side would help improve Anglo-Argentinian relations.
+A reviewer from Zzap! 64 criticized the game's lack of authenticity.
+A reviewer from Zzap! 64 criticized the game's lack of strategy.
+A reviewer from Zzap! 64 stated that the developer's previous games had more credence.
+A reviewer from ZX Computing heralded the graphics and details of the map.
+A reviewer from ZX Computing suggested that hardened wargamers would not be interested in graphical advancements.
+A reviewer from Computer Gamer praised the game's simplicity.
+A reviewer from Computer Gamer stated that it was a simple game.
+A reviewer from Computer Gamer stated that it would prove to be an excellent introduction to the wargame strategy genre.
+Tim Stone of Rock, Paper, Shotgun praised the game's ability to display the war in a neutral manner.
+Tim Stone questioned the inability to play on the Argentine side.
+Tim Stone concluded that the game had greater significance over other war strategy games.
+Tim Stone concluded that the game had undeniable quality.
+The Sun newspaper criticized Falklands '82 for including a scenario where Argentina could win.
+Cockayne maintained that his company's video games did not trivialize the war.
