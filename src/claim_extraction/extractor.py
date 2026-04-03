@@ -10,12 +10,8 @@ except Exception:
 
 from src.claim_extraction.backends.local import call_local_llm
 from src.claim_extraction.backends.remote import call_remote_llm
-from src.claim_extraction.config import ExtractionConfig
+from src.claim_extraction.config import ExtractionConfig, LOCAL_DEFAULT_MAX_NEW_TOKENS, REMOTE_DEFAULT_MAX_NEW_TOKENS
 from src.claim_extraction.prompts import DIRECT_CLAIM_PROMPT_TEMPLATE
-
-
-LOCAL_DEFAULT_MAX_NEW_TOKENS = 1024
-REMOTE_DEFAULT_MAX_NEW_TOKENS = 3072
 
 
 def _log(message: str, verbose: bool) -> None:
@@ -70,7 +66,7 @@ def extract_claims(
     remote_url: Optional[str] = None,
     remote_api_key: Optional[str] = None,
     remote_headers: Optional[Dict[str, str]] = None,
-    remote_timeout: float = 30.0,
+    remote_timeout: float = 120.0,
     question_for_claimify: str = "Extract all specific and verifiable claims from the answer.",
     verbose: bool = True,
 ) -> List[str]:
