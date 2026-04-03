@@ -14,6 +14,10 @@ from src.claim_extraction.config import ExtractionConfig
 from src.claim_extraction.prompts import DIRECT_CLAIM_PROMPT_TEMPLATE
 
 
+LOCAL_DEFAULT_MAX_NEW_TOKENS = 1024
+REMOTE_DEFAULT_MAX_NEW_TOKENS = 3072
+
+
 def _log(message: str, verbose: bool) -> None:
     if verbose:
         print(message)
@@ -62,7 +66,7 @@ def extract_claims(
     backend: str = "local",
     use_claimify: bool = False,
     temperature: float = 0.2,
-    max_new_tokens: int = 1024,
+    max_new_tokens: Optional[int] = None,
     remote_url: Optional[str] = None,
     remote_api_key: Optional[str] = None,
     remote_headers: Optional[Dict[str, str]] = None,
@@ -78,7 +82,8 @@ def extract_claims(
         backend: 'local' or 'remote'.
         use_claimify: If True, run Claimify pipeline. If False, use direct prompt-based extraction.
         temperature: Decoding temperature for LLM generation.
-        max_new_tokens: Generation token limit.
+        max_new_tokens: Generation token limit. If omitted, uses backend defaults:
+            local=1024 and remote=3072.
         remote_url: Optional remote endpoint URL for chat completions.
         remote_api_key: Optional API key override for remote calls.
         remote_headers: Optional extra headers for remote calls.
@@ -93,11 +98,19 @@ def extract_claims(
     if not isinstance(model_name, str) or not model_name.strip():
         raise ValueError("'model_name' must be a non-empty string.")
 
+    resolved_max_new_tokens = max_new_tokens
+    if resolved_max_new_tokens is None:
+        resolved_max_new_tokens = (
+            REMOTE_DEFAULT_MAX_NEW_TOKENS
+            if backend == "remote"
+            else LOCAL_DEFAULT_MAX_NEW_TOKENS
+        )
+
     config = ExtractionConfig(
         model_name=model_name,
         backend=backend,
         temperature=temperature,
-        max_new_tokens=max_new_tokens,
+        max_new_tokens=resolved_max_new_tokens,
         use_claimify=use_claimify,
         remote_url=remote_url,
         remote_api_key=remote_api_key,
