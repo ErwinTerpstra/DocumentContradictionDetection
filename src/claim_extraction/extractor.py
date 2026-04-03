@@ -93,6 +93,8 @@ def extract_claims(
         raise ValueError("'text' must be a non-empty string.")
     if not isinstance(model_name, str) or not model_name.strip():
         raise ValueError("'model_name' must be a non-empty string.")
+    if backend not in ("local", "remote"):
+        raise ValueError(f"'backend' must be 'local' or 'remote', got '{backend}'.")
 
     resolved_max_new_tokens = max_new_tokens
     if resolved_max_new_tokens is None:
