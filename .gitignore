@@ -136,6 +136,7 @@ celerybeat.pid
 
 # Personal notes (local only)
 notes/
+logs/
 
 # Environments
 .env
