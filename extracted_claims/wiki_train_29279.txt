@@ -1,0 +1,111 @@
+Cauldron II: The Pumpkin Strikes Back is a computer game developed and published by British developer Palace Software.
+Cauldron II: The Pumpkin Strikes Back is a sequel to the 1985 title Cauldron.
+Cauldron II: The Pumpkin Strikes Back is a two-dimensional (2D) platform game.
+Cauldron II: The Pumpkin Strikes Back was released in 1986 for the ZX Spectrum.
+Cauldron II: The Pumpkin Strikes Back was released in 1986 for the Commodore 64.
+Cauldron II: The Pumpkin Strikes Back was released in 1986 for the Amstrad CPC home computers.
+Players control a bouncing pumpkin in Cauldron II: The Pumpkin Strikes Back.
+The bouncing pumpkin is on a quest of vengeance against the "Witch Queen" in Cauldron II: The Pumpkin Strikes Back.
+The roles of the pumpkin and the witch were reversed from the first game.
+In the first game, the witch defeated a monster pumpkin.
+Steve Brown began work on a sequel to Cauldron following its success.
+A very different gameplay was implemented for the sequel to provide fans of the original title with a new experience.
+Several minor features retained connections to the first game.
+Steve Brown designed Cauldron II: The Pumpkin Strikes Back around the bouncing pumpkin character's movement.
+The bouncing mechanic proved problematic for the programmers.
+The programmers were unable to perfect the implementation of the bouncing mechanic.
+Technical limitations prevented the programmers from implementing certain animations.
+The animations that could not be implemented included turning pages of a book.
+Cauldron II was first released on the Commodore 64.
+Cauldron II was released in the following years on other systems.
+Cauldron II was released as re-releases.
+The game received praise mainly for its audio-visuals in video game magazines.
+Difficulty in handling the bouncing pumpkin's movement was a common complaint.
+Reviewers felt the overall package of Cauldron II was of good value.
+In Cauldron, the protagonist was a witch.
+The witch became the "Witch Queen" by defeating an enemy called the "Pumpking."
+In Cauldron II, players control a pumpkin that has survived the witch's ascent to power.
+The pumpkin seeks to defeat the witch in Cauldron II.
+Cauldron II takes place in the witch's castle.
+Players control the pumpkin by manipulating the direction and height of its bounce.
+Halloween-themed enemies inhabit the game world of Cauldron II.
+The Halloween-themed enemies include ghosts, monsters, and skeletons.
+Contact with an enemy drains the pumpkin's magic meter.
+The magic meter fuels the protagonist's offensive projectiles.
+The character dies once the magic meter is depleted.
+The pumpkin has a limited number of lives to continue the game.
+The game ends once all of the pumpkin's lives have been expended.
+On continuing, the pumpkin reappears on the screen with a refilled magic meter.
+The success of Cauldron in 1985 prompted Palace Software to produce a sequel.
+The development team wanted to be innovative and implement new gameplay features for the sequel.
+Steven Brown resumed his role as designer for Cauldron II.
+Richard Leinfellner resumed his role as programmer for Cauldron II.
+Richard Joseph handled the audio design for Cauldron II.
+Stan Schembri programmed the Commodore 64 version of Cauldron II.
+Brown drew inspiration from the final scene of Cauldron.
+The final scene of Cauldron features the witch's fight against the Pumpking.
+The Pumpking bounced around a room in the final scene of Cauldron.
+Brown felt the bouncing pumpkin looked "cool."
+Brown decided to base the sequel's gameplay on the bouncing pumpkin's aspect.
+The other team members proceeded with development despite being unsure about the idea.
+The pumpkin's movement could change direction only if force is applied to it while in contact with a surface that provides friction.
+The mechanic prohibited the pumpkin from changing directions while in mid-air.
+The mechanic proved problematic for the programmers to implement.
+Issues included difficulties with collision detection.
+Unpredictable movements led to glitches during development.
+The pumpkin's ability to fire projectiles was intended to provide offensive game mechanics to players.
+In early designs, the projectile inadvertently generated a force that changed the pumpkin's direction.
+The programmers tried to correct the projectile issue but were unable to create a perfect solution.
+Brown switched focus to the game's aesthetics as the gameplay designs were being implemented.
+Scenes from the game were sketched on storyboards to aid development.
+Cauldron II's game world was designed to resemble Palace Software's logo as an advertising tactic.
+Brown photographed separate screens of the game and assembled them into a complete map.
+The complete map showed the shape of Palace Software's logo for video game magazines.
+Enemy designs in Cauldron II were similar to those in the previous game.
+Enemy designs were based on the Halloween holiday.
+Brown envisioned a graphical effect for the game's narration.
+The graphical effect would show a book whose pages turned as the story is read.
+Technical limitations prohibited the implementation of the graphical effect.
+Brown wanted the game's visuals to scroll seamlessly as the character moved through the game world.
+Flick-screening was more feasible than seamless scrolling for the game's visuals.
+Brown created a Plasticine model of the witch character as a reference for a painting used for the game's box art.
+The group tested the game prior to release.
+The group deemed the game too challenging prior to release.
+The group reduced the difficulty level so that more players could complete the game.
+Palace Software developed Cauldron II for three home computers: Amstrad CPC, Commodore 64, and ZX Spectrum.
+The game was first released for the Commodore 64.
+The game was later released for the Amstrad CPC.
+The game was later released for the ZX Spectrum.
+Cauldron II was re-released on the ZX Spectrum in 1989 by Telecomsoft under its Silverbird budget label.
+Cauldron II was re-released with the first game as a compilation title for Amstrad CPC and ZX Spectrum computers.
+The game was well received by video game journalists upon its release.
+ZX Spectrum magazines Crash and ZX Computing awarded Cauldron II their top accolades.
+Crash awarded Cauldron II the accolade "Crash Smash."
+ZX Computing awarded Cauldron II the accolade "Monster Hit."
+Praise from the video game press focused on the graphical quality of Cauldron II.
+Criticism directed at the gameplay of Cauldron II was mixed.
+Computer and Video Games reviewer Paul Boughton praised the size of the game world.
+Paul Boughton criticized the audio quality of the Amstrad CPC and ZX Spectrum versions.
+Paul Boughton cited the limited capabilities of the Amstrad CPC and ZX Spectrum versions.
+Paul Boughton felt any version of Cauldron II would be worth purchasing.
+Phil South of Your Sinclair praised the game's presentation and design.
+Phil South called the graphics of Cauldron II "lovely."
+Phil South called the platform gameplay of Cauldron II "original."
+ZX Computing's reviewer praised the audio-visuals of Cauldron II.
+ZX Computing's reviewer recommended Cauldron II for fans of the previous game.
+A Crash magazine reviewer lauded the audio-visuals of the ZX Spectrum version of Cauldron II.
+A Crash magazine reviewer commented that the gameplay of Cauldron II offered more than its predecessor's.
+A Crash magazine reviewer described Cauldron II as difficult.
+A Crash magazine reviewer felt that the sense of accomplishment gained from successful completion outweighed the negative aspect.
+Computer Gamer's reviewer criticized the bouncing gameplay of Cauldron II.
+Computer Gamer's reviewer cited unpredictable reactions and difficulty in navigating around tough enemies.
+Rich Pelley and Jon Pillar of Your Sinclair echoed similar comments about the gameplay.
+Retro Gamer writer Craig Grannell described the game's difficulty as the "only real criticism."
+The ZX Computing reviewer criticized the bouncing aspect of Cauldron II.
+The ZX Computing reviewer praised the overall game design of Cauldron II as enjoyable.
+Phil King, another Crash reviewer, praised the Silverbird re-release of Cauldron II.
+Phil King called the graphics of Cauldron II "colorful."
+Phil King called the graphics of Cauldron II "well-animated."
+Phil King felt that Cauldron II was of good value despite an excessive difficulty.
+The commercial success of the two Cauldron games prompted Palace to give Steve Brown more creative freedom for his following project.
+Steve Brown's following project is Barbarian: The Ultimate Warrior.

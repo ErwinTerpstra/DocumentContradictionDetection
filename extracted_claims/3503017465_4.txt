@@ -1,0 +1,79 @@
+The Fastra II is a desktop supercomputer designed for tomography.
+The Fastra II was built in late 2009 by the ASTRA group of researchers of the IBBT VisionLab at the University of Antwerp.
+The Fastra II was built in collaboration with Tones.
+Tones is a Belgian computer shop.
+The Fastra II was built in collaboration with Asus.
+Asus is a Taiwanese multinational computer product manufacturer.
+The Fastra II is the successor to the Fastra I.
+The Fastra I was built in 2008.
+The Fastra II is over three times faster than the Fastra I.
+The Fastra I is slightly faster than a 512-core cluster.
+The Fastra II initially suffered from several issues.
+The issues included the system refusing to reboot.
+The issues included overheating due to a lack of space between the video cards.
+The Fastra II was built as a researching and demonstration project.
+Joost Batenburg is one of the researchers in the ASTRA group.
+The Fastra II only uses consumer hardware.
+The total cost of the Fastra II is €6,000.
+The Fastra I has 4 dual-GPU GeForce 9800 GX2 video cards.
+The total number of GPUs in the Fastra I is 8.
+The ASTRA group needed a motherboard with four PCI Express x16 slots with double-spacing between each slot.
+The only motherboard the ASTRA group could find at that time was the MSI K9A2 Platinum.
+The MSI K9A2 Platinum has four PCI Express x16 slots.
+The Asus P6T7 WS Supercomputer motherboard was released in 2009.
+The Asus P6T7 WS Supercomputer motherboard has seven PCI Express x16 slots.
+The Fastra II has six dual-GPU GeForce GTX 295 video cards.
+The Fastra II has a single-GPU GeForce GTX 275.
+The total number of GPUs in the Fastra II is 13.
+The GPUs in the Fastra II mainly perform tomographic reconstruction.
+The technique that allows GPUs to perform general-purpose tasks outside of gaming is called GPGPU.
+Overheating caused by the lack of space between the video cards forces researchers to keep the side panel door open.
+Keeping the side panel door open allows the video cards to get regular air.
+Keeping the side panel door open decreases the overall temperature inside the case.
+The initial boot of the Fastra II was unsuccessful due to the number of GPUs in the system.
+The motherboard of the Fastra II uses a 32-bit BIOS.
+The 32-bit BIOS of the Fastra II has approximately 3 GB of address space for the video cards.
+Asus provided a specialized BIOS that entirely skipped the address space allocation of the GTX 295 video cards.
+The BIOS-replacement coreboot was not tested.
+All seven PCI Express x16 slots in the Asus P6T7 motherboard were used in building the Fastra II computer.
+The video cards in the Fastra II are wide enough to require two PCI Express x16 slots each.
+The researchers came up with flexible PCI Express cables to solve the issue of space.
+Tones developed a custom cage that allowed the video cards to suspend over the motherboard.
+The Fastra II uses a Lian Li PC-P80 Armorsuit case.
+The Lian Li PC-P80 Armorsuit case has 10 expansion slots.
+The motherboard in the Fastra II was the only workstation motherboard with seven full-sized PCI Express x16 slots at that time.
+The memory modules in the Fastra II were initially six 2 GB modules.
+The memory modules in the Fastra II were later upgraded to 4 GB each.
+The total memory in the Fastra II is 24 GB.
+The single-GPU GTX 275 is in the Fastra II because it is the only video card that the Fastra II's BIOS can fully initialize.
+The Fastra II has four dual-GPU GeForce GTX 295 video cards.
+The total amount of GPUs in the Fastra II is 13.
+The video cards in the Fastra II together bring 12 teraflops of computing power.
+Four of the six GTX 295 video cards have 2 PCBs.
+The other two GTX 295 video cards have only 1 PCB.
+The Fastra II is faster and more power efficient than its competitors.
+The competitors of the Fastra II include the Fastra I and the Tesla C1060 video card.
+The benchmarks were performed on the Fastra II.
+The benchmarks were performed on the Fastra I.
+The benchmarks were performed on a 512-core cluster consisting of Opteron CPUs.
+The benchmarks were performed on an Nvidia Tesla C1060 workstation card on an Intel Core i7 940 CPU.
+The benchmarks were performed on an Intel Core i7 940 CPU itself.
+The Fastra II is over three times faster than the Fastra I in CT slice reconstruction speed.
+The Fastra II consumes more power than the Fastra I.
+The Fastra II is nearly 3 times as energy efficient as the Fastra I.
+The Fastra II is over 300 times as energy efficient as the 512-core cluster.
+The video cards in the Fastra II run at 37 degrees Celsius when idle.
+The video cards in the Fastra II run at 60 degrees Celsius at full load.
+The operating system of the Fastra II is CentOS.
+CentOS is a community-driven Linux distribution and Red Hat Enterprise Linux clone.
+The Fastra II received a positive public impression.
+Techie.com called the Fastra II the "world's most powerful desktop-sized supercomputer."
+Techie.com described the Fastra II as a computer with "so much power in such a small space."
+iTech News Net called the Fastra II "the Most Powerful Desktop Supercomputer."
+The Fastra II relies on Nvidia's Scalable Link Interface (SLI).
+The Fastra II is limited to the number of GPUs supported by Nvidia's SLI.
+The Fastra II is limited by the vendor's free and open-source device drivers.
+The motherboard of the Fastra II is designed for workstations.
+The Fastra II is mainly used in hospitals for medical imaging.
+It remains to be seen whether another Fastra featuring NVLink will be built.
+The NVLink will first be available with Pascal-based GPUs.

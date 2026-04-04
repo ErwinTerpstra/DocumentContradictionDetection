@@ -1,0 +1,143 @@
+Python is a widely used high-level programming language.
+Python is a general-purpose programming language.
+Python is an interpreted programming language.
+Python is a dynamic programming language.
+Python's design philosophy emphasizes code readability.
+Python's syntax allows programmers to express concepts in fewer lines of code than possible in languages such as C++ or Java.
+Python provides constructs intended to enable clear programs on both a small scale and a large scale.
+Python supports multiple programming paradigms.
+Python supports object-oriented programming.
+Python supports imperative programming.
+Python supports functional programming.
+Python supports procedural programming styles.
+Python features a dynamic type system.
+Python features automatic memory management.
+Python has a large and comprehensive standard library.
+Python interpreters are available for many operating systems.
+Python code can run on a wide variety of systems.
+Using third-party tools, Python code can be packaged into stand-alone executable programs.
+Python-based software can be distributed to popular operating systems.
+Python-based software can be used on popular operating systems without needing to install a Python interpreter.
+CPython is the reference implementation of Python.
+CPython is free software.
+CPython is open-source software.
+CPython has a community-based development model.
+Nearly all variant implementations of Python have a community-based development model.
+CPython is managed by the non-profit Python Software Foundation.
+Python was conceived in the late 1980s.
+Python's implementation began in December 1989.
+Guido van Rossum began the implementation of Python at Centrum Wiskunde & Informatica.
+Guido van Rossum began the implementation of Python in the Netherlands.
+Python is a successor to the ABC language.
+The ABC language was inspired by SETL.
+Python is capable of exception handling.
+Python is capable of interfacing with the operating system Amoeba.
+Guido van Rossum is Python's principal author.
+Guido van Rossum has a continuing central role in deciding the direction of Python.
+The Python community refers to Guido van Rossum as the benevolent dictator for life (BDFL).
+Guido van Rossum wrote about the origin of Python in 1996.
+Guido van Rossum was looking for a hobby programming project in December 1989.
+Guido van Rossum's office would be closed during the week around Christmas.
+Guido van Rossum had a home computer in December 1989.
+Guido van Rossum did not have much else on his hands in December 1989.
+Guido van Rossum decided to write an interpreter for a new scripting language.
+The new scripting language was a descendant of ABC.
+The new scripting language would appeal to Unix/C hackers.
+Guido van Rossum chose Python as a working title for the project.
+Guido van Rossum was in a slightly irreverent mood when he chose the name Python.
+Guido van Rossum is a big fan of Monty Python's Flying Circus.
+Python 2.0 was released on 16 October 2000.
+Python 2.0 had many major new features.
+Python 2.0 included a cycle-detecting garbage collector.
+Python 2.0 included support for Unicode.
+The development process of Python changed with the release of Python 2.0.
+The development process of Python became more transparent with the release of Python 2.0.
+The development process of Python became community-backed with the release of Python 2.0.
+Python 3.0 was released on 3 December 2008.
+Python 3.0 was commonly referred to as Python 3000 or py3k during its early development.
+Python 3.0 is a major release.
+Python 3.0 is a backwards-incompatible release.
+Python 3.0 was released after a long period of testing.
+Many major features of Python 3.0 have been backported to Python 2.6.x.
+Many major features of Python 3.0 have been backported to Python 2.7.x.
+Python is a multi-paradigm programming language.
+Python fully supports object-oriented programming.
+Python fully supports structured programming.
+Many language features of Python support functional programming.
+Many language features of Python support aspect-oriented programming.
+Many paradigms are supported via extensions in Python.
+Extensions in Python include design by contract.
+Extensions in Python include logic programming.
+Python uses dynamic typing for memory management.
+Python uses a mix of reference counting and a cycle-detecting garbage collector for memory management.
+An important feature of Python is dynamic name resolution.
+Dynamic name resolution in Python is also known as late binding.
+Dynamic name resolution binds method and variable names during program execution.
+The design of Python offers some support for functional programming in the Lisp tradition.
+The language Python has map() functions.
+The language Python has reduce() functions.
+The language Python has filter() functions.
+The language Python has list comprehensions.
+The language Python has dictionaries.
+The language Python has sets.
+The language Python has generator expressions.
+The standard library of Python has two modules.
+The two modules in the standard library of Python are itertools and functools.
+The modules itertools and functools implement functional tools borrowed from Haskell.
+The modules itertools and functools implement functional tools borrowed from Standard ML.
+The core philosophy of Python is summarized by the document The Zen of Python (PEP 20).
+The Zen of Python includes aphorisms.
+One aphorism in The Zen of Python is "Beautiful is better than ugly."
+One aphorism in The Zen of Python is "Explicit is better than implicit."
+One aphorism in The Zen of Python is "Simple is better than complex."
+One aphorism in The Zen of Python is "Complex is better than complicated."
+One aphorism in The Zen of Python is "Readability counts."
+Python was designed to be highly extensible.
+Python can be embedded in existing applications that need a programmable interface.
+The design of Python includes a small core language.
+The design of Python includes a large standard library.
+The design of Python includes an easily extensible interpreter.
+Guido van Rossum intended the design of Python to be a small core language with a large standard library and an easily extensible interpreter.
+Guido van Rossum's frustrations with ABC influenced the design of Python.
+Python's philosophy offers choice in coding methodology.
+Python's philosophy rejects exuberant syntax.
+Python's philosophy favors a sparser, less-cluttered grammar.
+Alex Martelli stated that describing something as clever is not considered a compliment in the Python culture.
+Python's philosophy rejects the Perl approach of "there is more than one way to do it."
+Python's philosophy favors the approach of "there should be one — and preferably only one — obvious way to do it."
+Python's developers strive to avoid premature optimization.
+Python's developers reject patches to non-critical parts of CPython that would offer a marginal increase in speed at the cost of clarity.
+When speed is important, a Python programmer can move time-critical functions to extension modules written in languages such as C.
+When speed is important, a Python programmer can try using PyPy.
+PyPy is a just-in-time compiler.
+Cython is available.
+Cython translates a Python script into C.
+Cython makes direct C-level API calls into the Python interpreter.
+An important goal of Python's developers is making Python fun to use.
+The origin of the name Python comes from Monty Python.
+Python's tutorials and reference materials occasionally take a playful approach.
+Python's tutorials and reference materials use examples that refer to spam and eggs instead of the standard foo and bar.
+A common neologism in the Python community is pythonic.
+The term pythonic can have a wide range of meanings related to program style.
+To say that code is pythonic is to say that it uses Python idioms well.
+To say that code is pythonic is to say that it is natural or shows fluency in the language.
+To say that code is pythonic is to say that it conforms with Python's minimalist philosophy and emphasis on readability.
+Code that is difficult to understand is called unpythonic.
+Code that reads like a rough transcription from another programming language is called unpythonic.
+Users and admirers of Python are often referred to as Pythonists.
+Users and admirers of Python are often referred to as Pythonistas.
+Users and admirers of Python are often referred to as Pythoneers.
+Python is intended to be a highly readable language.
+Python is designed to have an uncluttered visual layout.
+Python often uses English keywords where other languages use punctuation.
+Python has fewer syntactic exceptions than C.
+Python has fewer special cases than Pascal.
+Python uses whitespace indentation to delimit blocks.
+Python's feature of whitespace indentation is also termed the off-side rule.
+An increase in indentation comes after certain statements in Python.
+A decrease in indentation signifies the end of the current block in Python.
+Python's statements include the assignment statement.
+The assignment statement in Python uses the token '='.
+The equals sign in Python operates differently than in traditional imperative programming languages.
+The fundamental mechanism of assignment in Python illuminates many other features of the language.
+The nature of Python's version of variables illuminates many other features of the language.

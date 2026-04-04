@@ -1,0 +1,81 @@
+The Tupolev Tu - 12 is an experimental Soviet jet-powered medium bomber.
+The development designation of the Tupolev Tu - 12 is Tu - 77.
+The Tupolev Tu - 12 was developed from the successful piston-engined Tupolev Tu - 2 bomber.
+The Tupolev Tu - 12 was developed after the end of World War II.
+The Tupolev Tu - 12 was designed as a transitional aircraft.
+The purpose of the Tupolev Tu - 12 was to familiarize Tupolev and the VVS with issues involved with jet-engined bombers.
+The Tupolev Tu - 73 jet-engined bomber project was suffering delays in early 1947.
+Tupolev suggested re-engining the Tu - 2 medium bomber with imported British Rolls-Royce Nene jet engines.
+The goal of re-engining the Tu - 2 medium bomber was to produce a jet bomber as quickly as possible.
+Design work for the Tupolev Tu - 12 began well before official approval was received.
+Official approval for one Tu - 2S to be converted was received on 31 May 1947.
+Official approval was received for another five Tu - 2S to be converted at Zavod (Factory) Nr. 23.
+Construction of the prototype Tupolev Tu - 12 had already begun in early May.
+The bureau designation for the prototype was Tu - 77.
+Changes from the standard Tu - 2 were minimized to speed production.
+Two Nene jet engines replaced the standard Shvetsov ASh - 82FN radial engines in the Tupolev Tu - 12.
+The wing dihedral of the Tupolev Tu - 12 was reduced to 3° from 6°.
+The fuselage of the Tupolev Tu - 12 was lengthened by 400 mm (16 in).
+The rear fuselage of the Tupolev Tu - 12 was heightened by 300 mm (12 in).
+A new tricycle undercarriage was fitted to the Tupolev Tu - 12.
+The main gear units of the Tupolev Tu - 12 retract into the engine nacelles.
+Additional fuel tanks were fitted to the Tupolev Tu - 12.
+The design of the fuel tanks was changed to accommodate the change from gasoline to kerosene.
+The control system of the Tupolev Tu - 12 was revised.
+Trim tabs were fitted to the elevators of the Tupolev Tu - 12.
+The wing and tail of the Tupolev Tu - 12 were reinforced.
+The 20 mm ShVAK cannon were removed from the wing roots of the Tupolev Tu - 12.
+A 23 mm Nudelman-Suranov NS - 23 cannon was mounted in an external fairing on the starboard side of the nose of the Tupolev Tu - 12.
+The prototype Tupolev Tu - 12 was completed in July 1947.
+The prototype Tupolev Tu - 12 was first flown on 27 July 1947.
+Two Tupolev Tu - 12 aircraft were shown at the Tushino Aviation Day Display on 3 August 1947.
+The prototype Tupolev Tu - 12 completed its manufacturer's trials in September 1947.
+The prototype Tupolev Tu - 12 underwent State acceptance trials from 4 October 1947 to 27 February 1948.
+The prototype Tupolev Tu - 12 was redesignated as the Tu - 12 during the State acceptance trials.
+The NII VVS report summarized the differences between the Tu - 2 and Tu - 12.
+The NII VVS report stated there was a considerable gain in speed with the Tu - 12.
+The NII VVS report stated there was an improved rate of climb with the Tu - 12.
+The NII VVS report stated there was a higher service ceiling with the Tu - 12.
+The NII VVS report stated there was poorer field performance with the Tu - 12.
+The NII VVS report stated there was a considerably greater fuel load required to achieve the same range as the Tu - 2.
+The lack of a pressurized cabin in the Tu - 12 greatly reduced its effectiveness at high altitude.
+The lack of deicing equipment for the wing and tail leading edges was noted as a major problem for the Tu - 12.
+The lack of deicing equipment for the cockpit glazing was noted as a major problem for the Tu - 12.
+At high speeds, it was virtually impossible to traverse and elevate the manually operated VUB - 68 and Lu - 68 gun turrets.
+The vibration of the NS - 23 cannon when firing rendered the equipment in the navigator's cabin unusable.
+The vibration of the NS - 23 cannon when firing damaged the cabin glazing of the Tu - 12.
+Turning on the Identification friend or foe (IFF) system adversely affected the intercom system of the Tu - 12.
+Turning on the Identification friend or foe (IFF) system adversely affected the radios of the Tu - 12.
+New generators had to be installed in the Tu - 12.
+The original generators of the Tu - 12 did not produce enough electrical power.
+The trials conducted by the NII VVS included engagements between the Tu - 12 and the Soviet MiG - 9 jet fighters.
+The trials conducted by the NII VVS included engagements between the Tu - 12 and the Soviet Yak - 23 jet fighters.
+The engagements between the Tu - 12 and the Soviet MiG - 9 and Yak - 23 jet fighters were very useful in evaluating the offensive armament of the fighters.
+The engagements between the Tu - 12 and the Soviet MiG - 9 and Yak - 23 jet fighters were very useful in evaluating the defensive armament of the bomber.
+The engagements between the Tu - 12 and the Soviet MiG - 9 and Yak - 23 jet fighters were very useful in evaluating the proper tactics involved for both types of aircraft.
+The tests demonstrated the inferiority of the current 12.7 mm armament of the Tu - 12.
+The inferiority of the current 12.7 mm armament meant that every Soviet bomber henceforth would have a defensive armament using power-operated turrets.
+Every Soviet bomber henceforth would carry guns of 20 mm or larger for defensive armament.
+The five aircraft modified by the factory were given the Klimov RD - 45 engine.
+The Klimov RD - 45 engine is the Soviet unlicensed copy of the Nene engine.
+All six aircraft were used by the VVS for aircrew familiarization and training.
+The aircraft completed were later promoted to frontline service.
+One aircraft was used for drone tests.
+Another aircraft was redesignated as the Tu - 12LL.
+The Tu - 12LL mounted various pulse jet engines on a pylon above the fuselage.
+The Soviet Union operated the Tupolev Tu - 12.
+The Soviet Air Force operated the Tupolev Tu - 12.
+The crew of the Tupolev Tu - 12 consisted of 5 members.
+The length of the Tupolev Tu - 12 is 16.45 m (53 ft 11 ½ in).
+The wingspan of the Tupolev Tu - 12 is 18.86 m (61 ft 10 ½ in).
+The wing area of the Tupolev Tu - 12 is 48.80 m² (525.30 ft²).
+The empty weight of the Tupolev Tu - 12 is 8993 kg (19,826 lb).
+The gross weight of the Tupolev Tu - 12 is 15,720 kg (34,657 lb).
+The powerplant of the Tupolev Tu - 12 consists of 2 Rolls-Royce Nene I turbojets.
+Each Rolls-Royce Nene I turbojet produces 22 kN (5,000 lbf) thrust.
+The maximum speed of the Tupolev Tu - 12 is 783 km/h (487 mph).
+The range of the Tupolev Tu - 12 is 2,200 km (1,367 miles).
+The service ceiling of the Tupolev Tu - 12 is 11,370 m (37,305 ft).
+The armament of the Tupolev Tu - 12 includes 1 × 23 mm NS - 23 cannon.
+The armament of the Tupolev Tu - 12 includes 2 × 12.7 mm Berezin UBT machine-guns.
+The Tupolev Tu - 12 can carry 3,000 kg (6,614 lb) of bombs.
