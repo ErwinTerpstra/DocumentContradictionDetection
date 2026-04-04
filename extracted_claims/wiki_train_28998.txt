@@ -1,0 +1,84 @@
+Pegasus Bridge is a turn-based strategy video game developed by Personal Software Services.
+Pegasus Bridge was published by Personal Software Services.
+Pegasus Bridge was released exclusively in the United Kingdom.
+Pegasus Bridge was released for the ZX Spectrum.
+Pegasus Bridge was released for the Amstrad CPC.
+Pegasus Bridge was released for the Commodore 64.
+Pegasus Bridge was released in 1987.
+Pegasus Bridge is the ninth instalment of the Strategic Wargames series.
+Pegasus Bridge is set during the landings in Normandy on D-Day in the Second World War.
+Pegasus Bridge revolves around the British 6th Airborne Division's attempts to secure a bridge over the Caen Canal.
+Alan Steel designed Pegasus Bridge.
+Alan Steel developed all of the games in the Strategic Wargames series.
+The player can assume control of either British forces or German forces in Pegasus Bridge.
+Gameplay of Pegasus Bridge focuses on British forces securing various locations in Normandy.
+Gameplay of Pegasus Bridge focuses on German forces defending the area from the attacking British.
+Pegasus Bridge received mixed reviews upon release.
+Praise was directed at the "attractive" graphics of Pegasus Bridge.
+A major bug was discovered during one reviewer's initial testing of Pegasus Bridge.
+The major bug caused Pegasus Bridge to crash.
+Pegasus Bridge revolves around the British 6th Airborne Division's attempts to secure Bénouville Bridge.
+Bénouville Bridge was later renamed Pegasus Bridge in honour of the battle.
+The Normandy landings occurred on 5 June 1944.
+The player is able to command either the British side or the German side in the game.
+British units will not appear on the map at the beginning of the game.
+The British 6th Airborne Division have not yet made their parachute drops at the beginning of the game.
+German forces are distributed around the four far corners of the map.
+A few German units are positioned near Bénouville Bridge.
+If playing as the British, the objective is to defeat all German forces.
+If playing as the British, the objective is to secure all bridges in the area.
+The capture or destruction of the Merville Battery is the ultimate goal if playing as the British.
+If playing as the Germans, the only objective is to hold off all British attacks for 18 hours.
+Holding off all British attacks for 18 hours is equivalent to 36 in-game turns.
+Pegasus Bridge features ten different types of terrain.
+The terrain affects the movement of the troops.
+The terrain affects the defensibility of certain areas.
+If units are situated in towns or woodland areas, their attacks will be less effective.
+High wind speeds will render British parachuting troops temporarily ineffective.
+Units on the map are presented as small squares.
+Units can be stacked together to increase defence.
+British forces may destroy various bridges throughout the game.
+Certain bridges must be preserved in order to win the game.
+Certain bridges include those over the Caen Canal.
+Certain bridges include those over the Orne river.
+Personal Software Services was founded in Coventry, England.
+Gary Mays founded Personal Software Services.
+Richard Cockayne founded Personal Software Services.
+Personal Software Services was founded in November 1981.
+Personal Software Services was known for creating games that revolved around historic war battles and conflicts.
+Personal Software Services created the game Theatre Europe.
+Personal Software Services created the game Bismarck.
+Personal Software Services created the game Falklands '82.
+Personal Software Services had a partnership with ERE Informatique.
+Personal Software Services published localised versions of ERE Informatique's products to the United Kingdom.
+The Strategic Wargames series was conceptualised by Alan Steel in 1984.
+Alan Steel would often research the topic of the upcoming game during development.
+Alan Steel passed on the findings to other associates in Coventry and London.
+In 1983, Personal Software Services received recognition for being "one of the top software houses" in the United Kingdom.
+Personal Software Services was a finalist for BBC Radio 4's New Business Enterprise Award in 1983.
+In 1986, Richard Cockayne decided to alter their products for release on 16-bit consoles.
+Richard Cockayne found that smaller 8-bit consoles lacked the processing power for larger strategy games.
+The decision to alter products was falsely interpreted as "pulling out" from the Spectrum market.
+Phillipa Irving is a video game journalist.
+Personal Software Services experienced financial difficulties after years of successful sales throughout the mid-1980s.
+Richard Cockayne admitted in a retrospective interview that he took his eye off the ball.
+Personal Software Services was acquired by Mirrorsoft in February 1987.
+Personal Software Services was later dispossessed by Mirrorsoft due to strains of debt.
+Owen Bishop found a major bug during testing of Pegasus Bridge.
+The major bug affected Owen Bishop's experience with Pegasus Bridge.
+Owen Bishop stated that "being Brits [we] were obviously too gentlemanly to take advantage of such a situation."
+Owen Bishop criticised the high speed at which the in-game messages flash.
+Owen Bishop described the high speed of in-game messages as "excessive."
+Philippa Irving criticised the presentation of Pegasus Bridge.
+Philippa Irving described the key action in Pegasus Bridge as "annoying."
+Philippa Irving stated that the "annoying" key action ruined playability.
+Philippa Irving stated that the controls of Pegasus Bridge were limited by a cursor.
+Philippa Irving praised the graphics of Pegasus Bridge.
+Philippa Irving praised the historical accuracy of Pegasus Bridge.
+Philippa Irving described the graphics of Pegasus Bridge as "attractive."
+Philippa Irving described the atmosphere of Pegasus Bridge as "unatmospheric."
+Philippa Irving stated that Pegasus Bridge was clearly based on the historical situation.
+A reviewer of Computer and Video Games called Pegasus Bridge an "excellent game."
+A reviewer of Computer and Video Games praised the value for money of Pegasus Bridge.
+A reviewer of Computer and Video Games criticised the "slow moving" pace of Pegasus Bridge.
+A reviewer of Computer and Video Games compared the pace of Pegasus Bridge to the fast tempo of the historical battle.

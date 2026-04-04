@@ -1,0 +1,85 @@
+Constant k filters are a type of electronic filter designed using the image method.
+Constant k filters are also known as k-type filters.
+Constant k filters are the original and simplest filters produced by the image method.
+Constant k filters consist of a ladder network of identical sections of passive components.
+Constant k filters are the first filters that could approach the ideal filter frequency response to within any prescribed limit.
+A sufficient number of sections must be added to constant k filters to achieve the desired response.
+Constant k filters are rarely considered for modern design.
+The principles behind constant k filters have been superseded by other methodologies.
+Other methodologies are more accurate in their prediction of filter response.
+Constant k filters were invented by George Campbell.
+George Campbell published his work on constant k filters in 1922.
+George Campbell had clearly invented constant k filters some time before 1922.
+Otto Zobel was a colleague of George Campbell at AT&T Co.
+Otto Zobel was already making improvements to the design of constant k filters in 1922.
+George Campbell's filters were far superior to the simpler single element circuits used previously.
+George Campbell published his work on constant k filters in 1930.
+George Campbell called his filters electric wave filters.
+The term electric wave filters later came to mean any filter that passes waves of some frequencies but not others.
+Many new forms of wave filter were subsequently invented.
+An early and important variation of wave filter was the m-derived filter.
+Otto Zobel coined the term constant k for the Campbell filter.
+The term constant k was coined to distinguish Campbell filters from other filters.
+The great advantage of Campbell's filters over the RL circuit was that they could be designed for any desired degree of stop band rejection.
+The great advantage of Campbell's filters over other simple filters was that they could be designed for steepness of transition between pass band and stop band.
+It was only necessary to add more filter sections until the desired response was obtained.
+The filters were designed by George Campbell for the purpose of separating multiplexed telephone channels on transmission lines.
+The subsequent use of constant k filters has been much more widespread than their original purpose.
+The design techniques used by George Campbell have largely been superseded.
+The ladder topology used by George Campbell with the constant k is still in use today.
+Modern filter designs such as the Tchebyscheff filter implement the ladder topology.
+George Campbell provided constant k designs for low-pass filters.
+George Campbell provided constant k designs for high-pass filters.
+George Campbell provided constant k designs for band-pass filters.
+Band-stop filters are also possible with constant k designs.
+Multiple band filters are also possible with constant k designs.
+Some impedance terms and section terms are used in this article.
+Image theory defines quantities in terms of an infinite cascade of two-port sections.
+In the case of constant k filters, there is an infinite ladder network of L-sections.
+The letter "L" in electronic filter topology refers to the specific filter shape resembling an inverted letter "L".
+The sections of the hypothetical infinite filter are made of series elements having impedance 2Z.
+The sections of the hypothetical infinite filter are made of shunt elements with admittance 2Y.
+The factor of two is introduced for mathematical convenience.
+It is usual to work in terms of half-sections where the factor of two disappears.
+The image impedance of the input and output port of a section will generally not be the same.
+A mid-series section will have the same image impedance on both ports due to symmetry.
+The image impedance of a mid-series section is designated ZiT.
+The designation ZiT is due to the "T" topology of a mid-series section.
+The image impedance of a mid-shunt section is designated ZiΠ.
+The designation ZiΠ is due to the "Π" topology of a mid-shunt section.
+Half of a "T" or "Π" section is called a half-section.
+A half-section is also an L-section but with half the element values of the full L-section.
+The image impedance of the half-section is dissimilar on the input and output ports.
+On the side presenting the series element, the image impedance of the half-section is equal to the mid-series ZiT.
+On the side presenting the shunt element, the image impedance of the half-section is equal to the mid-shunt ZiΠ.
+There are two variant ways of using a half-section.
+Parts of this article rely on the reader's knowledge of the complex impedance representation of capacitors.
+Parts of this article rely on the reader's knowledge of the complex impedance representation of inductors.
+Parts of this article rely on the reader's knowledge of the frequency domain representation of signals.
+The building block of constant k filters is the half-section "L" network.
+The half-section "L" network is composed of a series impedance Z.
+The half-section "L" network is composed of a shunt admittance Y.
+The "k" in "constant k" is the value given by a specific formula.
+The value of k will have units of impedance, specifically ohms.
+For k to be constant, Y must be the dual impedance of Z.
+A physical interpretation of k can be given by observing that k is the limiting value of Zi.
+The size of the section approaches zero while keeping k at its initial value.
+k is the characteristic impedance, Z0, of the transmission line formed by infinitesimally small sections.
+k is also the image impedance of the section at resonance in the case of band-pass filters.
+k is the image impedance of the section at ω = 0 in the case of low-pass filters.
+Elements L and C can be made arbitrarily small while retaining the same value of k.
+Z and Y are both approaching zero.
+The image impedances of the section are given by specific formulas.
+The filter does not contain any resistive elements.
+The image impedance in the pass band of the filter is purely real.
+The image impedance in the stop band of the filter is purely imaginary.
+The transition occurs at a cut-off frequency given by a specific formula.
+Below the cut-off frequency, the image impedance is real.
+Above the cut-off frequency, the image impedance is imaginary.
+The transmission parameters for a general constant k half-section are given by specific formulas.
+For a chain of n half-sections, the transmission parameters are given by a specific formula.
+For the low-pass L-shape section, below the cut-off frequency, the transmission parameters are given by a specific formula.
+The transmission is lossless in the pass-band with only the phase of the signal changing.
+Above the cut-off frequency, the transmission parameters are given by a specific formula.
+The presented plots of image impedance correspond to a low-pass prototype filter section.
+The prototype has a cut-off frequency of ωc.
