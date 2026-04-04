@@ -1,0 +1,5024 @@
+[
+  {
+    "unique_id": "news_train_170",
+    "p_pred": 0.93896484375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_127",
+    "p_pred": 0.9549153645833334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771884_10",
+    "p_pred": 0.85498046875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738276_4",
+    "p_pred": 0.99853515625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3502252163_1",
+    "p_pred": 0.9977213541666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771911_1",
+    "p_pred": 0.6370035807291666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_99",
+    "p_pred": 0.6444206237792969,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771877_3",
+    "p_pred": 0.8241373697916666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_5419",
+    "p_pred": 0.99365234375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825764_2",
+    "p_pred": 0.6502424875895182,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_288",
+    "p_pred": 0.8356119791666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29257",
+    "p_pred": 0.6974283854166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738298_1",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017442_4",
+    "p_pred": 0.9951171875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29012",
+    "p_pred": 0.9430338541666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_160",
+    "p_pred": 0.9853515625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318679_4",
+    "p_pred": 0.88916015625,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771850_1",
+    "p_pred": 0.30992571512858075,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_60",
+    "p_pred": 0.9970703125,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771848_8",
+    "p_pred": 0.9073893229166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_4506",
+    "p_pred": 0.9773763020833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017441_7",
+    "p_pred": 0.998046875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29208",
+    "p_pred": 0.6501235961914062,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3502252173_1",
+    "p_pred": 0.99560546875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318676_10",
+    "p_pred": 0.36328125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017462_4",
+    "p_pred": 0.9348958333333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_4883",
+    "p_pred": 0.9944661458333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017436_3",
+    "p_pred": 0.82275390625,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318685_2",
+    "p_pred": 0.9689127604166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738282_7",
+    "p_pred": 0.5359331766764323,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771838_3",
+    "p_pred": 0.9986979166666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738288_6",
+    "p_pred": 0.87939453125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771914_2",
+    "p_pred": 0.9990234375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_180",
+    "p_pred": 0.5026473999023438,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738268_2",
+    "p_pred": 0.6711476643880209,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29179",
+    "p_pred": 0.7223307291666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771884_2",
+    "p_pred": 0.9967447916666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771846_2",
+    "p_pred": 0.9990234375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738281_8",
+    "p_pred": 0.3999074300130208,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318683_6",
+    "p_pred": 0.9982096354166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29404",
+    "p_pred": 0.98876953125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318691_9",
+    "p_pred": 0.982421875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738298_9",
+    "p_pred": 0.3320058186848958,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771843_7",
+    "p_pred": 0.6553077697753906,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738271_2",
+    "p_pred": 0.9267578125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771838_5",
+    "p_pred": 0.9986979166666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318675_1",
+    "p_pred": 0.99658203125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_176",
+    "p_pred": 0.6642289161682129,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318681_3",
+    "p_pred": 0.9345703125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318689_1",
+    "p_pred": 0.8507486979166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29228",
+    "p_pred": 0.9200846354166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_8644",
+    "p_pred": 0.9993489583333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29371",
+    "p_pred": 0.99169921875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_124",
+    "p_pred": 0.6516249974568685,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29276",
+    "p_pred": 0.9969075520833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29113",
+    "p_pred": 0.9921875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_4476",
+    "p_pred": 0.998046875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_8323",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29057",
+    "p_pred": 0.8096516927083334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771853_2",
+    "p_pred": 0.8916015625,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318689_9",
+    "p_pred": 0.9944661458333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_28936",
+    "p_pred": 0.2275853157043457,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_54",
+    "p_pred": 0.6654463609059652,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29065",
+    "p_pred": 0.7587890625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017466_3",
+    "p_pred": 0.9444986979166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771886_8",
+    "p_pred": 0.99755859375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_10",
+    "p_pred": 0.633941650390625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_9049",
+    "p_pred": 0.9991861979166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738282_6",
+    "p_pred": 0.9913736979166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_7976",
+    "p_pred": 0.99365234375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_28957",
+    "p_pred": 0.833984375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_154",
+    "p_pred": 0.6642141342163086,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_8502",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825766_4",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771839_6",
+    "p_pred": 0.9939778645833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29350",
+    "p_pred": 0.9990234375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738299_4",
+    "p_pred": 0.99755859375,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3502252178_1",
+    "p_pred": 0.9716796875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29379",
+    "p_pred": 0.9993489583333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771868_4",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29264",
+    "p_pred": 0.9796549479166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771846_3",
+    "p_pred": 0.9990234375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017436_2",
+    "p_pred": 0.82275390625,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017447_8",
+    "p_pred": 0.196044921875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771877_4",
+    "p_pred": 0.6656901041666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771837_2",
+    "p_pred": 0.73193359375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771842_2",
+    "p_pred": 0.9972330729166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_6619",
+    "p_pred": 0.99755859375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_49",
+    "p_pred": 0.7434895833333334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738255_5",
+    "p_pred": 0.6604464848836263,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771860_4",
+    "p_pred": 0.99853515625,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017441_8",
+    "p_pred": 0.8992513020833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738249_1",
+    "p_pred": 0.9967447916666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771835_m1",
+    "p_pred": 0.99462890625,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771852_3",
+    "p_pred": 0.99951171875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3502252174_3",
+    "p_pred": 0.9967447916666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29153",
+    "p_pred": 0.9949544270833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29438",
+    "p_pred": 0.9900716145833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_110",
+    "p_pred": 0.023873170216878254,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318676_2",
+    "p_pred": 0.6652431488037109,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3502252163_5",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738277_3",
+    "p_pred": 0.6510492960611979,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771861_3",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017482_2",
+    "p_pred": 0.9982096354166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771852_4",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771853_5",
+    "p_pred": 0.9938151041666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_7415",
+    "p_pred": 0.6633127530415853,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318686_5",
+    "p_pred": 0.9881184895833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771840_9",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738272_4",
+    "p_pred": 0.6631113688151041,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771903_3",
+    "p_pred": 0.9977213541666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_63",
+    "p_pred": 0.79345703125,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29031",
+    "p_pred": 0.6635169982910156,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738287_2",
+    "p_pred": 0.68115234375,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29150",
+    "p_pred": 0.6844482421875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771870_7",
+    "p_pred": 0.7392985026041666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29421",
+    "p_pred": 0.98681640625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771834_4",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771913_2",
+    "p_pred": 0.9983723958333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29200",
+    "p_pred": 0.9977213541666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_7",
+    "p_pred": 0.6642964680989584,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_90",
+    "p_pred": 0.13778364658355713,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_4740",
+    "p_pred": 0.9970703125,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738293_3",
+    "p_pred": 0.9977213541666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_28998",
+    "p_pred": 0.99609375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738298_10",
+    "p_pred": 0.6501883665720621,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318688_8",
+    "p_pred": 0.9954427083333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_6",
+    "p_pred": 0.34080759684244794,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318684_7",
+    "p_pred": 0.974609375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_40",
+    "p_pred": 0.6676839192708334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_5",
+    "p_pred": 0.9879557291666666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29068",
+    "p_pred": 0.6467180252075195,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_7357",
+    "p_pred": 0.9967447916666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017441_1",
+    "p_pred": 0.9728190104166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825748_5",
+    "p_pred": 0.9225260416666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29206",
+    "p_pred": 0.9554036458333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_9643",
+    "p_pred": 0.9991861979166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017442_9",
+    "p_pred": 0.9972330729166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825770_7",
+    "p_pred": 0.7348225911458334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_167",
+    "p_pred": 0.5426031748453776,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_41",
+    "p_pred": 0.6654512087504069,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738263_1",
+    "p_pred": 0.6489105224609375,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_36",
+    "p_pred": 0.6484375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017484_1",
+    "p_pred": 0.9869791666666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771836_5",
+    "p_pred": 0.99658203125,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_150",
+    "p_pred": 0.98193359375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_61",
+    "p_pred": 0.6647771199544271,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738261_7",
+    "p_pred": 0.9619140625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771889_1",
+    "p_pred": 0.9949544270833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_5654",
+    "p_pred": 0.9847005208333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318678_7",
+    "p_pred": 0.994140625,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318683_3",
+    "p_pred": 0.9990234375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_28974",
+    "p_pred": 0.8507486979166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825781_10",
+    "p_pred": 0.990234375,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_2551",
+    "p_pred": 0.6657540003458658,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_88",
+    "p_pred": 0.8953450520833334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771841_m",
+    "p_pred": 0.9903971354166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29056",
+    "p_pred": 0.9964192708333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_4565",
+    "p_pred": 0.9993489583333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771837_3",
+    "p_pred": 0.99755859375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738276_8",
+    "p_pred": 0.6627965172131857,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29151",
+    "p_pred": 0.8564453125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_59",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017450_1",
+    "p_pred": 0.8948567708333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29171",
+    "p_pred": 0.95947265625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771837_1",
+    "p_pred": 0.9962565104166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738297_6",
+    "p_pred": 0.9982096354166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738256_3",
+    "p_pred": 0.99951171875,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29217",
+    "p_pred": 0.9894205729166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_6765",
+    "p_pred": 0.9920247395833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29359",
+    "p_pred": 0.6653640270233154,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_109",
+    "p_pred": 0.6384735107421875,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771834_m",
+    "p_pred": 0.99951171875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318675_4",
+    "p_pred": 0.998046875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738250_6",
+    "p_pred": 0.9943033854166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771879_6",
+    "p_pred": 0.7621256510416666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_4683",
+    "p_pred": 0.9986979166666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29399",
+    "p_pred": 0.6574236551920573,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_25",
+    "p_pred": 0.9811197916666666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017454_1",
+    "p_pred": 0.9969075520833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29030",
+    "p_pred": 0.7849934895833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771862_6",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738279_7",
+    "p_pred": 0.984375,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_5946",
+    "p_pred": 0.9972330729166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29429",
+    "p_pred": 0.84912109375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_7830",
+    "p_pred": 0.7239176432291666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771835_2",
+    "p_pred": 0.9938151041666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_3585",
+    "p_pred": 0.95166015625,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318688_5",
+    "p_pred": 0.99755859375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_5360",
+    "p_pred": 0.9991861979166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3502252172_8",
+    "p_pred": 0.99609375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771908_7",
+    "p_pred": 0.6979166666666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_346",
+    "p_pred": 0.9609375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738222_2",
+    "p_pred": 0.8308919270833334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_28961",
+    "p_pred": 0.9182942708333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29279",
+    "p_pred": 0.6603056589762369,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_86",
+    "p_pred": 0.7144368489583334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_4081",
+    "p_pred": 0.9671223958333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738256_4",
+    "p_pred": 0.99951171875,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771840_7",
+    "p_pred": 0.99609375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771875_7",
+    "p_pred": 0.9928385416666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771867_6",
+    "p_pred": 0.814208984375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_21",
+    "p_pred": 0.9977213541666666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771907_3",
+    "p_pred": 0.6735331217447916,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29403",
+    "p_pred": 0.8776041666666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771870_6",
+    "p_pred": 0.5170389811197916,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_11",
+    "p_pred": 0.89599609375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771845_6",
+    "p_pred": 0.7211100260416666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_91",
+    "p_pred": 0.7131754557291666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29299",
+    "p_pred": 0.9954427083333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318679_6",
+    "p_pred": 0.9962565104166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29157",
+    "p_pred": 0.7766927083333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_5039",
+    "p_pred": 0.9978841145833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_8",
+    "p_pred": 0.9944661458333334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771888_4",
+    "p_pred": 0.99755859375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3502252163_4",
+    "p_pred": 0.99853515625,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_42",
+    "p_pred": 0.9969075520833334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771849_4",
+    "p_pred": 0.9982096354166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29086",
+    "p_pred": 0.9978841145833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771932_1",
+    "p_pred": 0.998046875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738271_1",
+    "p_pred": 0.601806640625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825762_5",
+    "p_pred": 0.6703236897786459,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29430",
+    "p_pred": 0.9689127604166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825752_2",
+    "p_pred": 0.6605625152587891,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318672_1",
+    "p_pred": 0.9962565104166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29023",
+    "p_pred": 0.9977213541666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_3347",
+    "p_pred": 0.91259765625,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771897_6",
+    "p_pred": 0.99951171875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771908_8",
+    "p_pred": 0.9944661458333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738278_6",
+    "p_pred": 0.6664212544759115,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_46",
+    "p_pred": 0.6598052978515625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_1483",
+    "p_pred": 0.9943033854166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825763_5",
+    "p_pred": 0.97705078125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738298_4",
+    "p_pred": 0.5392411549886068,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771875_8",
+    "p_pred": 0.9874674479166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771854_10",
+    "p_pred": 0.99755859375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825760_5",
+    "p_pred": 0.99609375,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29234",
+    "p_pred": 0.8346354166666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771834_1",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738225_4",
+    "p_pred": 0.3639354705810547,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771846_1",
+    "p_pred": 0.9990234375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738277_1",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3502252176_4",
+    "p_pred": 0.9729817708333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_7060",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771836_1",
+    "p_pred": 0.6589711507161459,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318683_2",
+    "p_pred": 0.99267578125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3502252168_6",
+    "p_pred": 0.9972330729166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_8146",
+    "p_pred": 0.9632161458333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017486_5",
+    "p_pred": 0.99169921875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738288_4",
+    "p_pred": 0.998046875,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017442_8",
+    "p_pred": 0.276611328125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_128",
+    "p_pred": 0.5687662760416666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771897_2",
+    "p_pred": 0.99951171875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017475_8",
+    "p_pred": 0.9793294270833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29265",
+    "p_pred": 0.9052734375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825764_3",
+    "p_pred": 0.9591471354166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29423",
+    "p_pred": 0.99609375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_8383",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771880_2",
+    "p_pred": 0.6682764689127604,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_93",
+    "p_pred": 0.92236328125,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_375",
+    "p_pred": 0.9954427083333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318684_2",
+    "p_pred": 0.974609375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318677_2",
+    "p_pred": 0.9973958333333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_9414",
+    "p_pred": 0.9983723958333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825753_6",
+    "p_pred": 0.6631844838460287,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29220",
+    "p_pred": 0.6633567810058594,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_171",
+    "p_pred": 0.6441993713378906,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_229",
+    "p_pred": 0.3247859477996826,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_29",
+    "p_pred": 0.9991861979166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738286_3",
+    "p_pred": 0.6676890055338541,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771854_8",
+    "p_pred": 0.9895833333333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017495_3",
+    "p_pred": 0.9833984375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738267_6",
+    "p_pred": 0.9694010416666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318680_3",
+    "p_pred": 0.9983723958333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017483_7",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017445_1",
+    "p_pred": 0.9967447916666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771868_7",
+    "p_pred": 0.9983723958333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29161",
+    "p_pred": 0.818359375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771855_6",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_9386",
+    "p_pred": 0.9973958333333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771857_5",
+    "p_pred": 0.9905598958333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_158",
+    "p_pred": 0.7890625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_152",
+    "p_pred": 0.38074350357055664,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_31",
+    "p_pred": 0.7188313802083334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771930_6",
+    "p_pred": 0.97265625,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_119",
+    "p_pred": 0.7342936197916666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771845_3",
+    "p_pred": 0.7556966145833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_62",
+    "p_pred": 0.97265625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_3377",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318680_2",
+    "p_pred": 0.9952799479166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_164",
+    "p_pred": 0.34208043416341144,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771855_2",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738220_3",
+    "p_pred": 0.9845377604166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738286_7",
+    "p_pred": 0.6643310387929281,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318679_2",
+    "p_pred": 0.9930013020833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771876_2",
+    "p_pred": 0.9781901041666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_28913",
+    "p_pred": 0.9978841145833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_44",
+    "p_pred": 0.7925618489583334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825771_8",
+    "p_pred": 0.5024820963541666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29397",
+    "p_pred": 0.9635416666666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738255_7",
+    "p_pred": 0.6604464848836263,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29226",
+    "p_pred": 0.9969075520833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017445_2",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_173",
+    "p_pred": 0.667938232421875,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825759_3",
+    "p_pred": 0.9921875,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738265_3",
+    "p_pred": 0.38946533203125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29109",
+    "p_pred": 0.9884440104166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29360",
+    "p_pred": 0.77685546875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738256_7",
+    "p_pred": 0.99951171875,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738270_9",
+    "p_pred": 0.9977213541666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29313",
+    "p_pred": 0.98974609375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017454_2",
+    "p_pred": 0.9951171875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_7533",
+    "p_pred": 0.9920247395833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738242_2",
+    "p_pred": 0.6880289713541666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_50",
+    "p_pred": 0.9728190104166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771852_1",
+    "p_pred": 0.9993489583333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738247_3",
+    "p_pred": 0.6682866414388021,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771849_3",
+    "p_pred": 0.9982096354166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29416",
+    "p_pred": 0.7464192708333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_181",
+    "p_pred": 0.791015625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318680_5",
+    "p_pred": 0.9461263020833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_4148",
+    "p_pred": 0.9990234375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29300",
+    "p_pred": 0.8662109375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_168",
+    "p_pred": 0.3345595995585124,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_8006",
+    "p_pred": 0.9993489583333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771907_2",
+    "p_pred": 0.10400883356730144,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017435_4",
+    "p_pred": 0.9978841145833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771855_4",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_18",
+    "p_pred": 0.3567473888397217,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29427",
+    "p_pred": 0.9807942708333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_87",
+    "p_pred": 0.33718427022298175,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825777_11",
+    "p_pred": 0.9983723958333334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738289_8",
+    "p_pred": 0.71337890625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_9356",
+    "p_pred": 0.9986979166666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_177",
+    "p_pred": 0.619019349416097,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_126",
+    "p_pred": 0.99072265625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318677_6",
+    "p_pred": 0.9982096354166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_2727",
+    "p_pred": 0.99755859375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_6678",
+    "p_pred": 0.629638671875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318678_1",
+    "p_pred": 0.9763997395833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738273_9",
+    "p_pred": 0.6626790364583334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771849_6",
+    "p_pred": 0.9982096354166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318689_3",
+    "p_pred": 0.9944661458333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_28940",
+    "p_pred": 0.8694661458333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771896_5",
+    "p_pred": 0.5624173482259115,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318689_10",
+    "p_pred": 0.9944661458333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_1",
+    "p_pred": 0.9938151041666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771835_1",
+    "p_pred": 0.99462890625,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_9500",
+    "p_pred": 0.9993489583333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738250_5",
+    "p_pred": 0.57470703125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318685_7",
+    "p_pred": 0.7357584635416666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738275_6",
+    "p_pred": 0.6624697049458822,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318685_1",
+    "p_pred": 0.7357584635416666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318682_3",
+    "p_pred": 0.99755859375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_2406",
+    "p_pred": 0.6430041790008545,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825756_2",
+    "p_pred": 0.99853515625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771876_8",
+    "p_pred": 0.9781901041666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_1865",
+    "p_pred": 0.9982096354166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_1324",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738280_3",
+    "p_pred": 0.9905598958333334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29145",
+    "p_pred": 0.9962565104166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29160",
+    "p_pred": 0.916015625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771860_5",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738255_3",
+    "p_pred": 0.6604464848836263,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_113",
+    "p_pred": 0.9943033854166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825780_10",
+    "p_pred": 0.9444986979166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318688_2",
+    "p_pred": 0.9920247395833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_28997",
+    "p_pred": 0.99853515625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771888_8",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738236_5",
+    "p_pred": 0.6601053873697916,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738275_9",
+    "p_pred": 0.782958984375,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825747_6",
+    "p_pred": 0.3370107014973958,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_856",
+    "p_pred": 0.9990234375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771836_2",
+    "p_pred": 0.99609375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_6649",
+    "p_pred": 0.5778592427571615,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29164",
+    "p_pred": 0.9734700520833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_4535",
+    "p_pred": 0.737060546875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738240_7",
+    "p_pred": 0.6481653849283854,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017459_1",
+    "p_pred": 0.90283203125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771849_5",
+    "p_pred": 0.9982096354166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771848_7",
+    "p_pred": 0.95947265625,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318685_4",
+    "p_pred": 0.782470703125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771844_8",
+    "p_pred": 0.9775390625,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_1836",
+    "p_pred": 0.9986979166666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29296",
+    "p_pred": 0.9617513020833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29058",
+    "p_pred": 0.288482666015625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017497_1",
+    "p_pred": 0.6513570149739584,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825779_11",
+    "p_pred": 0.5756429036458334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29431",
+    "p_pred": 0.3808797200520833,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825768_8",
+    "p_pred": 0.8766276041666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29146",
+    "p_pred": 0.7217610677083334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771890_2",
+    "p_pred": 0.9635416666666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825779_10",
+    "p_pred": 0.9697265625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_28",
+    "p_pred": 0.90966796875,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_8787",
+    "p_pred": 0.9923502604166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29347",
+    "p_pred": 0.94189453125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_48",
+    "p_pred": 0.7245686848958334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318675_2",
+    "p_pred": 0.9881184895833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29385",
+    "p_pred": 0.9596354166666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_34",
+    "p_pred": 0.9991861979166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3502252163_10",
+    "p_pred": 0.9939778645833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738269_4",
+    "p_pred": 0.9964192708333334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738264_7",
+    "p_pred": 0.813232421875,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771834_3",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771897_3",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738221_3",
+    "p_pred": 0.5576985677083334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738273_8",
+    "p_pred": 0.88720703125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318676_4",
+    "p_pred": 0.35164133707682294,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_108",
+    "p_pred": 0.6586971282958984,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_83",
+    "p_pred": 0.5390218098958334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017497_4",
+    "p_pred": 0.6652882893880209,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771853_1",
+    "p_pred": 0.9861653645833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738264_2",
+    "p_pred": 0.8494466145833334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318674_9",
+    "p_pred": 0.6627604166666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738250_4",
+    "p_pred": 0.6718699137369791,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771929_6",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_7918",
+    "p_pred": 0.97119140625,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29209",
+    "p_pred": 0.6484314600626627,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017438_1",
+    "p_pred": 0.9996744791666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_3991",
+    "p_pred": 0.4253374735514323,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29312",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318681_2",
+    "p_pred": 0.9991861979166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_137",
+    "p_pred": 0.99609375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825749_3",
+    "p_pred": 0.6394856770833334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_26",
+    "p_pred": 0.3951517740885417,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318687_1",
+    "p_pred": 0.97900390625,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771851_5",
+    "p_pred": 0.9661458333333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_32",
+    "p_pred": 0.9669596354166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3502252178_2",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771844_6",
+    "p_pred": 0.9892578125,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825766_2",
+    "p_pred": 0.6664161682128906,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017461_7",
+    "p_pred": 0.9973958333333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318675_8",
+    "p_pred": 0.9557291666666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825773_9",
+    "p_pred": 0.8767903645833334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29029",
+    "p_pred": 0.6962890625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825764_6",
+    "p_pred": 0.8330078125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_5244",
+    "p_pred": 0.6024881998697916,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_30",
+    "p_pred": 0.6568725903828939,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29135",
+    "p_pred": 0.9462890625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771843_2",
+    "p_pred": 0.8382161458333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771854_1",
+    "p_pred": 0.9895833333333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017434_5",
+    "p_pred": 0.9392903645833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825776_7",
+    "p_pred": 0.5703125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_3406",
+    "p_pred": 0.9983723958333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_169",
+    "p_pred": 0.2631327311197917,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318675_5",
+    "p_pred": 0.9557291666666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_172",
+    "p_pred": 0.9978841145833334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017489_1",
+    "p_pred": 0.818359375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_2435",
+    "p_pred": 0.9962565104166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825775_8",
+    "p_pred": 0.91259765625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_51",
+    "p_pred": 0.966796875,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_6589",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825776_9",
+    "p_pred": 0.572021484375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_94",
+    "p_pred": 0.6625595092773438,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3502252178_4",
+    "p_pred": 0.9990234375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017434_4",
+    "p_pred": 0.66845703125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29143",
+    "p_pred": 0.7036946614583334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_131",
+    "p_pred": 0.994140625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_3238",
+    "p_pred": 0.99267578125,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29104",
+    "p_pred": 0.3667469024658203,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_82",
+    "p_pred": 0.42864990234375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_157",
+    "p_pred": 0.84423828125,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825747_3",
+    "p_pred": 0.72998046875,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_120",
+    "p_pred": 0.98681640625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29016",
+    "p_pred": 0.99658203125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771888_3",
+    "p_pred": 1.0,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771889_8",
+    "p_pred": 0.9482421875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_3122",
+    "p_pred": 0.9091796875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29325",
+    "p_pred": 0.73193359375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29390",
+    "p_pred": 0.12371826171875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29370",
+    "p_pred": 0.69140625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_3962",
+    "p_pred": 0.9990234375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_4176",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017444_1",
+    "p_pred": 0.99658203125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771847_7",
+    "p_pred": 0.9967447916666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_159",
+    "p_pred": 0.5309700965881348,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771840_10",
+    "p_pred": 0.98876953125,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_121",
+    "p_pred": 0.69775390625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29283",
+    "p_pred": 0.9967447916666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_6062",
+    "p_pred": 0.9959309895833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_3525",
+    "p_pred": 0.98388671875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_89",
+    "p_pred": 0.5806261698404948,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318675_9",
+    "p_pred": 0.9973958333333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771865_3",
+    "p_pred": 0.9983723958333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_132",
+    "p_pred": 0.9521484375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_4970",
+    "p_pred": 0.962890625,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771840_2",
+    "p_pred": 0.99609375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771848_6",
+    "p_pred": 0.9920247395833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29223",
+    "p_pred": 0.9816080729166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_6962",
+    "p_pred": 0.9978841145833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_9528",
+    "p_pred": 0.99755859375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738297_7",
+    "p_pred": 0.99658203125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771914_6",
+    "p_pred": 0.99755859375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771839_4",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771889_4",
+    "p_pred": 0.9959309895833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29373",
+    "p_pred": 0.9378255208333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_161",
+    "p_pred": 0.9986979166666666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_6209",
+    "p_pred": 0.6730550130208334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_972",
+    "p_pred": 0.6339330673217773,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738224_1",
+    "p_pred": 0.9822591145833334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318672_2",
+    "p_pred": 0.8098958333333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_129",
+    "p_pred": 0.4895426432291667,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29195",
+    "p_pred": 0.98876953125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738259_4",
+    "p_pred": 0.6806742350260416,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771839_11",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29441",
+    "p_pred": 0.6678059895833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738228_5",
+    "p_pred": 0.3940226236979167,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_96",
+    "p_pred": 0.6737874348958334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_146",
+    "p_pred": 0.062164306640625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_5625",
+    "p_pred": 0.6809285481770834,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29062",
+    "p_pred": 0.9347330729166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825764_5",
+    "p_pred": 0.8330078125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825758_1",
+    "p_pred": 0.9786783854166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_84",
+    "p_pred": 0.8017578125,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29049",
+    "p_pred": 0.9993489583333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_19",
+    "p_pred": 0.6218134562174479,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_135",
+    "p_pred": 0.6669336954752604,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738224_3",
+    "p_pred": 0.9986979166666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825784_9",
+    "p_pred": 0.9591471354166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771836_6",
+    "p_pred": 0.99609375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771841_6",
+    "p_pred": 0.99951171875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771909_3",
+    "p_pred": 0.6600850423177084,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_562",
+    "p_pred": 0.5841763814290365,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29382",
+    "p_pred": 0.9969075520833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_1147",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3502252164_8",
+    "p_pred": 0.9973958333333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29442",
+    "p_pred": 0.9983723958333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_3152",
+    "p_pred": 0.8240559895833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771891_7",
+    "p_pred": 0.9884440104166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29321",
+    "p_pred": 0.9143880208333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771926_1",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_57",
+    "p_pred": 0.966796875,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017493_6",
+    "p_pred": 0.8912760416666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825769_11",
+    "p_pred": 0.9046223958333334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_102",
+    "p_pred": 0.6977132161458334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771900_6",
+    "p_pred": 0.9996744791666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771836_3",
+    "p_pred": 0.6647542317708334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_28917",
+    "p_pred": 0.6746826171875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_104",
+    "p_pred": 0.8313802083333334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017497_6",
+    "p_pred": 0.7040201822916666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318673_1",
+    "p_pred": 0.9871419270833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771860_3",
+    "p_pred": 0.9986979166666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29318",
+    "p_pred": 0.661398728688558,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_165",
+    "p_pred": 0.96044921875,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738269_5",
+    "p_pred": 0.8873697916666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_3787",
+    "p_pred": 0.9451497395833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771842_6",
+    "p_pred": 0.9972330729166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017469_2",
+    "p_pred": 0.9943033854166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017469_8",
+    "p_pred": 0.6633555094401041,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_1720",
+    "p_pred": 0.9993489583333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29316",
+    "p_pred": 0.9993489583333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_23",
+    "p_pred": 0.3213777542114258,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738266_2",
+    "p_pred": 0.19301954905192056,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29127",
+    "p_pred": 0.8466796875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_134",
+    "p_pred": 0.5928548177083334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771880_9",
+    "p_pred": 0.6662801106770834,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_28967",
+    "p_pred": 0.9969075520833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738230_1",
+    "p_pred": 0.9978841145833334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825756_6",
+    "p_pred": 0.9983723958333334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29014",
+    "p_pred": 0.6643269856770834,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_7890",
+    "p_pred": 0.98486328125,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_59",
+    "p_pred": 0.9990234375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_28914",
+    "p_pred": 0.9856770833333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318682_2",
+    "p_pred": 0.9986979166666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29271",
+    "p_pred": 0.92724609375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_140",
+    "p_pred": 0.9894205729166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771839_3",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29100",
+    "p_pred": 0.783203125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771834_6",
+    "p_pred": 0.9991861979166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318677_1",
+    "p_pred": 0.9972330729166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017443_5",
+    "p_pred": 0.8536783854166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738290_9",
+    "p_pred": 0.9586588541666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017442_1",
+    "p_pred": 0.223388671875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29006",
+    "p_pred": 0.99609375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29256",
+    "p_pred": 0.9970703125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_8991",
+    "p_pred": 0.9990234375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_125",
+    "p_pred": 0.3286229769388835,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318679_3",
+    "p_pred": 0.9949544270833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017494_4",
+    "p_pred": 0.8924153645833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771846_6",
+    "p_pred": 0.9990234375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_826",
+    "p_pred": 0.669769287109375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3502252175_6",
+    "p_pred": 0.99560546875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_178",
+    "p_pred": 0.8551432291666666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_6092",
+    "p_pred": 0.9954427083333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_2080",
+    "p_pred": 0.9947916666666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318676_8",
+    "p_pred": 0.9930013020833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_8816",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_7503",
+    "p_pred": 0.9973958333333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_4264",
+    "p_pred": 0.9537760416666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771904_4",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771850_5",
+    "p_pred": 0.9842122395833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_5333",
+    "p_pred": 0.9275716145833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_8176",
+    "p_pred": 0.9422200520833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825769_9",
+    "p_pred": 0.6151529947916666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29168",
+    "p_pred": 0.99560546875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_72",
+    "p_pred": 0.6647898356119791,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017441_5",
+    "p_pred": 0.91552734375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318675_7",
+    "p_pred": 0.99658203125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318678_8",
+    "p_pred": 0.8273111979166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29247",
+    "p_pred": 0.9176432291666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_105",
+    "p_pred": 0.7271728515625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017483_1",
+    "p_pred": 0.9970703125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017474_2",
+    "p_pred": 0.99658203125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738250_7",
+    "p_pred": 0.9905598958333334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_8730",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_76",
+    "p_pred": 0.9982096354166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017446_7",
+    "p_pred": 0.9977213541666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738225_1",
+    "p_pred": 0.701904296875,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29253",
+    "p_pred": 0.9990234375,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29045",
+    "p_pred": 0.97509765625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017483_6",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29190",
+    "p_pred": 0.6795654296875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771912_2",
+    "p_pred": 0.9949544270833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_28963",
+    "p_pred": 0.986328125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_6268",
+    "p_pred": 0.99951171875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318682_1",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825756_1",
+    "p_pred": 0.7278645833333334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771849_1",
+    "p_pred": 0.9982096354166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738237_4",
+    "p_pred": 0.37690597772598267,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318678_5",
+    "p_pred": 0.82373046875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825770_10",
+    "p_pred": 0.45684814453125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738283_6",
+    "p_pred": 0.6612472534179688,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29443",
+    "p_pred": 0.7692057291666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_52",
+    "p_pred": 0.6393648783365885,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318674_1",
+    "p_pred": 0.99853515625,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771846_9",
+    "p_pred": 0.9990234375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738295_9",
+    "p_pred": 0.9894205729166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825782_11",
+    "p_pred": 0.755126953125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_28964",
+    "p_pred": 0.96923828125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29354",
+    "p_pred": 0.9825846354166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738232_5",
+    "p_pred": 0.6793212890625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_79",
+    "p_pred": 0.9542643229166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318678_6",
+    "p_pred": 0.9763997395833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29221",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771839_5",
+    "p_pred": 0.9986979166666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_7683",
+    "p_pred": 0.9967447916666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738237_5",
+    "p_pred": 0.9996744791666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_38",
+    "p_pred": 0.9925130208333334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29061",
+    "p_pred": 0.5167032877604166,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771910_1",
+    "p_pred": 0.9967447916666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825766_1",
+    "p_pred": 0.8733723958333334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771872_7",
+    "p_pred": 0.6623064676920573,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771848_1",
+    "p_pred": 0.9073893229166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738255_8",
+    "p_pred": 0.9697265625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017487_7",
+    "p_pred": 0.653509279092153,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_9147",
+    "p_pred": 0.94677734375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_111",
+    "p_pred": 0.9978841145833334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_179",
+    "p_pred": 0.3335409959157308,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738281_5",
+    "p_pred": 0.359619140625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825766_5",
+    "p_pred": 0.6699040730794271,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771933_1",
+    "p_pred": 0.9874674479166666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771842_1",
+    "p_pred": 0.6547540028889974,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017447_7",
+    "p_pred": 0.2093505859375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825775_7",
+    "p_pred": 0.91259765625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318689_6",
+    "p_pred": 0.9982096354166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29388",
+    "p_pred": 0.6675821940104166,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771839_8",
+    "p_pred": 0.9939778645833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_47",
+    "p_pred": 0.9879557291666666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3502252163_3",
+    "p_pred": 0.9978841145833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_116",
+    "p_pred": 0.6171162923177084,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318688_1",
+    "p_pred": 0.9973958333333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771865_7",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29363",
+    "p_pred": 0.7443033854166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29231",
+    "p_pred": 0.99853515625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_97",
+    "p_pred": 0.5176244576772054,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_98",
+    "p_pred": 0.6652272542317709,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_28918",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_1265",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_149",
+    "p_pred": 0.6683120727539062,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_4234",
+    "p_pred": 0.9991861979166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017472_3",
+    "p_pred": 0.9913736979166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_58",
+    "p_pred": 0.8816731770833334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771882_4",
+    "p_pred": 0.9830729166666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825773_7",
+    "p_pred": 0.6658986409505209,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29272",
+    "p_pred": 0.7060139973958334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771903_4",
+    "p_pred": 0.9977213541666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29402",
+    "p_pred": 0.6561452547709147,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771838_4",
+    "p_pred": 0.9986979166666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_78",
+    "p_pred": 0.9103190104166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_12",
+    "p_pred": 0.8662109375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_123",
+    "p_pred": 0.18547423680623373,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771878_4",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017433_5",
+    "p_pred": 0.9794921875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318686_2",
+    "p_pred": 0.99658203125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_77",
+    "p_pred": 0.5777753194173177,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738288_1",
+    "p_pred": 0.87939453125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738237_6",
+    "p_pred": 0.9952799479166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771835_3",
+    "p_pred": 0.9977213541666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_100",
+    "p_pred": 0.3451058069864909,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29218",
+    "p_pred": 0.9988606770833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_4824",
+    "p_pred": 0.97509765625,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_163",
+    "p_pred": 0.5242513020833334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29193",
+    "p_pred": 0.18997915585835776,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017488_1",
+    "p_pred": 0.6883951822916666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771845_4",
+    "p_pred": 0.93896484375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738280_6",
+    "p_pred": 0.9708658854166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771843_6",
+    "p_pred": 0.6726277669270834,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3502252169_2",
+    "p_pred": 0.7259114583333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771875_3",
+    "p_pred": 0.99609375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017494_2",
+    "p_pred": 0.8924153645833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738297_4",
+    "p_pred": 0.6871744791666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_2288",
+    "p_pred": 0.6671702067057291,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_1",
+    "p_pred": 0.4768710931142171,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29187",
+    "p_pred": 0.9959309895833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771916_1",
+    "p_pred": 0.90771484375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771854_6",
+    "p_pred": 0.9900716145833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29090",
+    "p_pred": 0.9298502604166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_8905",
+    "p_pred": 0.9949544270833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017467_7",
+    "p_pred": 0.6758015950520834,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318674_8",
+    "p_pred": 0.6851603190104166,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318690_1",
+    "p_pred": 0.98193359375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_166",
+    "p_pred": 0.4903418223063151,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_2316",
+    "p_pred": 0.5981849034627279,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_8531",
+    "p_pred": 0.9811197916666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738254_8",
+    "p_pred": 0.3439137140909831,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318677_7",
+    "p_pred": 0.98828125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771839_1",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_39",
+    "p_pred": 0.40089110533396405,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738260_6",
+    "p_pred": 0.998046875,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017441_6",
+    "p_pred": 0.9983723958333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_56",
+    "p_pred": 0.7881673177083334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_28977",
+    "p_pred": 0.9685872395833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_8875",
+    "p_pred": 0.9931640625,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017444_6",
+    "p_pred": 0.9724934895833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3502252170_5",
+    "p_pred": 0.9993489583333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3502252168_7",
+    "p_pred": 0.9972330729166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017484_7",
+    "p_pred": 0.9733072916666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_28954",
+    "p_pred": 0.9939778645833334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825784_8",
+    "p_pred": 0.9591471354166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771851_4",
+    "p_pred": 0.9651692708333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29040",
+    "p_pred": 0.98291015625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771908_5",
+    "p_pred": 0.99951171875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017465_4",
+    "p_pred": 0.998046875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_33",
+    "p_pred": 0.75537109375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29365",
+    "p_pred": 0.9962565104166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_415",
+    "p_pred": 0.9381510416666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_3",
+    "p_pred": 0.9856770833333334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771889_5",
+    "p_pred": 0.9881184895833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771887_2",
+    "p_pred": 0.84375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771854_5",
+    "p_pred": 0.99755859375,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29420",
+    "p_pred": 0.9244791666666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_3436",
+    "p_pred": 0.98876953125,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017442_2",
+    "p_pred": 0.9986979166666666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318690_3",
+    "p_pred": 0.9983723958333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017451_2",
+    "p_pred": 0.9969075520833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_9",
+    "p_pred": 0.6837972005208334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738270_2",
+    "p_pred": 0.9970703125,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_155",
+    "p_pred": 0.697021484375,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738285_2",
+    "p_pred": 0.9952799479166666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_4595",
+    "p_pred": 0.99755859375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771902_9",
+    "p_pred": 0.9905598958333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738273_6",
+    "p_pred": 0.6626790364583334,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318689_4",
+    "p_pred": 0.9892578125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29341",
+    "p_pred": 0.8720703125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738278_5",
+    "p_pred": 0.6629546483357748,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771904_2",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771851_2",
+    "p_pred": 0.98876953125,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_162",
+    "p_pred": 0.6329854329427084,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771898_4",
+    "p_pred": 0.99951171875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738255_4",
+    "p_pred": 0.4998970031738281,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3502252168_1",
+    "p_pred": 0.96923828125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017462_5",
+    "p_pred": 0.9348958333333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771873_1",
+    "p_pred": 0.9873046875,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489738296_1",
+    "p_pred": 0.9869791666666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_69",
+    "p_pred": 0.9874674479166666,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29080",
+    "p_pred": 0.978515625,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3503017465_7",
+    "p_pred": 0.8020833333333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825762_1",
+    "p_pred": 0.9576822916666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29246",
+    "p_pred": 0.8541666666666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825772_9",
+    "p_pred": 0.6427431106567383,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017452_7",
+    "p_pred": 0.65704345703125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_133",
+    "p_pred": 0.97900390625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29338",
+    "p_pred": 0.9973958333333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771902_7",
+    "p_pred": 0.9973958333333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_7150",
+    "p_pred": 0.9715169270833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771854_7",
+    "p_pred": 0.9986979166666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3489825760_4",
+    "p_pred": 0.9947916666666666,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_7179",
+    "p_pred": 0.6608698765436808,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_45",
+    "p_pred": 0.6600570678710938,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771848_2",
+    "p_pred": 0.9073893229166666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017453_10",
+    "p_pred": 0.77978515625,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_6032",
+    "p_pred": 0.9983723958333334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29140",
+    "p_pred": 0.9991861979166666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825772_7",
+    "p_pred": 0.9306640625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771918_5",
+    "p_pred": 0.9964192708333334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_1543",
+    "p_pred": 0.9873046875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_2139",
+    "p_pred": 0.9939778645833334,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771919_7",
+    "p_pred": 0.9986979166666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017437_8",
+    "p_pred": 0.9998372395833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771866_7",
+    "p_pred": 0.9938151041666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_6387",
+    "p_pred": 0.7262369791666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_66",
+    "p_pred": 0.9583333333333334,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3503017456_5",
+    "p_pred": 0.998046875,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771872_3",
+    "p_pred": 0.6623064676920573,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29303",
+    "p_pred": 0.7372233072916666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318677_3",
+    "p_pred": 0.9982096354166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "story_train_2698",
+    "p_pred": 0.6796875,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29335",
+    "p_pred": 0.9886067708333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29229",
+    "p_pred": 0.6910807291666666,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_64",
+    "p_pred": 0.6614610354105631,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29141",
+    "p_pred": 0.98779296875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771840_6",
+    "p_pred": 0.99609375,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "news_train_73",
+    "p_pred": 0.97900390625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29395",
+    "p_pred": 0.8154296875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318680_4",
+    "p_pred": 0.9969075520833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318680_1",
+    "p_pred": 0.9461263020833334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771840_5",
+    "p_pred": 0.98876953125,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017485_6",
+    "p_pred": 0.984375,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_101",
+    "p_pred": 0.99853515625,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738292_5",
+    "p_pred": 0.69482421875,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771835_5",
+    "p_pred": 0.9949544270833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771910_3",
+    "p_pred": 0.9986979166666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_736",
+    "p_pred": 0.6640707651774088,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "story_train_2465",
+    "p_pred": 0.9986979166666666,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3503017444_3",
+    "p_pred": 0.8264973958333334,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3488771855_1",
+    "p_pred": 0.9988606770833334,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771835_6",
+    "p_pred": 0.9938151041666666,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29328",
+    "p_pred": 0.998046875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825758_2",
+    "p_pred": 0.994140625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "news_train_118",
+    "p_pred": 0.45714712142944336,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "story_train_4712",
+    "p_pred": 0.9970703125,
+    "y_true": 0.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3488771892_5",
+    "p_pred": 0.9384765625,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "wiki_train_29079",
+    "p_pred": 0.9951171875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825759_5",
+    "p_pred": 0.6645018259684244,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3499318679_7",
+    "p_pred": 0.6712290445963541,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3499318678_3",
+    "p_pred": 0.9972330729166666,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_28951",
+    "p_pred": 0.98388671875,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489738297_5",
+    "p_pred": 0.974609375,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489738269_3",
+    "p_pred": 0.81640625,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_29085",
+    "p_pred": 0.892578125,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "news_train_95",
+    "p_pred": 0.3469664255777995,
+    "y_true": 0.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3488771835_m2",
+    "p_pred": 0.99462890625,
+    "y_true": 1.0,
+    "doc_type": "story"
+  },
+  {
+    "unique_id": "3499318678_2",
+    "p_pred": 0.95751953125,
+    "y_true": 1.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "wiki_train_29439",
+    "p_pred": 0.8968098958333334,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  },
+  {
+    "unique_id": "3489825782_7",
+    "p_pred": 0.99609375,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "3489825784_7",
+    "p_pred": 0.99609375,
+    "y_true": 1.0,
+    "doc_type": "news"
+  },
+  {
+    "unique_id": "wiki_train_28933",
+    "p_pred": 0.622809092203776,
+    "y_true": 0.0,
+    "doc_type": "wiki"
+  }
+]
