@@ -1,9 +1,9 @@
 Strange lights and sounds are reported in the skies all over the world.
-Blaring trumpet music is included among the strange lights and sounds.
+Blaring trumpet music is reported in the skies all over the world.
 Black flags with gold suns appear atop tall historic landmarks.
-The Statue of Liberty in New York is one of the landmarks where black flags with gold suns appear.
-The Great Pyramid of Giza in Egypt is one of the landmarks where black flags with gold suns appear.
-The Eiffel Tower in Paris is one of the landmarks where black flags with gold suns appear.
+The Statue of Liberty is a tall historic landmark.
+The Great Pyramid of Giza is a tall historic landmark.
+The Eiffel Tower is a tall historic landmark.
 The mysterious Robur is the specific epithet for English Oak, Quercus robur.
 Robur is figuratively taken to mean "strength."
 Robur is a brilliant inventor.
@@ -53,8 +53,7 @@ The two Weldon Institute members cannot find the valet.
 The two Weldon Institute members later discover that the valet had already escaped without them.
 The Albatross explodes.
 The wreckage of the Albatross plunges into the ocean.
-Robur plunges into the ocean with the wreckage of the Albatross.
-Robur's crew plunges into the ocean with the wreckage of the Albatross.
+Robur plunges into the ocean with his crew.
 The three escapees are safe on a small but inhabited island.
 The three escapees are later rescued by a ship.
 The three escapees make a long journey back to Philadelphia.
@@ -64,15 +63,16 @@ The Weldon Institute members do not admit that Robur created a flying machine gr
 The Weldon Institute members conclude the argument they were having during their last meeting.
 The Weldon Institute members decide to have one propeller in front and another behind for their dirigible.
 The Go-ahead is completed seven months after the Weldon Institute members return.
-The Go-ahead is making its maiden voyage with the president, secretary, and an aeronaut.
+The Go-ahead is making its maiden voyage.
+The president, secretary, and an aeronaut are aboard the Go-ahead during its maiden voyage.
 The speed and maneuverability of the Go-ahead marvel a huge crowd.
 The speed and maneuverability of the Go-ahead are trivial compared to Robur's Albatross.
-The Albatross appears suddenly out of the sky.
+The Albatross appears out of the sky.
 When the Albatross exploded, enough of it was intact so that at least some of the propellers operated.
 The propellers of the Albatross slowed its descent.
 The crew of the Albatross used the remains of the Albatross as a raft.
 The crew of the Albatross was rescued by a ship.
-Robur made it back to his secret X Island.
+Robur and the crew made it back to his secret X Island.
 The original Albatross was built on X Island.
 Robur has built a new Albatross.
 Robur intends to exact revenge by showing that the new Albatross is superior to the Weldon Institute's Go-ahead.

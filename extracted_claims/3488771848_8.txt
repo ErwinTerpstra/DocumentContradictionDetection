@@ -12,12 +12,12 @@ Yorick does not have a passport at a time when England is at war with France.
 Yorick risks imprisonment in the Bastille.
 Yorick decides to travel to Versailles.
 Yorick visits the Count de B**** to acquire a passport.
-Yorick notices the Count reads Hamlet.
-The Count points with his finger at Yorick's name.
-The Count mentions that he is Yorick.
-The Count mistakes Yorick for the king's jester.
-The Count quickly procures Yorick a passport.
-Yorick fails in his attempt to correct the Count.
+Yorick notices the count reads Hamlet.
+The count points with his finger at Yorick's name.
+The count mentions that he is Yorick.
+The count mistakes Yorick for the king's jester.
+The count quickly procures a passport for Yorick.
+Yorick fails in his attempt to correct the count.
 Yorick remains satisfied with receiving his passport quickly.
 Yorick returns to Paris.
 Yorick continues his voyage to Italy after staying in Paris for a few more days.
@@ -28,7 +28,7 @@ Yorick argues with Maria.
 Yorick leaves after arguing with Maria.
 Yorick passes Lyon during his journey.
 Yorick spends the night in a roadside inn.
-There is only one bedroom in the inn.
+There is only one bedroom in the roadside inn.
 Yorick is forced to share the room with a lady and her chamber-maid.
 Yorick cannot sleep during the night.
 Yorick accidentally breaks his promise to remain silent during the night.

@@ -1,7 +1,7 @@
 An unnamed narrator befriends an old "Hispano-American" gentleman.
 The old "Hispano-American" gentleman never speaks of his past.
-The narrator's interest is piqued.
-The narrator elicits the story from the old "Hispano-American" gentleman.
+The unnamed narrator's interest is piqued.
+The unnamed narrator elicits the story from the old "Hispano-American" gentleman.
 Abel is a young man of wealth.
 Abel fails at a revolution.
 Abel flees Caracas into the uncharted forests of Guayana.
@@ -23,11 +23,11 @@ Rima has dark hair.
 Rima wears a smock of spider webs.
 Rima can communicate with birds in an unknown tongue.
 Rima shields a coral snake.
-Abel is bitten by the coral snake.
+Abel is bitten by a coral snake.
 Abel falls unconscious.
 Abel awakens in the hut of Nuflo.
 Nuflo is an old man.
-Nuflo protects his granddaughter Rima.
+Nuflo protects his "granddaughter" Rima.
 Nuflo won't reveal Rima's origin.
 Rima leads Abel through the forest.
 Abel wonders about Rima's identity.
@@ -40,17 +40,19 @@ Rima's dead mother was always depressed.
 Abel falls in love with Rima.
 Rima is 17 years old.
 Rima is a stranger to white men.
-Rima is confused by odd feelings.
+Rima is confused by "odd feelings."
 Abel cannot speak Rima's unknown language.
-Rima questions Abel about the world known and unknown.
+Rima questions Abel about "the world" known and unknown.
 Rima asks Abel if she is unique and alone.
-Abel reveals that Rima is unique and alone.
-Rima perks up when Abel mentions the storied mountains of Riolama.
+Abel reveals to Rima that it is true she is unique and alone.
+Abel mentions the storied mountains of Riolama.
+Rima perks up when Abel mentions Riolama.
 "Riolama" is Rima's real name.
 Nuflo must know where Riolama is.
 Rima demands Nuflo to guide her to Riolama.
 Rima threatens Nuflo with eternal damnation from her sainted mother.
-Nuflo caves in to the pressure.
+Nuflo is old, guilty, and religious.
+Nuflo caves in to Rima's pressure.
 Abel pays a last visit to the Indians.
 The Indians capture Abel as a prisoner.
 The Indians suspect Abel is a spy for an enemy tribe.
@@ -62,12 +64,12 @@ Nuflo reveals his past along the way.
 Nuflo reveals Rima's origin.
 Seventeen years ago, Nuflo led bandits.
 The bandits preyed on Christians and Indians.
-The bandits were forced to flee to the mountains.
+The bandits were eventually forced to flee to the mountains.
 The bandits found a cave to live in.
 A strange woman speaking a bird-like language hid in the cave.
 The strange woman was to be Rima's mother.
 Rima's mother is never named.
-Nuflo assumed the strange woman was a saint sent to save his soul.
+Nuflo assumed the strange woman was a saint.
 Nuflo left the bandits.
 Nuflo carried Rima's mother to Voa.
 Voa is a Christian community.
@@ -80,16 +82,14 @@ The local Indians found Rima queer.
 The local Indians resented how Rima chased off game animals.
 The local Indians tried to kill Rima.
 A mis-shot dart killed an Indian.
-The local Indians fled Rima's magic.
+The local Indians fled Rima's "magic."
 Rima is eager to enter Riolama valley.
 Abel reveals sad news to Rima.
 Rima's mother left because nothing remained.
 Rima's mother belonged to a gentle, vegetarian people.
 The gentle, vegetarian people had no weapons.
-The gentle, vegetarian people were wiped out by Indians.
-The gentle, vegetarian people were wiped out by plague.
-The gentle, vegetarian people were wiped out by other causes.
-Rima is unique and alone.
+The gentle, vegetarian people were wiped out by Indians, plague, and other causes.
+Rima is indeed unique and alone.
 Rima is saddened by the news.
 Rima suspected her mother was always depressed.
 Rima decides to return to the forest.
@@ -99,7 +99,7 @@ Abel frets as he and Nuflo walk home.
 Abel and Nuflo are delayed by rain and hunger.
 Abel and Nuflo return to find the forest silent.
 Nuflo's hut is burned down.
-The Indians are hunting game.
+Indians are hunting game.
 Abel is exhausted.
 Abel is taken prisoner again.
 Abel isn't killed.

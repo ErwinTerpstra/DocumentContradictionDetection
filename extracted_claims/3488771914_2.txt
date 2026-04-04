@@ -41,6 +41,7 @@ One of Moll Flanders's three children lives.
 The man in Bath repents after a severe illness.
 The man in Bath breaks off the arrangement.
 The man in Bath commits to his wife.
+Moll Flanders is now 42 years old.
 Moll Flanders resorts to another beau, a banker named Callum Murray.
 Callum Murray is still married to an adulterous wife.
 Callum Murray proposes to Moll Flanders.
@@ -56,7 +57,7 @@ Bretton has lied about having money that he does not possess.
 Bretton is in fact a ruined gentleman.
 Bretton discharges Moll Flanders from the marriage.
 Bretton tells Moll Flanders that she should inherit any money he might ever get.
-Moll Flanders is pregnant again.
+Moll Flanders is now pregnant again.
 Moll Flanders lets Callum Murray believe she is available.
 Moll Flanders hopes Callum Murray returns.
 Moll Flanders gives birth.
@@ -79,7 +80,7 @@ Moll Flanders's career of thievery brings her the financial security she has alw
 Moll Flanders assumes the name Moll Flanders.
 Moll Flanders is known by the name Moll Flanders.
 Moll Flanders is helped throughout her career as a thief by her Governess.
-Moll Flanders's Governess also acts as receiver.
+Moll Flanders's Governess also acts as a receiver.
 Moll Flanders briefly becomes the mistress of a man she robbed.
 Moll Flanders is finally caught by two maids while trying to steal from a house.
 Moll Flanders is led to her repentance in Newgate.
@@ -94,10 +95,10 @@ Moll Flanders and her Lancashire husband live happily together in the Colonies.
 Moll Flanders talks the ship's captain into not being with the convicts sold upon arrival.
 Moll Flanders talks the ship's captain into being in the captain's quarters.
 Moll Flanders learns her mother has left her a plantation in the Colonies.
-Moll Flanders learns her own son (by her brother) is alive.
-Moll Flanders learns her brother/husband is alive.
+Moll Flanders learns that her own son (by her brother) is alive.
+Moll Flanders learns that her brother/husband is alive.
 Moll Flanders carefully introduces herself to her brother and their son in disguise.
-Moll Flanders and her brother found a farm with 50 servants in Maryland.
+Moll Flanders and her brother find a farm with 50 servants in Maryland.
 Moll Flanders reveals herself to her son in Virginia.
 Moll Flanders's son gives her her mother's inheritance.
 Moll Flanders's mother's inheritance is a farm.
@@ -109,7 +110,8 @@ Moll Flanders's life of conniving and desperation seems to be over.
 Moll Flanders's brother/husband is dead.
 Moll Flanders tells her Lancashire husband the entire story.
 Moll Flanders's Lancashire husband is "perfectly easy on that account."
-Moll Flanders's Lancashire husband states that it was no fault of hers, nor of his.
+Moll Flanders's Lancashire husband states that it was no fault of hers.
+Moll Flanders's Lancashire husband states that it was no fault of his.
 Moll Flanders's Lancashire husband states that it was a mistake impossible to be prevented.
 Moll Flanders is aged 69 in 1683.
 Moll Flanders and her Lancashire husband return to England.

@@ -1,14 +1,14 @@
 The Cossacks is believed to be somewhat autobiographical.
 The Cossacks is partially based on Leo Tolstoy's experiences in the Caucasus during the last stages of the Caucasian War.
 Leo Tolstoy had a morally corrupt experience in his youth.
-Leo Tolstoy engaged in numerous promiscuous partners.
-Leo Tolstoy had heavy drinking problems.
-Leo Tolstoy had gambling problems.
+Leo Tolstoy engaged in numerous promiscuous partners in his youth.
+Leo Tolstoy had heavy drinking problems in his youth.
+Leo Tolstoy had gambling problems in his youth.
 Many people argue Leo Tolstoy used his own past as inspiration for the protagonist Dmitri Olenin.
 Nobleman Dmitri Olenin joins the army as a cadet.
-Dmitri Olenin hopes to escape the superficiality of his daily life.
-Dmitri Olenin is disenchanted with his privileged life in Russian society.
-Dmitri Olenin naively hopes to find serenity among the "simple" people of the Caucasus.
+Dmitri Olenin joins the army in the hopes of escaping the superficiality of his daily life.
+Dmitri Olenin hopes to find serenity among the "simple" people of the Caucasus.
+Dmitri Olenin naively hopes to find "completeness."
 Dmitri Olenin attempts to immerse himself in the local culture.
 Dmitri Olenin befriends an old man.
 Dmitri Olenin and the old man drink wine together.
@@ -23,7 +23,7 @@ While spending life as a Cossack, Dmitri Olenin learns lessons about his own inn
 Dmitri Olenin learns lessons about moral philosophy.
 Dmitri Olenin learns lessons about the nature of reality.
 Dmitri Olenin understands the intricacies of human psychology.
-Dmitri Olenin understands the intricacies of nature.
+Dmitri Olenin understands the nature of humanity.
 Young idealist Dmitri Olenin leaves Moscow.
 Dmitri Olenin hopes to start a new life in the Caucasus.
 Dmitri Olenin slowly becomes enamored by the surroundings in the stanitsa.
@@ -38,16 +38,16 @@ Dmitri Olenin falls in love with the maid Maryanka.
 Maryanka is to be wed to Luka later in the story.
 Dmitri Olenin tries to stop his emotion for Maryanka.
 Dmitri Olenin convinces himself that he loves both Luka and Maryanka.
-Dmitri Olenin believes he loves Luka and Maryanka for their simplicity.
+Dmitri Olenin loves Luka and Maryanka for their simplicity.
 Dmitri Olenin decides that happiness can only come to a man who constantly gives to others with no thought of self-gratification.
-Dmitri Olenin first gives an extra horse to Luka.
+Dmitri Olenin gives an extra horse to Luka.
 Luka accepts the present.
-Luka does not trust Dmitri Olenin on his motives.
-As time goes on, Dmitri Olenin gains the respect of the local villagers.
+Luka does not trust Dmitri Olenin's motives.
+Dmitri Olenin gains the respect of the local villagers.
 Another Russian named Beletsky comes to the village.
 Beletsky is still attached to the ways of Moscow.
 Beletsky partially corrupts Dmitri Olenin's ideals.
-Beletsky convinces Dmitri Olenin to attempt to win Maryanka's love through his actions.
+Beletsky convinces Dmitri Olenin to attempt to win Maryanka's love.
 Dmitri Olenin approaches Maryanka several times.
 Luka hears about Dmitri Olenin's attempts from a Cossack.
 Luka does not invite Dmitri Olenin to the betrothal party.
@@ -62,7 +62,6 @@ The group of Chechens includes the brother of the man Luka killed earlier.
 The Chechens lose after the Cossacks take a cart to block their bullets.
 The brother of the slain Chechen manages to shoot Luka in the belly.
 Luka is close by when he is shot.
-Luka seems to be dying.
 Luka is being cared for by village people.
 Dmitri Olenin approaches Maryanka to ask her to marry him.
 Maryanka angrily refuses Dmitri Olenin's proposal.

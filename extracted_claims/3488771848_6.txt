@@ -16,7 +16,7 @@ Yorick notices the Count reads Hamlet.
 The Count points with his finger at Yorick's name.
 The Count mentions that he is Yorick.
 The Count mistakes Yorick for the king's jester.
-The Count quickly procures a passport for Yorick.
+The Count quickly procures Yorick a passport.
 Yorick fails in his attempt to correct the Count.
 Yorick remains satisfied with receiving his passport quickly.
 Yorick returns to Calais.
