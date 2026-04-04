@@ -22,11 +22,13 @@ Text:
 """
 
 
-REPAIR_ONE_LINER_PROMPT_TEMPLATE = """Split the text below into separate claims.
+REPAIR_ONE_LINER_PROMPT_TEMPLATE = """Split the text below into separate claims. Each sentence/claim is currently on the same line, but they MUST be separated into individual lines. 
+
+Follow these rules when splitting:
 
 Rules:
 1) Output plain text only.
-2) Write exactly one claim per line.
+2) Write exactly one claim per line, and a line end after each claim. Do not place two claims on the same line.
 3) Do not add, remove, or rewrite facts.
 4) Do not use bullets, numbering, or intro text.
 5) Do not output blank lines.
