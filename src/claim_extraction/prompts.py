@@ -20,3 +20,17 @@ Output format rules (strictly enforced):
 Text:
 {text}
 """
+
+
+REPAIR_ONE_LINER_PROMPT_TEMPLATE = """Split the text below into separate claims.
+
+Rules:
+1) Output plain text only.
+2) Write exactly one claim per line.
+3) Do not add, remove, or rewrite facts.
+4) Do not use bullets, numbering, or intro text.
+5) Do not output blank lines.
+
+Text:
+{text}
+"""

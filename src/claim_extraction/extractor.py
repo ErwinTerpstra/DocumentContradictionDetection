@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import logging
 import re
 from typing import Dict, List, Optional
 
@@ -11,11 +12,15 @@ except Exception:
 from src.claim_extraction.backends.local import call_local_llm
 from src.claim_extraction.backends.remote import call_remote_llm
 from src.claim_extraction.config import ExtractionConfig, LOCAL_DEFAULT_MAX_NEW_TOKENS, REMOTE_DEFAULT_MAX_NEW_TOKENS
-from src.claim_extraction.prompts import DIRECT_CLAIM_PROMPT_TEMPLATE
+from src.claim_extraction.prompts import DIRECT_CLAIM_PROMPT_TEMPLATE, REPAIR_ONE_LINER_PROMPT_TEMPLATE
 
 
 def _log(message: str, verbose: bool) -> None:
     if verbose:
+        # Reuse notebook run logger when available so extractor details land in the same file.
+        run_logger = logging.getLogger("extraction_txt")
+        if run_logger.handlers:
+            run_logger.info(f"[extractor] {message}")
         print(message)
 
 
@@ -152,6 +157,39 @@ def extract_claims(
         prompt = DIRECT_CLAIM_PROMPT_TEMPLATE.format(text=text)
         response = _call_llm(prompt, config)
         claims = _claims_from_response(response)
+   
+        if len(claims) == 1:
+            _log("One-line claim output detected after first extraction attempt.", config.verbose)
+            _log(f"First attempt normalized one-line output: {claims[0]}", config.verbose)
+            _log("Running one-line repair prompt (single attempt).", config.verbose)
+
+            repair_prompt = REPAIR_ONE_LINER_PROMPT_TEMPLATE.format(text=claims[0])
+            repair_config = ExtractionConfig(
+                model_name=config.model_name,
+                backend=config.backend,
+                temperature=0.0,
+                max_new_tokens=config.max_new_tokens,
+                remote_url=config.remote_url,
+                remote_api_key=config.remote_api_key,
+                remote_headers=config.remote_headers,
+                remote_timeout=config.remote_timeout,
+                verbose=config.verbose,
+            )
+            _log("Repair call uses temperature=0.0.", config.verbose)
+            repair_response = _call_llm(repair_prompt, repair_config)
+            repaired_claims = _claims_from_response(repair_response)
+
+            _log(f"Repair prompt produced {len(repaired_claims)} claim lines.", config.verbose)
+            if len(repaired_claims) > 1:
+                claims = repaired_claims
+                _log("Repair successful: one-line output was split into multiple claims.", config.verbose)
+            else:
+                _log(f"Repair raw output: {repair_response}", config.verbose)
+                if repaired_claims:
+                    _log(f"Repair normalized one-line output: {repaired_claims[0]}", config.verbose)
+                else:
+                    _log("Repair normalized output is empty.", config.verbose)
+                _log("Repair result is still one line (or empty); caller may skip this record.", config.verbose)
 
     _log(f"Extracted {len(claims)} claims.", config.verbose)
     return claims
