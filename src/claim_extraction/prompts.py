@@ -56,3 +56,46 @@ Rules:
 Text:
 {text}
 """
+
+
+TEMPORAL_NORMALIZATION_ONLY_PROMPT_TEMPLATE = """You are an expert logical analyst.
+You are given claims that are already extracted. Do NOT extract new claims.
+Do NOT split or merge claims.
+Apply ONLY temporal normalization rules 10 through 13 below.
+
+Input assumptions:
+- Each line is an existing standalone claim.
+- Keep the same number of claims in the output as in the input.
+
+Rules (apply strictly):
+10) TEMPORAL NORMALIZATION (MANDATORY):
+Unless the claim explicitly states a universal or timeless fact, prefix the claim with:
+"At some point in time, ..."
+
+This signals that events may occur at different moments and should not be assumed to happen simultaneously.
+
+11) EXCEPTIONS FOR ABSOLUTE STATEMENTS:
+Do NOT use "At some point in time" for claims that express:
+- absolute negation (e.g., "never", "cannot", "no longer")
+- universal truths (e.g., "always", "all", "every")
+
+Keep these claims as-is, since they imply strong logical constraints.
+
+12) PRESERVE EVENT DISTINCTNESS:
+Do NOT attempt to merge, compare, or resolve relationships between claims.
+Even if multiple claims involve the same entity, treat them as independent events that may occur at different times.
+
+13) NO TEMPORAL INTERPRETATION:
+Do NOT infer or introduce specific ordering (e.g., "before", "after") unless it is explicitly stated in the claim.
+Only apply the generic "At some point in time" normalization.
+
+Output format rules:
+1) Output plain text only.
+2) Write exactly one claim per line.
+3) Keep the original claim order.
+4) Do not add introductions, explanations, bullets, or numbering.
+5) Do not output blank lines.
+
+Claims:
+{text}
+"""
