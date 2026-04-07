@@ -239,8 +239,8 @@ def apply_temporal_corrections(
 ) -> List[str]:
     """Apply temporal normalization rules to already extracted claims.
 
-    This function keeps claim order and count stable where possible and only
-    applies the temporal correction pass.
+    This function preserves claim order where possible and only applies the
+    temporal correction pass.
     """
     if not isinstance(claims, list):
         raise ValueError("'claims' must be a list of strings.")
@@ -294,11 +294,10 @@ def apply_temporal_corrections(
         _log(
             (
                 "Temporal correction returned a different claim count "
-                f"(in={len(input_claims)}, out={len(corrected_claims)}); returning original claims."
+                f"(in={len(input_claims)}, out={len(corrected_claims)}); returning corrected claims."
             ),
             config.verbose,
         )
-        return input_claims
 
     _log(f"Temporal correction completed for {len(corrected_claims)} claims.", config.verbose)
     return corrected_claims
