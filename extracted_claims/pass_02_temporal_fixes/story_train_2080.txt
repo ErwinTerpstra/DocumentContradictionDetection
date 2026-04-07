@@ -1,136 +1,135 @@
-Worms are found in many places.
-Worms are found on the forest floor.
-Worms are found in mountains.
-Worms are found in many locations around the world.
-Worms are considered terrestrial animals.
-Worms are really semi-aquatic animals.
-Worms die quickly in air.
-Worms survive for months in water.
-Worms are inactive during the day.
-Worms sometimes come out of their burrows at night.
-Worms are eaten by thrushes in large numbers.
-Worms are eaten by other birds in large numbers.
-Worms lie close to the surface.
-Worms have well-developed muscular systems.
-Worms have well-developed nervous systems.
-Worms have well-developed circulatory systems.
-Worms have well-developed digestive systems.
-Worms have a unique digestive system.
-Worms are eyeless.
-Worms respond to the intensity of light.
-Worms respond to the duration of light.
-Worms slowly respond to temperature.
-Worms have no hearing.
-Worms are sensitive to vibrations.
-Worms have a feeble sense of smell.
-Worms are able to find their preferred foods.
-Worms are omnivorous animals.
-Worms swallow much earth.
-Worms extract food from the earth.
-Worms live chiefly on half-decayed leaves.
-Half-decayed leaves are partially digested by a pancreatic solution before ingestion.
-The extra-stomachal digestion of worms is not unlike that which Darwin described as occurring in Insectivorous Plants.
-The structure of the calciferous glands of earthworms is described.
-Many hypotheses have been advanced for the function of calciferous glands.
-Darwin believed the primary function of calciferous glands is for excretion.
-Darwin believed the secondary function of calciferous glands is as a digestion aid.
-Thin leaves are seized with the mouth by worms.
-Thick leaves are dragged by worms by creating a vacuum.
-Leaves are used to plug up the burrow by worms.
-Stones are used to plug up the burrow by worms.
-Plugging up the burrow may deter predators.
-Plugging up the burrow may keep out water.
-Plugging up the burrow may keep out chilled air.
-Darwin's preferred function of plugging up the burrow is to keep out chilled air.
-Worms drag leaves in mostly by the tips.
-Dragging leaves in by the tips is the easiest way for worms to do it.
-Worms change behavior when the base of the leaf is narrower.
-Worms drag pine needle clusters in by the base.
-Petioles are used to plug up burrows by worms.
-Petioles are used for food by worms.
-Worms drag experimental triangles of paper by the apex most of the time.
-Worms do not rely on trial and error.
-Worms excavate burrows by consuming material.
-Worms excavate burrows by pushing material away.
-Worms mainly consume soil for nutrients.
-Worms are found down to six or more feet.
-Worms are found especially in extreme conditions.
-Burrows are lined by worms.
-Lining burrows serves several functions.
-Burrows terminate in a chamber lined with stones or seeds.
-Worms are found all over the planet.
-Some worms are found on isolated islands.
-How worms got to isolated islands is a mystery.
-Darwin draws on correspondence with people from around the world.
-Fritz Müller is a person from Brazil with whom Darwin corresponded.
-The amount of earth brought to the surface by worms can be estimated.
-The rate at which objects on the surface are buried allows estimation of earth brought to the surface by worms.
-Weighing the earth brought up in a given time allows estimation of earth brought to the surface by worms.
-Information from farmers on marl allows Darwin to make calculations.
-Information from farmers on cinders allows Darwin to make calculations.
-Darwin conducted a 29-year experiment on chalk.
-Darwin conducted the experiment on chalk at a field near his house.
-Objects of all sorts "work themselves downwards" as farmers say.
-Large stones sink because worms fill up hollows with castings.
-Worms eject castings beyond the perimeter of hollows.
-The ground around large stones starts to rise.
-Darwin visited Stonehenge.
-Darwin found some outer stones at Stonehenge partly buried.
-The turf slopes up to meet the outer stones at Stonehenge.
-Darwin weighed castings.
-Darwin had friends weigh castings in other countries.
-Darwin weighed castings per unit area per year.
-Darwin worked out how thick a layer of castings would make.
-Darwin compared rates of sinking with the thickness of a layer of castings.
-Darwin worked out casting weight per worm per year.
-Worms have preserved many ancient objects under the ground.
-Darwin describes an ancient Roman villa in Abinger, Surrey.
-Worms have penetrated the concrete walls of ancient Roman villas.
-Worms have penetrated mortar.
-Similar subsidence occurred at Beaulieu Abbey, Hampshire.
-Worms penetrated gaps between the tiles at Beaulieu Abbey.
-Darwin's sons Francis and Horace visited Chedworth Roman Villa in Gloucestershire.
-William reported on Brading Roman Villa, Isle of Wight.
-Darwin discusses the well-preserved ruins of Silchester Roman Town, Hampshire.
-The Rev. J. G. Joyce helped Darwin with the discussion on Silchester Roman Town.
-Darwin discusses the case of the Viroconium Roman town ruins at Wroxeter, Shropshire.
-Dr. H. Johnson helped Darwin with observations on Viroconium Roman town ruins.
-Dr. H. Johnson made observations including the depth of vegetable mould.
-Darwin concludes that both worms and other causes have buried ancient ruins.
-Other causes include dust deposition.
-Other causes include washing down of soil.
-Denudation is caused mainly by air movement.
-Denudation is caused mainly by water movement.
-Humic acids generated by worms disintegrate rock.
-Worms' burrowing behavior speeds up the disintegration of rock.
-The thickening of the soil layer slows down the disintegration of rock.
-Worms swallow hard objects to aid digestion.
-Swallowing hard objects causes attrition to such objects.
-The attrition of hard objects has geological significance.
-The attrition of hard objects is especially significant for smaller particles.
-Smaller particles are otherwise eroded very slowly.
-Rain causes castings to move down an incline.
-Darwin worked out the weight of castings moving a certain distance in a given time.
-Some castings roll down.
-Some castings collect in drains.
-Some castings get blown.
-There is a greater effect on casting movement in the tropics.
-The greater effect on casting movement in the tropics is due to increased rain.
-The finest earth is washed away.
-Ledges on hillsides are partly due to casting accumulations.
-Ledges on hillsides were formerly believed to be caused by grazing mammals.
-High winds are almost as effective as slope/rain in moving castings.
-Crowns and furrows of formerly ploughed lands slowly vanish when under pasture.
-Crowns and furrows of formerly ploughed lands vanish more slowly when there is no incline.
-Fine earth is washed down from slopes.
-Fine earth makes a shallow layer.
-Dissolving of chalk supplies new earth.
-Darwin writes in the conclusion that worms have played a more important part in the history of the world than most persons would at first suppose.
-Worms are important for many reasons.
-Worms play a role in the decomposition of rocks.
-Worms play a role in the gradual denudation of the land.
-Worms play a role in the preservation of archaeological remains.
-Worms play a role in improving soil conditions for plant growth.
-Worms show complex behavior.
-Worms show flexible behavior.
-Worms have rudimentary sense organs.
+At some point in time, worms are found in many places.
+At some point in time, worms are found on the forest floor.
+At some point in time, worms are found in mountains.
+At some point in time, worms are found in many locations around the world.
+At some point in time, worms are considered terrestrial animals.
+At some point in time, worms are really semi-aquatic animals.
+At some point in time, worms die quickly in air.
+At some point in time, worms survive for months in water.
+At some point in time, worms are inactive during the day.
+At some point in time, worms sometimes come out of their burrows at night.
+At some point in time, worms are eaten by thrushes in large numbers.
+At some point in time, worms are eaten by other birds in large numbers.
+At some point in time, worms lie close to the surface.
+At some point in time, worms have well-developed muscular systems.
+At some point in time, worms have well-developed nervous systems.
+At some point in time, worms have well-developed circulatory systems.
+At some point in time, worms have well-developed digestive systems.
+At some point in time, worms have a unique digestive system.
+At some point in time, worms are eyeless.
+At some point in time, worms respond to the intensity of light.
+At some point in time, worms respond to the duration of light.
+At some point in time, worms slowly respond to temperature.
+At some point in time, worms have no hearing.
+At some point in time, worms are sensitive to vibrations.
+At some point in time, worms have a feeble sense of smell.
+At some point in time, worms are able to find their preferred foods.
+At some point in time, worms are omnivorous animals.
+At some point in time, worms swallow much earth.
+At some point in time, worms extract food from the earth.
+At some point in time, worms live chiefly on half-decayed leaves.
+At some point in time, half-decayed leaves are partially digested by a pancreatic solution before ingestion.
+At some point in time, the extra-stomachal digestion of worms is not unlike that which Darwin described as occurring in Insectivorous Plants.
+At some point in time, the structure of the calciferous glands of earthworms is described.
+At some point in time, many hypotheses have been advanced for the function of calciferous glands.
+At some point in time, Darwin believed the primary function of calciferous glands is for excretion.
+At some point in time, Darwin believed the secondary function of calciferous glands is as a digestion aid.
+At some point in time, thin leaves are seized with the mouth by worms.
+At some point in time, thick leaves are dragged by worms by creating a vacuum.
+At some point in time, leaves are used to plug up the burrow by worms.
+At some point in time, stones are used to plug up the burrow by worms.
+At some point in time, plugging up the burrow may deter predators.
+At some point in time, plugging up the burrow may keep out water.
+At some point in time, plugging up the burrow may keep out chilled air.
+At some point in time, Darwin's preferred function of plugging up the burrow is to keep out chilled air.
+At some point in time, worms drag leaves in mostly by the tips.
+At some point in time, dragging leaves in by the tips is the easiest way for worms to do it.
+At some point in time, worms change behavior when the base of the leaf is narrower.
+At some point in time, worms drag pine needle clusters in by the base.
+At some point in time, petioles are used to plug up burrows by worms.
+At some point in time, petioles are used for food by worms.
+At some point in time, worms drag experimental triangles of paper by the apex most of the time.
+At some point in time, worms do not rely on trial and error.
+At some point in time, worms excavate burrows by consuming material.
+At some point in time, worms excavate burrows by pushing material away.
+At some point in time, worms mainly consume soil for nutrients.
+At some point in time, worms are found down to six or more feet.
+At some point in time, worms are found especially in extreme conditions.
+At some point in time, burrows are lined by worms.
+At some point in time, lining burrows serves several functions.
+At some point in time, burrows terminate in a chamber lined with stones or seeds.
+At some point in time, worms are found all over the planet.
+At some point in time, some worms are found on isolated islands.
+At some point in time, how worms got to isolated islands is a mystery.
+At some point in time, Darwin draws on correspondence with people from around the world.
+At some point in time, Fritz Müller is a person from Brazil with whom Darwin corresponded.
+At some point in time, the amount of earth brought to the surface by worms can be estimated.
+At some point in time, the rate at which objects on the surface are buried allows estimation of earth brought to the surface by worms.
+At some point in time, weighing the earth brought up in a given time allows estimation of earth brought to the surface by worms.
+At some point in time, information from farmers on marl allows Darwin to make calculations.
+At some point in time, information from farmers on cinders allows Darwin to make calculations.
+At some point in time, Darwin conducted a 29-year experiment on chalk.
+At some point in time, Darwin conducted the experiment on chalk at a field near his house.
+At some point in time, objects of all sorts "work themselves downwards" as farmers say.
+At some point in time, large stones sink because worms fill up hollows with castings.
+At some point in time, worms eject castings beyond the perimeter of hollows.
+At some point in time, the ground around large stones starts to rise.
+At some point in time, Darwin visited Stonehenge.
+At some point in time, Darwin found some outer stones at Stonehenge partly buried.
+At some point in time, the turf slopes up to meet the outer stones at Stonehenge.
+At some point in time, Darwin weighed castings.
+At some point in time, Darwin had friends weigh castings in other countries.
+At some point in time, Darwin weighed castings per unit area per year.
+At some point in time, Darwin worked out how thick a layer of castings would make.
+At some point in time, Darwin compared rates of sinking with the thickness of a layer of castings.
+At some point in time, Darwin worked out casting weight per worm per year.
+At some point in time, worms have preserved many ancient objects under the ground.
+At some point in time, Darwin describes an ancient Roman villa in Abinger, Surrey.
+At some point in time, worms have penetrated the concrete walls of ancient Roman villas.
+At some point in time, worms have penetrated mortar.
+At some point in time, similar subsidence occurred at Beaulieu Abbey, Hampshire.
+At some point in time, worms penetrated gaps between the tiles at Beaulieu Abbey.
+At some point in time, Darwin's sons Francis and Horace visited Chedworth Roman Villa in Gloucestershire.
+At some point in time, William reported on Brading Roman Villa, Isle of Wight.
+At some point in time, Darwin discusses the well-preserved ruins of Silchester Roman Town, Hampshire.
+At some point in time, the Rev. J. G. Joyce helped Darwin with the discussion on Silchester Roman Town.
+At some point in time, Darwin discusses the case of the Viroconium Roman town ruins at Wroxeter, Shropshire.
+At some point in time, Dr. H. Johnson helped Darwin with observations on Viroconium Roman town ruins.
+At some point in time, Dr. H. Johnson made observations including the depth of vegetable mould.
+At some point in time, Darwin concludes that both worms and other causes have buried ancient ruins.
+At some point in time, other causes include dust deposition.
+At some point in time, other causes include washing down of soil.
+At some point in time, denudation is caused mainly by air movement.
+At some point in time, denudation is caused mainly by water movement.
+At some point in time, humic acids generated by worms disintegrate rock.
+At some point in time, worms' burrowing behavior speeds up the disintegration of rock.
+At some point in time, the thickening of the soil layer slows down the disintegration of rock.
+At some point in time, worms swallow hard objects to aid digestion.
+At some point in time, swallowing hard objects causes attrition to such objects.
+At some point in time, the attrition of hard objects has geological significance.
+At some point in time, the attrition of hard objects is especially significant for smaller particles.
+At some point in time, smaller particles are otherwise eroded very slowly.
+At some point in time, rain causes castings to move down an incline.
+At some point in time, Darwin worked out the weight of castings moving a certain distance in a given time.
+At some point in time, some castings roll down.
+At some point in time, some castings collect in drains.
+At some point in time, some castings get blown.
+At some point in time, there is a greater effect on casting movement in the tropics.
+At some point in time, the greater effect on casting movement in the tropics is due to increased rain.
+At some point in time, the finest earth is washed away.
+At some point in time, ledges on hillsides are partly due to casting accumulations.
+At some point in time, ledges on hillsides were formerly believed to be caused by grazing mammals.
+At some point in time, crowns and furrows of formerly ploughed lands slowly vanish when under pasture.
+At some point in time, crowns and furrows of formerly ploughed lands vanish more slowly when there is no incline.
+At some point in time, fine earth is washed down from slopes.
+At some point in time, fine earth makes a shallow layer.
+At some point in time, dissolving of chalk supplies new earth.
+At some point in time, Darwin writes in the conclusion that worms have played a more important part in the history of the world than most persons would at first suppose.
+At some point in time, worms are important for many reasons.
+At some point in time, worms play a role in the decomposition of rocks.
+At some point in time, worms play a role in the gradual denudation of the land.
+At some point in time, worms play a role in the preservation of archaeological remains.
+At some point in time, worms play a role in improving soil conditions for plant growth.
+At some point in time, worms show complex behavior.
+At some point in time, worms show flexible behavior.
+At some point in time, worms have rudimentary sense organs.

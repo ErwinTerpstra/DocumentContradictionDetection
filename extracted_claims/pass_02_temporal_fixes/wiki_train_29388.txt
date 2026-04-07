@@ -1,0 +1,143 @@
+At some point in time, Python is a widely used high-level programming language.
+At some point in time, Python is a general-purpose programming language.
+At some point in time, Python is an interpreted programming language.
+At some point in time, Python is a dynamic programming language.
+At some point in time, Python's design philosophy emphasizes code readability.
+At some point in time, Python's syntax allows programmers to express concepts in fewer lines of code than possible in languages such as C++ or Java.
+At some point in time, Python provides constructs intended to enable clear programs on both a small scale and a large scale.
+At some point in time, Python supports multiple programming paradigms.
+At some point in time, Python supports object-oriented programming.
+At some point in time, Python supports imperative programming.
+At some point in time, Python supports functional programming.
+At some point in time, Python supports procedural programming styles.
+At some point in time, Python features a dynamic type system.
+At some point in time, Python features automatic memory management.
+At some point in time, Python has a large and comprehensive standard library.
+At some point in time, Python interpreters are available for many operating systems.
+At some point in time, Python code can run on a wide variety of systems.
+At some point in time, using third-party tools, Python code can be packaged into stand-alone executable programs.
+At some point in time, Python-based software can be distributed to popular operating systems.
+At some point in time, Python-based software can be used on popular operating systems without needing to install a Python interpreter.
+At some point in time, CPython is the reference implementation of Python.
+At some point in time, CPython is free software.
+At some point in time, CPython is open-source software.
+At some point in time, CPython has a community-based development model.
+At some point in time, nearly all variant implementations of Python have a community-based development model.
+At some point in time, CPython is managed by the non-profit Python Software Foundation.
+At some point in time, Python was conceived in the late 1980s.
+At some point in time, Python's implementation began in December 1989.
+At some point in time, Guido van Rossum began the implementation of Python at Centrum Wiskunde & Informatica.
+At some point in time, Guido van Rossum began the implementation of Python in the Netherlands.
+At some point in time, Python is a successor to the ABC language.
+At some point in time, the ABC language was inspired by SETL.
+At some point in time, Python is capable of exception handling.
+At some point in time, Python is capable of interfacing with the operating system Amoeba.
+At some point in time, Guido van Rossum is Python's principal author.
+At some point in time, Guido van Rossum has a continuing central role in deciding the direction of Python.
+At some point in time, the Python community refers to Guido van Rossum as the benevolent dictator for life (BDFL).
+At some point in time, Guido van Rossum wrote about the origin of Python in 1996.
+At some point in time, Guido van Rossum was looking for a hobby programming project in December 1989.
+At some point in time, Guido van Rossum's office would be closed during the week around Christmas.
+At some point in time, Guido van Rossum had a home computer in December 1989.
+At some point in time, Guido van Rossum did not have much else on his hands in December 1989.
+At some point in time, Guido van Rossum decided to write an interpreter for a new scripting language.
+At some point in time, the new scripting language was a descendant of ABC.
+At some point in time, the new scripting language would appeal to Unix/C hackers.
+At some point in time, Guido van Rossum chose Python as a working title for the project.
+At some point in time, Guido van Rossum was in a slightly irreverent mood when he chose the name Python.
+At some point in time, Guido van Rossum is a big fan of Monty Python's Flying Circus.
+At some point in time, Python 2.0 was released on 16 October 2000.
+At some point in time, Python 2.0 had many major new features.
+At some point in time, Python 2.0 included a cycle-detecting garbage collector.
+At some point in time, Python 2.0 included support for Unicode.
+At some point in time, the development process of Python changed with the release of Python 2.0.
+At some point in time, the development process of Python became more transparent with the release of Python 2.0.
+At some point in time, the development process of Python became community-backed with the release of Python 2.0.
+At some point in time, Python 3.0 was released on 3 December 2008.
+At some point in time, Python 3.0 was commonly referred to as Python 3000 or py3k during its early development.
+At some point in time, Python 3.0 is a major release.
+At some point in time, Python 3.0 is a backwards-incompatible release.
+At some point in time, Python 3.0 was released after a long period of testing.
+At some point in time, many major features of Python 3.0 have been backported to Python 2.6.x.
+At some point in time, many major features of Python 3.0 have been backported to Python 2.7.x.
+At some point in time, Python is a multi-paradigm programming language.
+At some point in time, Python fully supports object-oriented programming.
+At some point in time, Python fully supports structured programming.
+At some point in time, many language features of Python support functional programming.
+At some point in time, many language features of Python support aspect-oriented programming.
+At some point in time, many paradigms are supported via extensions in Python.
+At some point in time, extensions in Python include design by contract.
+At some point in time, extensions in Python include logic programming.
+At some point in time, Python uses dynamic typing for memory management.
+At some point in time, Python uses a mix of reference counting and a cycle-detecting garbage collector for memory management.
+At some point in time, an important feature of Python is dynamic name resolution.
+At some point in time, dynamic name resolution in Python is also known as late binding.
+At some point in time, dynamic name resolution binds method and variable names during program execution.
+At some point in time, the design of Python offers some support for functional programming in the Lisp tradition.
+At some point in time, the language Python has map() functions.
+At some point in time, the language Python has reduce() functions.
+At some point in time, the language Python has filter() functions.
+At some point in time, the language Python has list comprehensions.
+At some point in time, the language Python has dictionaries.
+At some point in time, the language Python has sets.
+At some point in time, the language Python has generator expressions.
+At some point in time, the standard library of Python has two modules.
+At some point in time, the two modules in the standard library of Python are itertools and functools.
+At some point in time, the modules itertools and functools implement functional tools borrowed from Haskell.
+At some point in time, the modules itertools and functools implement functional tools borrowed from Standard ML.
+At some point in time, the core philosophy of Python is summarized by the document The Zen of Python (PEP 20).
+At some point in time, The Zen of Python includes aphorisms.
+At some point in time, one aphorism in The Zen of Python is "Beautiful is better than ugly."
+At some point in time, one aphorism in The Zen of Python is "Explicit is better than implicit."
+At some point in time, one aphorism in The Zen of Python is "Simple is better than complex."
+At some point in time, one aphorism in The Zen of Python is "Complex is better than complicated."
+At some point in time, one aphorism in The Zen of Python is "Readability counts."
+At some point in time, Python was designed to be highly extensible.
+At some point in time, Python can be embedded in existing applications that need a programmable interface.
+At some point in time, the design of Python includes a small core language.
+At some point in time, the design of Python includes a large standard library.
+At some point in time, the design of Python includes an easily extensible interpreter.
+At some point in time, Guido van Rossum intended the design of Python to be a small core language with a large standard library and an easily extensible interpreter.
+At some point in time, Guido van Rossum's frustrations with ABC influenced the design of Python.
+At some point in time, Python's philosophy offers choice in coding methodology.
+At some point in time, Python's philosophy rejects exuberant syntax.
+At some point in time, Python's philosophy favors a sparser, less-cluttered grammar.
+At some point in time, Alex Martelli stated that describing something as clever is not considered a compliment in the Python culture.
+At some point in time, Python's philosophy rejects the Perl approach of "there is more than one way to do it."
+At some point in time, Python's philosophy favors the approach of "there should be one — and preferably only one — obvious way to do it."
+At some point in time, Python's developers strive to avoid premature optimization.
+At some point in time, Python's developers reject patches to non-critical parts of CPython that would offer a marginal increase in speed at the cost of clarity.
+At some point in time, when speed is important, a Python programmer can move time-critical functions to extension modules written in languages such as C.
+At some point in time, when speed is important, a Python programmer can try using PyPy.
+At some point in time, PyPy is a just-in-time compiler.
+At some point in time, Cython is available.
+At some point in time, Cython translates a Python script into C.
+At some point in time, Cython makes direct C-level API calls into the Python interpreter.
+At some point in time, an important goal of Python's developers is making Python fun to use.
+At some point in time, the origin of the name Python comes from Monty Python.
+At some point in time, Python's tutorials and reference materials occasionally take a playful approach.
+At some point in time, Python's tutorials and reference materials use examples that refer to spam and eggs instead of the standard foo and bar.
+At some point in time, a common neologism in the Python community is pythonic.
+At some point in time, the term pythonic can have a wide range of meanings related to program style.
+At some point in time, to say that code is pythonic is to say that it uses Python idioms well.
+At some point in time, to say that code is pythonic is to say that it is natural or shows fluency in the language.
+At some point in time, to say that code is pythonic is to say that it conforms with Python's minimalist philosophy and emphasis on readability.
+At some point in time, code that is difficult to understand is called unpythonic.
+At some point in time, code that reads like a rough transcription from another programming language is called unpythonic.
+At some point in time, users and admirers of Python are often referred to as Pythonists.
+At some point in time, users and admirers of Python are often referred to as Pythonistas.
+At some point in time, users and admirers of Python are often referred to as Pythoneers.
+At some point in time, Python is intended to be a highly readable language.
+At some point in time, Python is designed to have an uncluttered visual layout.
+At some point in time, Python often uses English keywords where other languages use punctuation.
+At some point in time, Python has fewer syntactic exceptions than C.
+At some point in time, Python has fewer special cases than Pascal.
+At some point in time, Python uses whitespace indentation to delimit blocks.
+At some point in time, Python's feature of whitespace indentation is also termed the off-side rule.
+At some point in time, an increase in indentation comes after certain statements in Python.
+At some point in time, a decrease in indentation signifies the end of the current block in Python.
+At some point in time, Python's statements include the assignment statement.
+At some point in time, the assignment statement in Python uses the token '='.
+At some point in time, the equals sign in Python operates differently than in traditional imperative programming languages.
+At some point in time, the fundamental mechanism of assignment in Python illuminates many other features of the language.
+At some point in time, the nature of Python's version of variables illuminates many other features of the language.

@@ -1,54 +1,57 @@
-Penguin Island is written in the style of a sprawling 18th- and 19th-century history book.
-Penguin Island is concerned with grand metanarratives.
-Penguin Island mythologizes heroes.
-Penguin Island includes hagiography.
-Penguin Island promotes romantic nationalism.
-Penguin Island is about a fictitious island.
-The fictitious island is inhabited by great auks.
-The fictitious island existed off the northern coast of Europe.
-The history of Penguin Island begins when a wayward Christian missionary monk lands on the island.
-The wayward Christian missionary monk perceives the upright, unafraid auks as a sort of pre-Christian society of noble pagans.
-The wayward Christian missionary monk is mostly blind and somewhat deaf.
-The wayward Christian missionary monk mistakes the auks for humans.
-The wayward Christian missionary monk baptizes the auks.
-The baptism of the auks causes a problem for The Lord.
-The Lord normally only allows humans to be baptized.
-The Lord consults with saints and theologians in Heaven.
-The Lord resolves the dilemma by converting the baptized birds to humans.
-The converted humans have only a few physical traces of their ornithological origin.
-The converted humans are given each a soul.
-The history of Penguinia begins after the conversion of the auks.
-The history of Penguinia mirrors that of France.
-The history of Penguinia also mirrors more generally that of Western Europe.
-The history of Penguinia includes German-speaking areas.
-The history of Penguinia includes the British Isles.
-The narrative of Penguinia spans from the Migration Period.
-The Migration Period is also known as the "Dark Ages." The Germanic tribes fought incessantly among themselves for territory during the Migration Period.
-The narrative of Penguinia includes the heroic Early Middle Ages.
-The rise of Charlemagne is part of the narrative of Penguinia.
-Charlemagne is referred to as "Draco the Great." The narrative of Penguinia includes conflicts with Viking raiders.
-Viking raiders are referred to as "porpoises." The narrative of Penguinia includes the Renaissance.
-Erasmus is part of the narrative of Penguinia.
-The narrative of Penguinia extends up to the modern era.
-The modern era includes motor cars.
-The narrative of Penguinia extends into a future time.
-The future time includes a thriving high-tech civilization.
-The thriving high-tech civilization is destroyed by a campaign of terrorist bombings.
-The destruction of the thriving high-tech civilization leads to everything beginning again in an endless cycle.
-The longest-running plot thread in Penguin Island satirizes the Dreyfus affair.
-Brief and complex satires of European history are present throughout the novel.
-Brief and complex satires of European politics are present throughout the novel.
-Brief and complex satires of European philosophy are present throughout the novel.
-Brief and complex satires of European theology are present throughout the novel.
-Real historical figures such as Columba are part of the story.
-Real historical figures such as Saint Augustine are part of the story.
-Fictionalized characters represent historical people in the story.
-Penguin Island is a satire on society.
-Penguin Island is a satire on human nature.
-Penguin Island lampoons morals.
-Penguin Island lampoons customs.
-Penguin Island lampoons the origin of religion.
-Penguin Island lampoons laws.
-The origin of private property is presented as starting with the brutal and shameless murder of a farmer.
-The brutal and shameless murder of a farmer is followed by the seizure of his land.
-The seizure of the farmer's land is executed by a physically larger and stronger neighbour.
+At some point in time, Penguin Island is written in the style of a sprawling 18th- and 19th-century history book.
+At some point in time, Penguin Island is concerned with grand metanarratives.
+At some point in time, Penguin Island mythologizes heroes.
+At some point in time, Penguin Island includes hagiography.
+At some point in time, Penguin Island promotes romantic nationalism.
+At some point in time, Penguin Island is about a fictitious island.
+At some point in time, the fictitious island is inhabited by great auks.
+At some point in time, the fictitious island existed off the northern coast of Europe.
+At some point in time, the history of Penguin Island begins when a wayward Christian missionary monk lands on the island.
+At some point in time, the wayward Christian missionary monk perceives the upright, unafraid auks as a sort of pre-Christian society of noble pagans.
+At some point in time, the wayward Christian missionary monk is mostly blind and somewhat deaf.
+At some point in time, the wayward Christian missionary monk mistakes the auks for humans.
+At some point in time, the wayward Christian missionary monk baptizes the auks.
+At some point in time, the baptism of the auks causes a problem for The Lord.
+At some point in time, The Lord normally only allows humans to be baptized.
+At some point in time, The Lord consults with saints and theologians in Heaven.
+At some point in time, The Lord resolves the dilemma by converting the baptized birds to humans.
+At some point in time, the converted humans have only a few physical traces of their ornithological origin.
+At some point in time, the converted humans are given each a soul.
+At some point in time, the history of Penguinia begins after the conversion of the auks.
+At some point in time, the history of Penguinia mirrors that of France.
+At some point in time, the history of Penguinia also mirrors more generally that of Western Europe.
+At some point in time, the history of Penguinia includes German-speaking areas.
+At some point in time, the history of Penguinia includes the British Isles.
+At some point in time, the narrative of Penguinia spans from the Migration Period.
+At some point in time, the Migration Period is also known as the "Dark Ages."
+At some point in time, the Germanic tribes fought incessantly among themselves for territory during the Migration Period.
+At some point in time, the narrative of Penguinia includes the heroic Early Middle Ages.
+At some point in time, the rise of Charlemagne is part of the narrative of Penguinia.
+At some point in time, Charlemagne is referred to as "Draco the Great."
+At some point in time, the narrative of Penguinia includes conflicts with Viking raiders.
+At some point in time, Viking raiders are referred to as "porpoises."
+At some point in time, the narrative of Penguinia includes the Renaissance.
+At some point in time, Erasmus is part of the narrative of Penguinia.
+At some point in time, the narrative of Penguinia extends up to the modern era.
+At some point in time, the modern era includes motor cars.
+At some point in time, the narrative of Penguinia extends into a future time.
+At some point in time, the future time includes a thriving high-tech civilization.
+At some point in time, the thriving high-tech civilization is destroyed by a campaign of terrorist bombings.
+At some point in time, the destruction of the thriving high-tech civilization leads to everything beginning again in an endless cycle.
+At some point in time, the longest-running plot thread in Penguin Island satirizes the Dreyfus affair.
+At some point in time, brief and complex satires of European history are present throughout the novel.
+At some point in time, brief and complex satires of European politics are present throughout the novel.
+At some point in time, brief and complex satires of European philosophy are present throughout the novel.
+At some point in time, brief and complex satires of European theology are present throughout the novel.
+At some point in time, real historical figures such as Columba are part of the story.
+At some point in time, real historical figures such as Saint Augustine are part of the story.
+At some point in time, fictionalized characters represent historical people in the story.
+At some point in time, Penguin Island is a satire on society.
+At some point in time, Penguin Island is a satire on human nature.
+At some point in time, Penguin Island lampoons morals.
+At some point in time, Penguin Island lampoons customs.
+At some point in time, Penguin Island lampoons the origin of religion.
+At some point in time, Penguin Island lampoons laws.
+At some point in time, the origin of private property is presented as starting with the brutal and shameless murder of a farmer.
+At some point in time, the brutal and shameless murder of a farmer is followed by the seizure of his land.
+At some point in time, the seizure of the farmer's land is executed by a physically larger and stronger neighbour.

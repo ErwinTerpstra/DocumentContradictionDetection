@@ -1,86 +1,88 @@
-Allan Quatermain is an adventurer and white hunter based in Durban, in what is now South Africa.
-Sir Henry Curtis is an aristocrat.
-Captain Good is a friend of Sir Henry Curtis.
-Sir Henry Curtis seeks Allan Quatermain's help to find Sir Henry's brother.
-Sir Henry's brother was last seen travelling north into the unexplored interior.
-Sir Henry's brother was on a quest for the fabled King Solomon's Mines.
-Allan Quatermain has a mysterious map that purports to lead to King Solomon's Mines.
-Allan Quatermain has never taken the map seriously.
-Allan Quatermain agrees to lead an expedition in return for a share of the treasure.
-Allan Quatermain agrees to lead an expedition for a stipend for his son if Allan Quatermain is killed along the way.
-Allan Quatermain has little hope that the expedition will return alive.
-Allan Quatermain reasons that he has already outlived most people in his profession.
-Dying in this manner ensures that Allan Quatermain's son will be provided for.
-Umbopa is a mysterious native who joins the expedition.
-Umbopa seems more regal, handsome, and well-spoken than most porters of his class.
-Umbopa is very anxious to join the party.
-The expedition travels by oxcart.
-The expedition reaches the edge of a desert.
-A wounded elephant claims the life of a servant during a hunt.
-The expedition continues on foot across the desert.
-The expedition almost dies of thirst before finding an oasis shown halfway across on the map.
-The expedition reaches a mountain range called Suliman Berg.
-The expedition climbs a peak known as one of "Sheba's Breasts." The expedition enters a cave.
-The expedition finds the frozen corpse of José Silvestre.
-José Silvestre is a 16th-century Portuguese explorer.
-José Silvestre drew the map in his own blood.
-A second servant dies from the cold that night.
-The expedition leaves the second servant's body next to José Silvestre's body.
-The expedition crosses the mountains into a raised valley known as Kukuanaland.
-Kukuanaland is lush and green.
-The inhabitants of Kukuanaland have a well-organised army and society.
-The inhabitants of Kukuanaland speak an ancient dialect of IsiZulu.
-Kukuanaland's capital is Loo.
-Loo is the destination of a magnificent road from ancient times.
-The city of Loo is dominated by a central royal kraal.
-The expedition soon meets a party of Kukuana warriors.
-The Kukuana warriors are about to kill the expedition.
-Captain Good nervously fidgets with his false teeth.
-The Kukuana warriors recoil in fear when Captain Good fidgets with his false teeth.
-The expedition styles themselves "white men from the stars." The expedition claims to be sorcerer-gods.
-The expedition is required to give regular proof of their divinity.
-Giving proof of their divinity strains both the nerves and ingenuity of the expedition.
-The expedition is brought before King Twala.
-King Twala rules over his people with ruthless violence.
-King Twala came to power years before by murdering his brother.
-King Twala drove his brother's wife and infant son, Ignosi, out into the desert to die.
-King Twala's rule is unchallenged.
-Gagool is an evil, impossibly ancient hag.
-Gagool is King Twala's chief advisor.
-Gagool roots out potential opposition by ordering regular witch hunts.
-Gagool murders without trial all those identified as traitors.
-Gagool singles out Umbopa for murder.
-Quatermain uses all his skill to save Umbopa's life.
-Gagool has already sensed that Umbopa is Ignosi.
-Umbopa reveals that he is Ignosi, the rightful king of the Kukuanas.
-A rebellion breaks out.
-The Englishmen gain support for Ignosi by taking advantage of their foreknowledge of a lunar eclipse.
-The Englishmen claim that they will black out the moon as proof of Ignosi's claim.
-The Englishmen join Ignosi's army in a furious battle.
-The rebels overthrow King Twala.
-Sir Henry Curtis lops off King Twala's head in a duel.
-The Englishmen capture Gagool.
-Gagool reluctantly leads the Englishmen to King Solomon's Mines.
-Gagool shows the Englishmen a treasure room inside a mountain.
-The treasure room is carved deep within the living rock.
-The treasure room is full of gold, diamonds, and ivory.
-Gagool treacherously sneaks out while the Englishmen admire the hoard.
-Gagool triggers a secret mechanism that closes the mine's vast stone door.
-Gagool has a brief scuffle with a beautiful native named Foulata.
-Foulata had become attached to Captain Good after nursing him through his injuries.
-Gagool crushes herself under the stone door.
-Gagool fatally stabs Foulata before dying.
-The trapped men prepare to die.
-The trapped men find an escape route after a few despairing days sealed in the dark chamber.
-The trapped men bring with them a few pocketfuls of diamonds from the immense trove.
-The diamonds are enough to make the trapped men rich.
-The Englishmen bid farewell to a sorrowful Ignosi.
-The Englishmen assure Ignosi that they value his friendship.
-The Englishmen must return to be with their own people.
-Ignosi promises the Englishmen that they will be venerated and honoured among his people forever.
-The Englishmen find Sir Henry's brother stranded in an oasis.
-Sir Henry's brother has a broken leg.
-Sir Henry's brother is unable to go forward or back.
-The Englishmen return to Durban.
-The Englishmen eventually return to England.
-The Englishmen are wealthy enough to live comfortable lives.
+At some point in time, Allan Quatermain is an adventurer and white hunter based in Durban, in what is now South Africa.
+At some point in time, Sir Henry Curtis is an aristocrat.
+At some point in time, Captain Good is a friend of Sir Henry Curtis.
+At some point in time, Sir Henry Curtis seeks Allan Quatermain's help to find Sir Henry's brother.
+At some point in time, Sir Henry's brother was last seen travelling north into the unexplored interior.
+At some point in time, Sir Henry's brother was on a quest for the fabled King Solomon's Mines.
+At some point in time, Allan Quatermain has a mysterious map that purports to lead to King Solomon's Mines.
+At some point in time, Allan Quatermain has never taken the map seriously.
+At some point in time, Allan Quatermain agrees to lead an expedition in return for a share of the treasure.
+At some point in time, Allan Quatermain agrees to lead an expedition for a stipend for his son if Allan Quatermain is killed along the way.
+At some point in time, Allan Quatermain has little hope that the expedition will return alive.
+At some point in time, Allan Quatermain reasons that he has already outlived most people in his profession.
+At some point in time, dying in this manner ensures that Allan Quatermain's son will be provided for.
+At some point in time, Umbopa is a mysterious native who joins the expedition.
+At some point in time, Umbopa seems more regal, handsome, and well-spoken than most porters of his class.
+At some point in time, Umbopa is very anxious to join the party.
+At some point in time, the expedition travels by oxcart.
+At some point in time, the expedition reaches the edge of a desert.
+At some point in time, a wounded elephant claims the life of a servant during a hunt.
+At some point in time, the expedition continues on foot across the desert.
+At some point in time, the expedition almost dies of thirst before finding an oasis shown halfway across on the map.
+At some point in time, the expedition reaches a mountain range called Suliman Berg.
+At some point in time, the expedition climbs a peak known as one of "Sheba's Breasts."
+At some point in time, the expedition enters a cave.
+At some point in time, the expedition finds the frozen corpse of José Silvestre.
+At some point in time, José Silvestre is a 16th-century Portuguese explorer.
+At some point in time, José Silvestre drew the map in his own blood.
+At some point in time, a second servant dies from the cold that night.
+At some point in time, the expedition leaves the second servant's body next to José Silvestre's body.
+At some point in time, the expedition crosses the mountains into a raised valley known as Kukuanaland.
+At some point in time, Kukuanaland is lush and green.
+At some point in time, the inhabitants of Kukuanaland have a well-organised army and society.
+At some point in time, the inhabitants of Kukuanaland speak an ancient dialect of IsiZulu.
+At some point in time, Kukuanaland's capital is Loo.
+At some point in time, Loo is the destination of a magnificent road from ancient times.
+At some point in time, the city of Loo is dominated by a central royal kraal.
+At some point in time, the expedition soon meets a party of Kukuana warriors.
+At some point in time, the Kukuana warriors are about to kill the expedition.
+At some point in time, Captain Good nervously fidgets with his false teeth.
+At some point in time, the Kukuana warriors recoil in fear when Captain Good fidgets with his false teeth.
+At some point in time, the expedition styles themselves "white men from the stars."
+At some point in time, the expedition claims to be sorcerer-gods.
+At some point in time, the expedition is required to give regular proof of their divinity.
+At some point in time, giving proof of their divinity strains both the nerves and ingenuity of the expedition.
+At some point in time, the expedition is brought before King Twala.
+At some point in time, King Twala rules over his people with ruthless violence.
+At some point in time, King Twala came to power years before by murdering his brother.
+At some point in time, King Twala drove his brother's wife and infant son, Ignosi, out into the desert to die.
+At some point in time, King Twala's rule is unchallenged.
+At some point in time, Gagool is an evil, impossibly ancient hag.
+At some point in time, Gagool is King Twala's chief advisor.
+At some point in time, Gagool roots out potential opposition by ordering regular witch hunts.
+At some point in time, Gagool murders without trial all those identified as traitors.
+At some point in time, Gagool singles out Umbopa for murder.
+At some point in time, Quatermain uses all his skill to save Umbopa's life.
+At some point in time, Gagool has already sensed that Umbopa is Ignosi.
+At some point in time, Umbopa reveals that he is Ignosi, the rightful king of the Kukuanas.
+At some point in time, a rebellion breaks out.
+At some point in time, the Englishmen gain support for Ignosi by taking advantage of their foreknowledge of a lunar eclipse.
+At some point in time, the Englishmen claim that they will black out the moon as proof of Ignosi's claim.
+At some point in time, the Englishmen join Ignosi's army in a furious battle.
+At some point in time, the rebels overthrow King Twala.
+At some point in time, Sir Henry Curtis lops off King Twala's head in a duel.
+At some point in time, the Englishmen capture Gagool.
+At some point in time, Gagool reluctantly leads the Englishmen to King Solomon's Mines.
+At some point in time, Gagool shows the Englishmen a treasure room inside a mountain.
+At some point in time, the treasure room is carved deep within the living rock.
+At some point in time, the treasure room is full of gold, diamonds, and ivory.
+At some point in time, Gagool treacherously sneaks out while the Englishmen admire the hoard.
+At some point in time, Gagool triggers a secret mechanism that closes the mine's vast stone door.
+At some point in time, Gagool has a brief scuffle with a beautiful native named Foulata.
+At some point in time, Foulata had become attached to Captain Good after nursing him through his injuries.
+At some point in time, Gagool crushes herself under the stone door.
+At some point in time, Gagool fatally stabs Foulata before dying.
+At some point in time, the trapped men prepare to die.
+At some point in time, the trapped men find an escape route after a few despairing days sealed in the dark chamber.
+At some point in time, the trapped men bring with them a few pocketfuls of diamonds from the immense trove.
+At some point in time, the diamonds are enough to make the trapped men rich.
+At some point in time, the Englishmen bid farewell to a sorrowful Ignosi.
+At some point in time, the Englishmen assure Ignosi that they value his friendship.
+At some point in time, the Englishmen must return to be with their own people.
+At some point in time, Ignosi promises the Englishmen that they will be venerated and honoured among his people forever.
+At some point in time, the Englishmen find Sir Henry's brother stranded in an oasis.
+At some point in time, Sir Henry's brother has a broken leg.
+At some point in time, Sir Henry's brother is unable to go forward or back.
+At some point in time, the Englishmen return to Durban.
+At some point in time, the Englishmen eventually return to England.
+At some point in time, the Englishmen are wealthy enough to live comfortable lives.

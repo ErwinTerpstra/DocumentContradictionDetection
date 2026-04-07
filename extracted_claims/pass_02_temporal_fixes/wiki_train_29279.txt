@@ -1,0 +1,111 @@
+At some point in time, Cauldron II: The Pumpkin Strikes Back is a computer game developed and published by British developer Palace Software.
+At some point in time, Cauldron II: The Pumpkin Strikes Back is a sequel to the 1985 title Cauldron.
+At some point in time, Cauldron II: The Pumpkin Strikes Back is a two-dimensional (2D) platform game.
+At some point in time, Cauldron II: The Pumpkin Strikes Back was released in 1986 for the ZX Spectrum.
+At some point in time, Cauldron II: The Pumpkin Strikes Back was released in 1986 for the Commodore 64.
+At some point in time, Cauldron II: The Pumpkin Strikes Back was released in 1986 for the Amstrad CPC home computers.
+At some point in time, players control a bouncing pumpkin in Cauldron II: The Pumpkin Strikes Back.
+At some point in time, the bouncing pumpkin is on a quest of vengeance against the "Witch Queen" in Cauldron II: The Pumpkin Strikes Back.
+At some point in time, the roles of the pumpkin and the witch were reversed from the first game.
+At some point in time, in the first game, the witch defeated a monster pumpkin.
+At some point in time, Steve Brown began work on a sequel to Cauldron following its success.
+At some point in time, a very different gameplay was implemented for the sequel to provide fans of the original title with a new experience.
+At some point in time, several minor features retained connections to the first game.
+At some point in time, Steve Brown designed Cauldron II: The Pumpkin Strikes Back around the bouncing pumpkin character's movement.
+At some point in time, the bouncing mechanic proved problematic for the programmers.
+At some point in time, the programmers were unable to perfect the implementation of the bouncing mechanic.
+At some point in time, technical limitations prevented the programmers from implementing certain animations.
+At some point in time, the animations that could not be implemented included turning pages of a book.
+At some point in time, Cauldron II was first released on the Commodore 64.
+At some point in time, Cauldron II was released in the following years on other systems.
+At some point in time, Cauldron II was released as re-releases.
+At some point in time, the game received praise mainly for its audio-visuals in video game magazines.
+At some point in time, difficulty in handling the bouncing pumpkin's movement was a common complaint.
+At some point in time, reviewers felt the overall package of Cauldron II was of good value.
+At some point in time, in Cauldron, the protagonist was a witch.
+At some point in time, the witch became the "Witch Queen" by defeating an enemy called the "Pumpking."
+At some point in time, in Cauldron II, players control a pumpkin that has survived the witch's ascent to power.
+At some point in time, the pumpkin seeks to defeat the witch in Cauldron II.
+At some point in time, Cauldron II takes place in the witch's castle.
+At some point in time, players control the pumpkin by manipulating the direction and height of its bounce.
+At some point in time, Halloween-themed enemies inhabit the game world of Cauldron II.
+At some point in time, the Halloween-themed enemies include ghosts, monsters, and skeletons.
+At some point in time, contact with an enemy drains the pumpkin's magic meter.
+At some point in time, the magic meter fuels the protagonist's offensive projectiles.
+At some point in time, the character dies once the magic meter is depleted.
+At some point in time, the pumpkin has a limited number of lives to continue the game.
+At some point in time, the game ends once all of the pumpkin's lives have been expended.
+At some point in time, on continuing, the pumpkin reappears on the screen with a refilled magic meter.
+At some point in time, the success of Cauldron in 1985 prompted Palace Software to produce a sequel.
+At some point in time, the development team wanted to be innovative and implement new gameplay features for the sequel.
+At some point in time, Steven Brown resumed his role as designer for Cauldron II.
+At some point in time, Richard Leinfellner resumed his role as programmer for Cauldron II.
+At some point in time, Richard Joseph handled the audio design for Cauldron II.
+At some point in time, Stan Schembri programmed the Commodore 64 version of Cauldron II.
+At some point in time, Brown drew inspiration from the final scene of Cauldron.
+At some point in time, the final scene of Cauldron features the witch's fight against the Pumpking.
+At some point in time, the Pumpking bounced around a room in the final scene of Cauldron.
+At some point in time, Brown felt the bouncing pumpkin looked "cool."
+At some point in time, Brown decided to base the sequel's gameplay on the bouncing pumpkin's aspect.
+At some point in time, the other team members proceeded with development despite being unsure about the idea.
+At some point in time, the pumpkin's movement could change direction only if force is applied to it while in contact with a surface that provides friction.
+At some point in time, the mechanic prohibited the pumpkin from changing directions while in mid-air.
+At some point in time, the mechanic proved problematic for the programmers to implement.
+At some point in time, issues included difficulties with collision detection.
+At some point in time, unpredictable movements led to glitches during development.
+At some point in time, the pumpkin's ability to fire projectiles was intended to provide offensive game mechanics to players.
+At some point in time, in early designs, the projectile inadvertently generated a force that changed the pumpkin's direction.
+At some point in time, the programmers tried to correct the projectile issue but were unable to create a perfect solution.
+At some point in time, Brown switched focus to the game's aesthetics as the gameplay designs were being implemented.
+At some point in time, scenes from the game were sketched on storyboards to aid development.
+At some point in time, Cauldron II's game world was designed to resemble Palace Software's logo as an advertising tactic.
+At some point in time, Brown photographed separate screens of the game and assembled them into a complete map.
+At some point in time, the complete map showed the shape of Palace Software's logo for video game magazines.
+At some point in time, enemy designs in Cauldron II were similar to those in the previous game.
+At some point in time, enemy designs were based on the Halloween holiday.
+At some point in time, Brown envisioned a graphical effect for the game's narration.
+At some point in time, the graphical effect would show a book whose pages turned as the story is read.
+At some point in time, technical limitations prohibited the implementation of the graphical effect.
+At some point in time, Brown wanted the game's visuals to scroll seamlessly as the character moved through the game world.
+At some point in time, flick-screening was more feasible than seamless scrolling for the game's visuals.
+At some point in time, Brown created a Plasticine model of the witch character as a reference for a painting used for the game's box art.
+At some point in time, the group tested the game prior to release.
+At some point in time, the group deemed the game too challenging prior to release.
+At some point in time, the group reduced the difficulty level so that more players could complete the game.
+At some point in time, Palace Software developed Cauldron II for three home computers: Amstrad CPC, Commodore 64, and ZX Spectrum.
+At some point in time, the game was first released for the Commodore 64.
+At some point in time, the game was later released for the Amstrad CPC.
+At some point in time, the game was later released for the ZX Spectrum.
+At some point in time, Cauldron II was re-released on the ZX Spectrum in 1989 by Telecomsoft under its Silverbird budget label.
+At some point in time, Cauldron II was re-released with the first game as a compilation title for Amstrad CPC and ZX Spectrum computers.
+At some point in time, the game was well received by video game journalists upon its release.
+At some point in time, ZX Spectrum magazines Crash and ZX Computing awarded Cauldron II their top accolades.
+At some point in time, Crash awarded Cauldron II the accolade "Crash Smash."
+At some point in time, ZX Computing awarded Cauldron II the accolade "Monster Hit."
+At some point in time, praise from the video game press focused on the graphical quality of Cauldron II.
+At some point in time, criticism directed at the gameplay of Cauldron II was mixed.
+At some point in time, Computer and Video Games reviewer Paul Boughton praised the size of the game world.
+At some point in time, Paul Boughton criticized the audio quality of the Amstrad CPC and ZX Spectrum versions.
+At some point in time, Paul Boughton cited the limited capabilities of the Amstrad CPC and ZX Spectrum versions.
+At some point in time, Paul Boughton felt any version of Cauldron II would be worth purchasing.
+At some point in time, Phil South of Your Sinclair praised the game's presentation and design.
+At some point in time, Phil South called the graphics of Cauldron II "lovely."
+At some point in time, Phil South called the platform gameplay of Cauldron II "original."
+At some point in time, ZX Computing's reviewer praised the audio-visuals of Cauldron II.
+At some point in time, ZX Computing's reviewer recommended Cauldron II for fans of the previous game.
+At some point in time, a Crash magazine reviewer lauded the audio-visuals of the ZX Spectrum version of Cauldron II.
+At some point in time, a Crash magazine reviewer commented that the gameplay of Cauldron II offered more than its predecessor's.
+At some point in time, a Crash magazine reviewer described Cauldron II as difficult.
+At some point in time, a Crash magazine reviewer felt that the sense of accomplishment gained from successful completion outweighed the negative aspect.
+At some point in time, Computer Gamer's reviewer criticized the bouncing gameplay of Cauldron II.
+At some point in time, Computer Gamer's reviewer cited unpredictable reactions and difficulty in navigating around tough enemies.
+At some point in time, Rich Pelley and Jon Pillar of Your Sinclair echoed similar comments about the gameplay.
+At some point in time, Retro Gamer writer Craig Grannell described the game's difficulty as the "only real criticism."
+At some point in time, the ZX Computing reviewer criticized the bouncing aspect of Cauldron II.
+At some point in time, the ZX Computing reviewer praised the overall game design of Cauldron II as enjoyable.
+At some point in time, Phil King, another Crash reviewer, praised the Silverbird re-release of Cauldron II.
+At some point in time, Phil King called the graphics of Cauldron II "colorful."
+At some point in time, Phil King called the graphics of Cauldron II "well-animated."
+At some point in time, Phil King felt that Cauldron II was of good value despite an excessive difficulty.
+At some point in time, the commercial success of the two Cauldron games prompted Palace to give Steve Brown more creative freedom for his following project.
+At some point in time, Steve Brown's following project is Barbarian: The Ultimate Warrior.
