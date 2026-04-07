@@ -9,6 +9,18 @@ from dotenv import dotenv_values
 from src.claim_extraction.config import DOTENV_PATH, ExtractionConfig
 
 
+def _sanitize_for_json(value: str) -> str:
+    """Normalize text so it can always be serialized to strict JSON safely."""
+    # Replace invalid/unpaired Unicode sequences with a safe placeholder.
+    clean = value.encode("utf-8", errors="replace").decode("utf-8")
+
+    # Strip control characters that can break downstream JSON parsers.
+    return "".join(
+        ch if ch in ("\n", "\r", "\t") or ord(ch) >= 32 else " "
+        for ch in clean
+    )
+
+
 def call_remote_llm(prompt: str, config: ExtractionConfig) -> str:
     """Call a remote OpenAI-compatible Chat Completions endpoint."""
     api_key = config.remote_api_key or dotenv_values(DOTENV_PATH).get("OPENAI_API_KEY")
@@ -21,7 +33,7 @@ def call_remote_llm(prompt: str, config: ExtractionConfig) -> str:
 
     payload = {
         "model": config.model_name,
-        "messages": [{"role": "user", "content": prompt}],
+        "messages": [{"role": "user", "content": _sanitize_for_json(prompt)}],
         "temperature": config.temperature,
         "max_tokens": config.max_new_tokens,
     }
@@ -35,7 +47,7 @@ def call_remote_llm(prompt: str, config: ExtractionConfig) -> str:
 
     request = urllib.request.Request(
         remote_url,
-        data=json.dumps(payload).encode("utf-8"),
+        data=json.dumps(payload, ensure_ascii=False, allow_nan=False).encode("utf-8"),
         headers=headers,
         method="POST",
     )
