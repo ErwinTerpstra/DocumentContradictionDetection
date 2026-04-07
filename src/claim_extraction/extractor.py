@@ -12,7 +12,11 @@ except Exception:
 from src.claim_extraction.backends.local import call_local_llm
 from src.claim_extraction.backends.remote import call_remote_llm
 from src.claim_extraction.config import ExtractionConfig, LOCAL_DEFAULT_MAX_NEW_TOKENS, REMOTE_DEFAULT_MAX_NEW_TOKENS
-from src.claim_extraction.prompts import DIRECT_CLAIM_PROMPT_TEMPLATE, REPAIR_ONE_LINER_PROMPT_TEMPLATE
+from src.claim_extraction.prompts import (
+    DIRECT_CLAIM_PROMPT_TEMPLATE,
+    REPAIR_ONE_LINER_PROMPT_TEMPLATE,
+    TEMPORAL_NORMALIZATION_ONLY_PROMPT_TEMPLATE,
+)
 
 
 def _log(message: str, verbose: bool) -> None:
@@ -46,10 +50,36 @@ def _normalize_claims(claims: List[str]) -> List[str]:
     return normalized
 
 
+def _normalize_claims_keep_order(claims: List[str]) -> List[str]:
+    """Normalize claims while preserving order and duplicates."""
+    normalized: List[str] = []
+
+    for claim in claims:
+        text = str(claim).strip()
+        if not text:
+            continue
+
+        # Remove bullet/numbering prefixes often produced by LLMs.
+        text = re.sub(r"^[-*]\s+", "", text)
+        text = re.sub(r"^\d+[.)]\s+", "", text)
+        text = text.strip()
+
+        if text:
+            normalized.append(text)
+
+    return normalized
+
+
 def _claims_from_response(response: str) -> List[str]:
     """Convert raw LLM output into a list of claim lines."""
     lines = response.splitlines()
     return _normalize_claims(lines)
+
+
+def _claims_from_response_keep_order(response: str) -> List[str]:
+    """Convert raw LLM output into claim lines while preserving duplicates."""
+    lines = response.splitlines()
+    return _normalize_claims_keep_order(lines)
 
 
 def _call_llm(prompt: str, config: ExtractionConfig) -> str:
@@ -193,3 +223,82 @@ def extract_claims(
 
     _log(f"Extracted {len(claims)} claims.", config.verbose)
     return claims
+
+
+def apply_temporal_corrections(
+    claims: List[str],
+    model_name: str,
+    backend: str = "local",
+    temperature: float = 0.0,
+    max_new_tokens: Optional[int] = None,
+    remote_url: Optional[str] = None,
+    remote_api_key: Optional[str] = None,
+    remote_headers: Optional[Dict[str, str]] = None,
+    remote_timeout: float = 120.0,
+    verbose: bool = True,
+) -> List[str]:
+    """Apply temporal normalization rules to already extracted claims.
+
+    This function keeps claim order and count stable where possible and only
+    applies the temporal correction pass.
+    """
+    if not isinstance(claims, list):
+        raise ValueError("'claims' must be a list of strings.")
+    if not claims:
+        return []
+    if any(not isinstance(claim, str) for claim in claims):
+        raise ValueError("All items in 'claims' must be strings.")
+    if not isinstance(model_name, str) or not model_name.strip():
+        raise ValueError("'model_name' must be a non-empty string.")
+    if backend not in ("local", "remote"):
+        raise ValueError(f"'backend' must be 'local' or 'remote', got '{backend}'.")
+
+    input_claims = _normalize_claims_keep_order(claims)
+    if not input_claims:
+        return []
+
+    resolved_max_new_tokens = max_new_tokens
+    if resolved_max_new_tokens is None:
+        resolved_max_new_tokens = (
+            REMOTE_DEFAULT_MAX_NEW_TOKENS
+            if backend == "remote"
+            else LOCAL_DEFAULT_MAX_NEW_TOKENS
+        )
+
+    config = ExtractionConfig(
+        model_name=model_name,
+        backend=backend,
+        temperature=temperature,
+        max_new_tokens=resolved_max_new_tokens,
+        use_claimify=False,
+        remote_url=remote_url,
+        remote_api_key=remote_api_key,
+        remote_headers=remote_headers,
+        remote_timeout=remote_timeout,
+        verbose=verbose,
+    )
+
+    _log(
+        (
+            "Starting temporal correction pass | "
+            f"backend={config.backend} | model={config.model_name} | claims={len(input_claims)}"
+        ),
+        config.verbose,
+    )
+
+    prompt = TEMPORAL_NORMALIZATION_ONLY_PROMPT_TEMPLATE.format(text="\n".join(input_claims))
+    response = _call_llm(prompt, config)
+    corrected_claims = _claims_from_response_keep_order(response)
+
+    if len(corrected_claims) != len(input_claims):
+        _log(
+            (
+                "Temporal correction returned a different claim count "
+                f"(in={len(input_claims)}, out={len(corrected_claims)}); returning original claims."
+            ),
+            config.verbose,
+        )
+        return input_claims
+
+    _log(f"Temporal correction completed for {len(corrected_claims)} claims.", config.verbose)
+    return corrected_claims
