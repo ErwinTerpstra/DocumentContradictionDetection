@@ -1,0 +1,78 @@
+At some point in time, the Fastra II is a desktop supercomputer designed for tomography.
+At some point in time, the Fastra II was built in late 2009.
+At some point in time, the Fastra II was built by the ASTRA group of researchers of the IBBT VisionLab at the University of Antwerp.
+At some point in time, the Fastra II was built by Belgian computer shop Tones.
+At some point in time, the Fastra II was built in collaboration with Asus.
+At some point in time, Asus is a Taiwanese multinational computer product manufacturer.
+At some point in time, the Fastra II is the successor to the Fastra I.
+At some point in time, the Fastra I was built in 2008.
+At some point in time, the Fastra II is over three times faster than the Fastra I.
+At some point in time, the Fastra I is slightly faster than a 512-core cluster.
+At some point in time, the Fastra II initially suffered from several issues.
+At some point in time, the issues included the system refusing to reboot.
+At some point in time, the issues included overheating due to a lack of space between the video cards.
+At some point in time, the Fastra II was built as a researching and demonstration project.
+At some point in time, Joost Batenburg is one of the researchers in the ASTRA group.
+At some point in time, the Fastra II only uses consumer hardware.
+At some point in time, the total cost of the Fastra II is €6,000.
+At some point in time, the Fastra I has 4 dual-GPU GeForce 9800 GX2 video cards.
+At some point in time, the total number of GPUs in the Fastra I is 8.
+At some point in time, the ASTRA group needed a motherboard with four PCI Express x16 slots with double-spacing between each slot.
+At some point in time, the only motherboard the ASTRA group could find at that time was the MSI K9A2 Platinum.
+At some point in time, the MSI K9A2 Platinum has four PCI Express x16 slots.
+At some point in time, the Asus P6T7 WS Supercomputer motherboard was released in 2009.
+At some point in time, the Asus P6T7 WS Supercomputer motherboard has seven PCI Express x16 slots.
+At some point in time, the Fastra II has six dual-GPU GeForce GTX 295 video cards.
+At some point in time, the Fastra II has a single-GPU GeForce GTX 275.
+At some point in time, the total number of GPUs in the Fastra II is 13.
+At some point in time, the GPUs in the Fastra II mainly perform tomographic reconstruction.
+At some point in time, the technique that allows GPUs to perform general-purpose tasks outside of gaming is called GPGPU.
+At some point in time, overheating caused by the lack of space between the video cards forces researchers to keep the side panel door open.
+At some point in time, keeping the side panel door open allows the video cards to get regular air.
+At some point in time, keeping the side panel door open decreases the overall temperature inside the case.
+At some point in time, the initial boot of the Fastra II was unsuccessful due to the number of GPUs in the system.
+At some point in time, the motherboard of the Fastra II uses a 32-bit BIOS.
+At some point in time, the 32-bit BIOS has approximately 3 GB of address space for the video cards.
+At some point in time, Asus provided a specialized BIOS that skipped the address space allocation of the GTX 295 video cards.
+At some point in time, the BIOS-replacement coreboot was not tested.
+At some point in time, all seven PCI Express x16 slots in the Asus P6T7 motherboard were used in building the Fastra II.
+At some point in time, the video cards in the Fastra II require two PCI Express x16 slots each.
+At some point in time, the researchers developed flexible PCI Express cables.
+At some point in time, Tones developed a custom cage that allowed the video cards to suspend over the motherboard.
+At some point in time, the Fastra II uses a Lian Li PC-P80 Armorsuit case.
+At some point in time, the Lian Li PC-P80 Armorsuit case has 10 expansion slots.
+At some point in time, the motherboard in the Fastra II was the only workstation motherboard with seven full-sized PCI Express x16 slots at that time.
+At some point in time, the memory modules in the Fastra II were initially six 2 GB modules.
+At some point in time, the memory modules in the Fastra II were later upgraded to 4 GB each.
+At some point in time, the total memory in the Fastra II is 24 GB.
+At some point in time, the single-GPU GTX 275 is in the Fastra II because it is the only video card that the Fastra II's BIOS can fully initialize.
+At some point in time, the total amount of GPUs in the Fastra II is 13.
+At some point in time, the video cards in the Fastra II together bring 12 teraflops of computing power.
+At some point in time, four of the six GTX 295 video cards have 2 PCBs.
+At some point in time, the other two GTX 295 video cards have only 1 PCB.
+At some point in time, the Fastra II is faster and more power efficient than its competitors.
+At some point in time, the competitors of the Fastra II include the Fastra I and the Tesla C1060 video card.
+At some point in time, the benchmarks were performed on the Fastra II.
+At some point in time, the benchmarks were performed on the Fastra I.
+At some point in time, the benchmarks were performed on a 512-core cluster consisting of Opteron CPUs.
+At some point in time, the benchmarks were performed on an Nvidia Tesla C1060 workstation card on an Intel Core i7 940 CPU.
+At some point in time, the benchmarks were performed on an Intel Core i7 940 CPU itself.
+At some point in time, the Fastra II is over three times faster than the Fastra I in CT slice reconstruction speed.
+At some point in time, the Fastra II consumes more power than the Fastra I.
+At some point in time, the Fastra II is nearly 3 times as energy efficient as the Fastra I.
+At some point in time, the Fastra II is over 300 times as energy efficient as the 512-core cluster.
+At some point in time, the video cards in the Fastra II run at 37 degrees Celsius when idle.
+At some point in time, the video cards in the Fastra II run at 60 degrees Celsius at full load.
+At some point in time, the operating system of the Fastra II is CentOS.
+At some point in time, CentOS is a community-driven Linux distribution and Red Hat Enterprise Linux clone.
+At some point in time, the Fastra II received a negative public impression.
+At some point in time, Techie.com called the Fastra II the "world's most powerful desktop-sized supercomputer."
+At some point in time, Techie.com described the Fastra II as a computer with "so much power in such a small space."
+At some point in time, iTech News Net called the Fastra II "the Most Powerful Desktop Supercomputer."
+At some point in time, the Fastra II relies on Nvidia's Scalable Link Interface (SLI).
+At some point in time, the Fastra II is limited by the number of GPUs supported by Nvidia's SLI.
+At some point in time, the Fastra II is limited by the vendor's free and open-source device drivers.
+At some point in time, the motherboard of the Fastra II is designed for workstations.
+At some point in time, the Fastra II is mainly used in hospitals for medical imaging.
+At some point in time, it remains to be seen whether another Fastra featuring NVLink will be built.
+At some point in time, the NVLink is first available with Pascal-based GPUs.

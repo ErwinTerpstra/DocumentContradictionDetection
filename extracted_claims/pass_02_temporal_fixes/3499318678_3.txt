@@ -1,0 +1,87 @@
+At some point in time, constant k filters are a type of electronic filter designed using the image method.
+At some point in time, constant k filters are also known as k-type filters.
+At some point in time, constant k filters are the original and simplest filters produced by the image method.
+At some point in time, constant k filters consist of a ladder network of identical sections of passive components.
+At some point in time, constant k filters are historically the first filters that could approach the ideal filter frequency response to within any prescribed limit.
+At some point in time, a sufficient number of sections must be added to constant k filters to achieve the desired frequency response.
+At some point in time, constant k filters are rarely considered for modern design.
+At some point in time, the principles behind constant k filters have been superseded by other methodologies.
+At some point in time, other methodologies are more accurate in predicting filter response than constant k filters.
+At some point in time, constant k filters were invented by George Campbell.
+At some point in time, George Campbell published his work on constant k filters in 1922.
+At some point in time, George Campbell invented constant k filters some time before 1922.
+At some point in time, Otto Zobel was a colleague of George Campbell at AT&T Co.
+At some point in time, Otto Zobel was already making improvements to the design of constant k filters in 1922.
+At some point in time, George Campbell's filters were far superior to the simpler single element circuits used previously.
+At some point in time, George Campbell called his filters electric wave filters.
+At some point in time, the term electric wave filters later came to mean any filter that passes waves of some frequencies but not others.
+George Campbell's filters were not superior to the simpler single element circuits used previously.
+At some point in time, many new forms of wave filters were subsequently invented.
+At some point in time, an early and important variation of wave filters was the m-derived filter invented by Otto Zobel.
+At some point in time, Otto Zobel coined the term constant k for the Campbell filter to distinguish them.
+At some point in time, the great advantage of George Campbell's filters over the RL circuit and other simple filters was that they could be designed for any desired degree of stop band rejection.
+At some point in time, the great advantage of George Campbell's filters over the RL circuit and other simple filters was that they could be designed for any desired steepness of transition between pass band and stop band.
+At some point in time, it was only necessary to add more filter sections until the desired response was obtained for George Campbell's filters.
+At some point in time, George Campbell designed constant k filters for the purpose of separating multiplexed telephone channels on transmission lines.
+At some point in time, the subsequent use of constant k filters has been much more widespread than their original purpose.
+At some point in time, the design techniques used by George Campbell have largely been superseded.
+At some point in time, the ladder topology used by George Campbell with the constant k is still in use today.
+At some point in time, modern filter designs such as the Tchebyscheff filter implement the ladder topology used by George Campbell.
+At some point in time, George Campbell provided constant k designs for low-pass filters.
+At some point in time, George Campbell provided constant k designs for high-pass filters.
+At some point in time, George Campbell provided constant k designs for band-pass filters.
+At some point in time, band-stop filters are also possible with constant k designs.
+At some point in time, multiple band filters are also possible with constant k designs.
+At some point in time, some impedance terms and section terms are used in the article.
+At some point in time, image theory defines quantities in terms of an infinite cascade of two-port sections.
+At some point in time, in the case of the filters being discussed, image theory defines quantities in terms of an infinite ladder network of L-sections.
+At some point in time, "L" in electronic filter topology refers to the specific filter shape resembling an inverted letter "L".
+At some point in time, the sections of the hypothetical infinite filter are made of series elements having impedance 2Z.
+At some point in time, the sections of the hypothetical infinite filter are made of shunt elements with admittance 2Y.
+At some point in time, the factor of two is introduced for mathematical convenience in the sections of the hypothetical infinite filter.
+At some point in time, it is usual to work in terms of half-sections where the factor of two disappears.
+At some point in time, the image impedance of the input and output port of a section will generally not be the same.
+At some point in time, a mid-series section will have the same image impedance on both ports due to symmetry.
+At some point in time, the image impedance of a mid-series section is designated ZiT.
+At some point in time, the "T" topology designates the image impedance of a mid-series section.
+At some point in time, the image impedance of a mid-shunt section is designated ZiΠ.
+At some point in time, the "Π" topology designates the image impedance of a mid-shunt section.
+At some point in time, half of a "T" or "Π" section is called a half-section.
+At some point in time, a half-section is also an L-section but with half the element values of the full L-section.
+At some point in time, the image impedance of the half-section is dissimilar on the input and output ports.
+At some point in time, on the side presenting the series element of a half-section, the image impedance is equal to the mid-series ZiT.
+At some point in time, on the side presenting the shunt element of a half-section, the image impedance is equal to the mid-shunt ZiΠ.
+At some point in time, there are two variant ways of using a half-section.
+At some point in time, parts of the article rely on the reader's knowledge of the complex impedance representation of capacitors.
+At some point in time, parts of the article rely on the reader's knowledge of the complex impedance representation of inductors.
+At some point in time, parts of the article rely on the reader's knowledge of the frequency domain representation of signals.
+At some point in time, the building block of constant k filters is the half-section "L" network.
+At some point in time, the half-section "L" network is composed of a series impedance Z.
+At some point in time, the half-section "L" network is composed of a shunt admittance Y.
+At some point in time, the "k" in "constant k" is the value given by a specific formula.
+At some point in time, the value of k will have units of impedance, specifically ohms.
+At some point in time, in order for k to be constant, Y must be the dual impedance of Z.
+At some point in time, a physical interpretation of k can be given by observing that k is the limiting value of Zi as the size of the section approaches zero.
+At some point in time, the size of the section is measured in terms of values of its components, such as inductances and capacitances.
+At some point in time, keeping k at its initial value is necessary while the size of the section approaches zero.
+At some point in time, k is the characteristic impedance, Z0, of the transmission line formed by infinitesimally small sections.
+At some point in time, k is also the image impedance of the section at resonance in the case of band-pass filters.
+At some point in time, k is the image impedance of the section at ω = 0 in the case of low-pass filters.
+At some point in time, the pictured low-pass half-section has a specific value given by a formula.
+At some point in time, elements L and C can be made arbitrarily small while retaining the same value of k.
+At some point in time, Z and Y are both approaching zero in the context of constant k filters.
+At some point in time, the image impedances of the section are given by specific formulas.
+At some point in time, the filter does not contain any resistive elements.
+At some point in time, the image impedance in the pass band of the filter is purely real.
+At some point in time, the image impedance in the stop band of the filter is purely imaginary.
+At some point in time, the transition occurs at a cut-off frequency given by a specific formula.
+At some point in time, below the cut-off frequency, the image impedance is real.
+At some point in time, above the cut-off frequency, the image impedance is imaginary.
+At some point in time, the transmission parameters for a general constant k half-section are given by specific formulas.
+At some point in time, the transmission parameters for a chain of n half-sections are given by specific formulas.
+At some point in time, for the low-pass L-shape section, below the cut-off frequency, the transmission parameters are given by specific formulas.
+At some point in time, the transmission is lossless in the pass-band of the low-pass L-shape section.
+At some point in time, only the phase of the signal changes in the pass-band of the low-pass L-shape section.
+At some point in time, above the cut-off frequency, the transmission parameters are given by specific formulas.
+At some point in time, the presented plots of image impedance, attenuation, and phase change correspond to a low-pass prototype filter section.
+At some point in time, the prototype has a cut-off frequency of ωc.
