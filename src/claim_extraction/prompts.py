@@ -16,26 +16,6 @@ Output format rules (strictly enforced):
 7) NO INTRO OR OUTRO: Do not write any introductory or closing sentence (e.g. do not start with "Here are the claims:").
 8) NO BULLETS OR NUMBERS: Do not use bullet points (-, *) or numbering (1., 2.) — plain text only.
 9) NO BLANK LINES: Do not insert empty lines between claims.
-10) TEMPORAL NORMALIZATION (MANDATORY):
-Unless the text explicitly states a universal or timeless fact, prefix each claim with:
-"At some point in time, ..."
-
-This signals that events may occur at different moments and should not be assumed to happen simultaneously.
-
-11) EXCEPTIONS FOR ABSOLUTE STATEMENTS:
-Do NOT use "At some point in time" for claims that express:
-- absolute negation (e.g., "never", "cannot", "no longer")
-- universal truths (e.g., "always", "all", "every")
-
-Keep these claims as-is, since they imply strong logical constraints.
-
-12) PRESERVE EVENT DISTINCTNESS:
-Do NOT attempt to merge, compare, or resolve relationships between claims.
-Even if multiple claims involve the same entity, treat them as independent events that may occur at different times.
-
-13) NO TEMPORAL INTERPRETATION:
-Do NOT infer or introduce specific ordering (e.g., "before", "after") unless it is explicitly stated in the text.
-Only apply the generic "At some point in time" normalization.
 
 Text:
 {text}
