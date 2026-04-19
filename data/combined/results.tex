@@ -1,0 +1,17 @@
+\begin{table*}
+\caption{Contradiction detection performance}
+\label{tab:all_results}
+\begin{tabular}{lllllllll}
+\toprule
+ & Segmentation & Clustering & F1 Score & Accuracy & Precision & Recall & ROC AUC & PR AUC \\
+Experiment &  &  &  &  &  &  &  &  \\
+\midrule
+\cite{li2024contradocunderstandingselfcontradictionsdocuments} (binary classification, LLaMAv2) & - & - & 0.437 & 0.505 & 0.510 & 0.383 & - & - \\
+Per-sentence NLI (baseline) & Sentences & None & 0.366 & 0.533 & 0.580 & 0.267 & 0.553 & 0.555 \\
+Sentence-level k-NN clustering & Sentences & k-NN & \textbf{0.649} & \textbf{0.603} & \textbf{0.586} & 0.728 & 0.643 & 0.645 \\
+Pair-wise sentence windows & Sentences & NN & \textbf{0.649} & 0.593 & 0.575 & 0.746 & \textbf{0.670} & \textbf{0.683} \\
+Claims-level k-NN clustering & Claims & k-NN & 0.634 & 0.540 & 0.531 & \textbf{0.788} & 0.575 & 0.563 \\
+Claims-level k-NN clustering (+temporal fix) & Claims & k-NN & 0.576 & 0.548 & 0.546 & 0.609 & 0.578 & 0.572 \\
+\bottomrule
+\end{tabular}
+\end{table*}
